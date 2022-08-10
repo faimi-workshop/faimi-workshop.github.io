@@ -1,7 +1,7 @@
 
 # miccai-faimi.github.io
 
-Website of MICCAI-FAIMI. Content is held in `2022/index.md` and `_layouts/default.html`.
+Website of FAIMI-Workshop. Content is held in `2022/index.md` and `_layouts/default.html`.
 
 To run locally at localhost:4000, install ruby (2.5+) and jekyll (https://jekyllrb.com/), then run the following:
 
