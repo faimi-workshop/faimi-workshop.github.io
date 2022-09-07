@@ -9,7 +9,7 @@ redirect_from: /2022/
 
 ### TL;DR
 
- - Fairness+Medical Imaging based speakers, extended abstracts/posters, and discussion.  
+ - Fairness+Medical Imaging based speakers, and discussion.  
  - October 5th, 2022
 
 ### Aim and Scope
@@ -35,16 +35,16 @@ All times GMT
 
  | Time | Speaker | Title |
  |------|---------|-------|
- | 1400 | Commitee | Welcome |
- | 1430 | Karim Dekadir | Future AI Guidelines |
- | 1500 | Haoran Zhang | TBD |
- | ---- | ---- | ---- |
- | 1530 | --- | Coffee Break/Chat |
- | 1550 | Ira Ktena | Fairness in NeuroImaging Studies |
- | 1620 | TBD  | TBD |
- | 1650 | Esther Puyol | TBD |
+ | 1200 | Commitee | Welcome |
+ | 1230 | Karim Dekadir | Future AI Guidelines |
+ | 1300 | Haoran Zhang | Group Fairness in Chest X-ray Diagnosis: Helpful or Harmful? |
+ | 1330 | --- | Coffee Break/Chat |
+ | 1350 | Ira Ktena | Fairness in NeuroImaging Studies |
+ | 1420 | Qingyu Zhou  | Confounder-aware Deep Learning Models for Neuroimaging Applications |
+ | 1450 | TBD | TBD |
 
 ### Invited Speakers
+
 
 
 
