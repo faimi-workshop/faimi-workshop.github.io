@@ -27,17 +27,26 @@ Alongside invited lectures, we also invite the submission of extended abstracts 
  - Causality and fairness in medical imaging
  - Interplay of algorithmic and dataset bias 
 
-%Accepted abstracts are non-archival, and thus ongoing or already published work is also welcome.
 
-%### News & Important Dates
 
 ### Schedule
 
+All times GMT
 
+ | Time | Speaker | Title |
+ |------|---------|-------|
+ | 1400 | Commitee | Welcome |
+ | 1430 | Karim Dekadir | Future AI Guidelines |
+ | 1500 | Haoran Zhang | TBD |
+ | ---- | ---- | ---- |
+ | 1530 | --- | Coffee Break/Chat |
+ | 1550 | Ira Ktena | Fairness in NeuroImaging Studies |
+ | 1620 | TBD  | TBD |
+ | 1650 | Esther Puyol | TBD |
 
 ### Invited Speakers
 
-TBD
+
 
 ### Organizers
 

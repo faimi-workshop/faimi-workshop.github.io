@@ -1,9 +1,9 @@
-title: MICCAI-FAIMI
+title: FAIMI Workshop
 email: dmoyer@csail.mit.edu
 author: Aasa Feragen, Andrew King, Ben Glocker, Daniel Moyer, Enzo Ferrante, Eike Petersen, Melanie Ganz-Benjaminsen, Veronika Cheplygina
 baseurl: ""
 description: >- # this means to ignore newlines until "lsi:"
-  Website for the MICCAI Fairness of AI in Medical Imaging Tutorial
+  Website for the Fairness of AI in Medical Imaging Workshop
 
 #lsi: false
 safe: true

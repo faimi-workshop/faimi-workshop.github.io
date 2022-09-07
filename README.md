@@ -1,5 +1,5 @@
 
-# miccai-faimi.github.io
+# faimi-workshop.github.io
 
 Website of FAIMI-Workshop. Content is held in `2022/index.md` and `_layouts/default.html`.
 
