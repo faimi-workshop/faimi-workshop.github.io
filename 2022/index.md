@@ -10,7 +10,7 @@ redirect_from: /2022/
 ### TL;DR
 
  - Fairness+Medical Imaging based speakers, extended abstracts/posters, and discussion.  
- - Abstract Deadline TBD  
+ - October 5th, 2022
 
 ### Aim and Scope
 
@@ -27,13 +27,13 @@ Alongside invited lectures, we also invite the submission of extended abstracts 
  - Causality and fairness in medical imaging
  - Interplay of algorithmic and dataset bias 
 
-Accepted abstracts are non-archival, and thus ongoing or already published work is also welcome.
+%Accepted abstracts are non-archival, and thus ongoing or already published work is also welcome.
 
-### News & Important Dates
+%### News & Important Dates
 
 ### Schedule
 
-TBD
+
 
 ### Invited Speakers
 
