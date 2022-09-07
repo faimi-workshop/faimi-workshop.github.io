@@ -43,7 +43,7 @@ All times GMT
  | 1420 | Qingyu Zhou  | Confounder-aware Deep Learning Models for Neuroimaging Applications |
  | 1450 | TBD | TBD |
 
-### Invited Speakers
+### Speaker Bios
 
 
 
