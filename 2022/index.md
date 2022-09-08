@@ -26,7 +26,7 @@ All times GMT
  | 1230 | Karim Dekadir | Future AI Guidelines |
  | 1300 | Haoran Zhang | Group Fairness in Chest X-ray Diagnosis: Helpful or Harmful? |
  | 1330 | --- | Coffee Break/Chat |
- | 1350 | Ira Ktena | Fairness in NeuroImaging Studies |
+ | 1350 | TBD | TBD |
  | 1420 | Qingyu Zhou  | Confounder-aware Deep Learning Models for Neuroimaging Applications |
  | 1450 | TBD | TBD |
 
