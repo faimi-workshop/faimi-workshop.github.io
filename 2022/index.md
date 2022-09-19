@@ -13,7 +13,9 @@ redirect_from: /2022/
  - October 5th, 2022, held online
  - Free! 
 
-Registration link [here](https://forms.gle/sA1vzcLbn6zqnSMMA)! We will
+## Registration
+
+Please register [at this link](https://forms.gle/sA1vzcLbn6zqnSMMA)! We will
 provide video links to the email you provide in the registration.
 
 ## Aim and Scope
@@ -27,12 +29,13 @@ All times GMT
  | Time | Speaker | Title |
  |------|---------|-------|
  | 1200 | Commitee | Welcome |
- | 1230 | Karim Lekadir | Future AI Guidelines |
+ | 1230 | Karim Lekadir | FUTURE-AI: Guiding Principles and Consensus Recommendations for Trustworthy Artificial Intelligence in Medical Imaging |
  | 1300 | Haoran Zhang | Group Fairness in Chest X-ray Diagnosis: Helpful or Harmful? |
  | 1330 | --- | Coffee Break/Chat |
  | 1350 | Esther Puyol | Fairness in Cardiac Magnetic Resonance Imaging: Assessing Sex and Racial Bias in Deep Learning-Based Segmentation |
  | 1420 | Qingyu Zhou  | Confounder-aware Deep Learning Models for Neuroimaging Applications |
  | 1450 | Ira Ktena | Exploring fairness in the transductive setting for neuroimaging studies |
+ | 1520 | --- | Panel Discussion |
 
 ## Speaker Bios
 
