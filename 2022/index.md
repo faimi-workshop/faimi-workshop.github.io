@@ -33,7 +33,7 @@ All times GMT
  | 1300 | Haoran Zhang | Group Fairness in Chest X-ray Diagnosis: Helpful or Harmful? |
  | 1330 | --- | Coffee Break/Chat |
  | 1350 | Esther Puyol | Fairness in Cardiac Magnetic Resonance Imaging: Assessing Sex and Racial Bias in Deep Learning-Based Segmentation |
- | 1420 | Qingyu Zhou  | Confounder-aware Deep Learning Models for Neuroimaging Applications |
+ | 1420 | Qingyu Zhao  | Confounder-aware Deep Learning Models for Neuroimaging Applications |
  | 1450 | Ira Ktena | Exploring fairness in the transductive setting for neuroimaging studies |
  | 1520 | --- | Panel Discussion |
 
@@ -50,8 +50,8 @@ All times GMT
 ### Esther Puyol
 ![Esther Puyol](/assets/EP.jpg){: width="150" style="float: left;padding: 10px"} Dr. Esther Puyol completed her PhD in the Biomedical Engineering department at King’s College London in 2018. From 2018 to 2022 did a postdoc at King’s College London, where she developed novel deep learning models for automated analysis of cardiac imaging and investigated the bias effect of using imbalanced medical imaging databases for training segmentation models. Currently, she is working in HeartFlow as a research scientist. 
 
-### Qingyu Zhou
-![Qingyu Zhou](/assets/QZ.png){: width="150" style="float: left;padding: 10px"} Dr. Qingyu Zhao is an instructor in the Department of Psychiatry and Behavioral Sciences at Stanford University. He obtained his Ph.D. in computer science in 2017 from the University of North Carolina at Chapel Hill and was a postdoc and research scientist in the Stanford Psychiatry department. His research has been focusing on identifying biomedical phenotypes associated with neuropsychiatric disorders by statistical and machine-learning-based computational analysis of neuroimaging and neuropsychological data. Dr. Zhao is a recipient of the K99/R00 Pathway to Independence Award from the National Institute on Alcohol Abuse and Alcoholism.
+### Qingyu Zhao
+![Qingyu Zhao](/assets/QZ.png){: width="150" style="float: left;padding: 10px"} Dr. Qingyu Zhao is an instructor in the Department of Psychiatry and Behavioral Sciences at Stanford University. He obtained his Ph.D. in computer science in 2017 from the University of North Carolina at Chapel Hill and was a postdoc and research scientist in the Stanford Psychiatry department. His research has been focusing on identifying biomedical phenotypes associated with neuropsychiatric disorders by statistical and machine-learning-based computational analysis of neuroimaging and neuropsychological data. Dr. Zhao is a recipient of the K99/R00 Pathway to Independence Award from the National Institute on Alcohol Abuse and Alcoholism.
 
 ### Ira Ktena
 ![Ira Ktena](/assets/IK.jpg){: width="150" style="float: left;padding: 10px"} Dr. Ira Ktena is a Senior Researcher at DeepMind working on Deep Learning research for Life Sciences. Previously, she was a Machine Learning Researcher at Twitter, where she carried out research at the intersection of recommender systems and algorithmic transparency. Her exploration on algorithmic amplification of political content on Twitter published at PNAS was featured by the Economist and the BBC, among others. She completed a PhD in Medical Image Computing at Imperial College London with Professor Daniel Rueckert and her research focused on developing methods for modelling and analysing graph-structured neuroimaging data at an individual or population level using traditional graph theoretical approaches and geometric deep learning. During her PhD, Ira visited the Stroke Group in Massachusetts General Hospital, Harvard Medical School where she worked with Professor Natalia Rost supported by an EMBO Short-Term Fellowship.
