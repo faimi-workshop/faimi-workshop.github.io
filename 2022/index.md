@@ -20,7 +20,7 @@ provide video links to the email you provide in the registration.
 
 ## Aim and Scope
 
-Research in Fairness, Equity, and Accountability in ML has highlighted biases in learned systems between demographic groups, potentially adding risk to outcomes for specific sub-populations. Recent work has uncovered these risks in both MIC and CAI application domains. Our tutorial aims to host a vibrant discussion of recent and ongoing work in Fairness/+ in Medical Imaging in a half-day tutorial.
+Research in Fairness, Equity, and Accountability in Machine Learning has highlighted biases in learned systems between demographic groups, potentially adding risk to outcomes for specific sub-populations. Recent work has uncovered these risks in both Medical Image Computing (MIC) and Computed Assisted Intervention (CAI) application domains. Our workshop aims to host a vibrant discussion of recent and ongoing work in Fairness/+ in Medical Imaging in a half-day fully virtual workshop.
 
 ## Schedule
 
