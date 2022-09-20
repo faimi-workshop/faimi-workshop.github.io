@@ -28,7 +28,7 @@ All times GMT
 
  | Time | Speaker | Title |
  |------|---------|-------|
- | 1200 | Commitee | Welcome |
+ | 1200 | Commitee | Welcome + Introduction to Fairness of AI in Medical Imaging|
  | 1230 | Karim Lekadir | FUTURE-AI: Guiding Principles and Consensus Recommendations for Trustworthy Artificial Intelligence in Medical Imaging |
  | 1300 | Haoran Zhang | Group Fairness in Chest X-ray Diagnosis: Helpful or Harmful? |
  | 1330 | --- | Coffee Break/Chat |
