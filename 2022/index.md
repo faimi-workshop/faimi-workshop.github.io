@@ -1,6 +1,6 @@
 ---
 title: Fairness of AI in Medical Imaging Workshop
-description: "October 2022"
+description: "October 5th, 2022"
 
 permalink: /2022/index.html
 weight: -1
@@ -9,7 +9,7 @@ redirect_from: /2022/
 
 ## TL;DR
 
- - Fairness+Medical Imaging based speakers, and discussion.  
+ - Fairness+Medical Imaging based speakers and discussion.  
  - October 5th, 2022, held online
  - Free! 
 
