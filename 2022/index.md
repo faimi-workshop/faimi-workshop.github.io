@@ -40,7 +40,7 @@ All times GMT
 ## Speaker Bios
 
 ### Karim Lekadir (Universitat Pompeu Fabra)
-![Karim Lekadir](/assets/KL.jpg){: width="150"  style="float: left;padding: 10px"} Dr. Karim Lekadir is a Ramon y Cajal senior researcher at the BCN-MedTech Centre of the Universitat Pompeu Fabra, Barcelona. He received a PhD in Computing from Imperial College London and was a postdoctoral researcher at Stanford University. His current research focuses on the development of data science and machine learning approaches for the analysis of large-scale biomedical data. He is the Project Coordinator of the recently funded euCanSHare H2020 project (2018-2022), leading a consortium of 16 institutions to address data sharing and big data approaches in cardiovascular personalised medicine.  
+![Karim Lekadir](/assets/KL_2.jpg){: width="150"  style="float: left;padding: 10px"} Dr. Karim Lekadir is a Ramon y Cajal senior researcher at the BCN-MedTech Centre of the Universitat Pompeu Fabra, Barcelona. He received a PhD in Computing from Imperial College London and was a postdoctoral researcher at Stanford University. His current research focuses on the development of data science and machine learning approaches for the analysis of large-scale biomedical data. He is the Project Coordinator of the recently funded euCanSHare H2020 project (2018-2022), leading a consortium of 16 institutions to address data sharing and big data approaches in cardiovascular personalised medicine.  
 
 
 ### Haoran Zhang (CSAIL, MIT)
