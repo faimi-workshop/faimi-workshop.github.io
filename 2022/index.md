@@ -12,6 +12,7 @@ redirect_from: /2022/
  - Fairness+Medical Imaging based speakers and discussion.  
  - October 5th, 2022, held online
  - Free! 
+ - [Recordings of all talks](https://www.youtube.com/playlist?list=PLgwux8eqIFKdWYJTgeoCU4vZ0s6GZtc6e) are now available.
 
 ## Registration
 
@@ -28,14 +29,14 @@ All times GMT
 
  | Time | Speaker | Title |
  |------|---------|-------|
- | 1200 | Commitee | Welcome + Introduction to Fairness of AI in Medical Imaging|
- | 1230 | Karim Lekadir | FUTURE-AI: Guiding Principles and Consensus Recommendations for Trustworthy Artificial Intelligence in Medical Imaging |
- | 1300 | Haoran Zhang | Group Fairness in Chest X-ray Diagnosis: Helpful or Harmful? |
+ | 1200 | Commitee | Welcome + Introduction to Fairness of AI in Medical Imaging [(Recording)](https://www.youtube.com/watch?v=nDxLXlSTUBM&list=PLgwux8eqIFKdWYJTgeoCU4vZ0s6GZtc6e&index=2)|
+ | 1230 | Karim Lekadir | FUTURE-AI: Guiding Principles and Consensus Recommendations for Trustworthy Artificial Intelligence in Medical Imaging [(Recording)](https://www.youtube.com/watch?v=pbEGMfJgrtA&list=PLgwux8eqIFKdWYJTgeoCU4vZ0s6GZtc6e&index=3)|
+ | 1300 | Haoran Zhang | Group Fairness in Chest X-ray Diagnosis: Helpful or Harmful? [(Recording)](https://www.youtube.com/watch?v=kr-HePb_Kwo&list=PLgwux8eqIFKdWYJTgeoCU4vZ0s6GZtc6e&index=4)|
  | 1330 | --- | Coffee Break/Chat |
- | 1350 | Esther Puyol | Fairness in Cardiac Magnetic Resonance Imaging: Assessing Sex and Racial Bias in Deep Learning-Based Segmentation |
- | 1420 | Qingyu Zhao  | Confounder-aware Deep Learning Models for Neuroimaging Applications |
- | 1450 | Ira Ktena | Exploring fairness in the transductive setting for neuroimaging studies |
- | 1520 | --- | Panel Discussion |
+ | 1350 | Esther Puyol | Fairness in Cardiac Magnetic Resonance Imaging: Assessing Sex and Racial Bias in Deep Learning-Based Segmentation [(Recording)](https://www.youtube.com/watch?v=PpOHefWa0so&list=PLgwux8eqIFKdWYJTgeoCU4vZ0s6GZtc6e&index=5)|
+ | 1420 | Qingyu Zhao  | Confounder-aware Deep Learning Models for Neuroimaging Applications [(Recording)](https://www.youtube.com/watch?v=9jf43FxtwpI&list=PLgwux8eqIFKdWYJTgeoCU4vZ0s6GZtc6e&index=6)|
+ | 1450 | Ira Ktena | Exploring fairness in the transductive setting for neuroimaging studies [(Recording)](https://www.youtube.com/watch?v=LrrB8PjNtKM&list=PLgwux8eqIFKdWYJTgeoCU4vZ0s6GZtc6e&index=7)|
+ | 1520 | --- | Panel Discussion [(Recording)](https://www.youtube.com/watch?v=QksD9yfUcN0&list=PLgwux8eqIFKdWYJTgeoCU4vZ0s6GZtc6e&index=8)|
 
 ## Speaker Bios
 
