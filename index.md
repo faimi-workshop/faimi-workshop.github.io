@@ -1,5 +1,6 @@
 ---
 title: Fairness of AI in Medical Imaging
+description: An independent academic initiative
 layout: default
 permalink: /index.html
 weight: -1
