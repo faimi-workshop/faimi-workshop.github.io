@@ -1,9 +1,9 @@
-title: FAIMI Workshop
+title: FAIMI Initiative
 email: dmoyer@csail.mit.edu
 author: Aasa Feragen, Andrew King, Ben Glocker, Daniel Moyer, Enzo Ferrante, Eike Petersen, Melanie Ganz-Benjaminsen, Veronika Cheplygina
 baseurl: ""
 description: >- # this means to ignore newlines until "lsi:"
-  Website for the Fairness of AI in Medical Imaging Workshop
+  Website for the Fairness of AI in Medical Imaging Initiative
 
 #lsi: false
 safe: true
