@@ -7,7 +7,7 @@ weight: -1
 redirect_from: /
 ---
 
-Research in fair, equitable, and accountabile machine learning has highlighted ethical risks in the deployment of such systems, including for medical image analysis.
+Research on fairness, equity, and accountability in the context of machine learning has extensively demonstrated ethical risks in the deployment of such systems, including for medical image analysis.
 In a series of interdisciplinary events, our aim is to advance the discourse around fairness issues in the medical image analysis community.
 
 
