@@ -1,6 +1,6 @@
 ---
 title: Fairness of AI in Medical Imaging
-description: "A free virtual workshop, autumn 2023"
+description: "Free virtual workshop, autumn 2023"
 layout: workshop-stub
 permalink: /2023-online/index.html
 weight: -1
