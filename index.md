@@ -19,6 +19,6 @@ In a series of interdisciplinary events, our aim is to advance the discourse aro
 [Daniel Moyer](https://dcmoyer.github.io/), Vanderbilt University  
 [Enzo Ferrante](https://eferrante.github.io/), CONICET, Universidad Nacional del Litoral  
 [Eike Petersen](https://e-pet.github.io/), DTU Compute, Technical University of Denmark  
-[Esther Puyol](https://www.kcl.ac.uk/people/esther-puyol-anton), King's College London  
-[Melanie Ganz-Benjaminsen](https://sites.google.com/view/melanieganz/home?pli=1), Dept. of Computer Science, University of Copenhagen & Neurobiology Research Unit, Rigshospitalet  
+[Esther Puyol](https://www.kcl.ac.uk/people/esther-puyol-anton), HeartFlow and King's College London  
+[Melanie Ganz-Benjaminsen](https://sites.google.com/view/melanieganz/home?pli=1), University of Copenhagen & Neurobiology Research Unit, Rigshospitalet  
 [Veronika Cheplygina](https://veronikach.com/), IT University Copenhagen  
