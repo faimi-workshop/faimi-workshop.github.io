@@ -24,8 +24,8 @@ redirect_from: /2023-miccai/
 **Daniel Moyer**, Vanderbilt University  
 **Enzo Ferrante**, CONICET, Universidad Nacional del Litoral  
 **Eike Petersen**, DTU Compute, Technical University of Denmark  
-**Esther Puyol**, King's College London  
-**Melanie Ganz-Benjaminsen**, Dept. of Computer Science, University of Copenhagen & Neurobiology Research Unit, Rigshospitalet  
+**Esther Puyol**, HeartFlow and King's College London  
+**Melanie Ganz-Benjaminsen**, University of Copenhagen & Neurobiology Research Unit, Rigshospitalet  
 **Veronika Cheplygina**, IT University Copenhagen  
 
 ## Contacts
