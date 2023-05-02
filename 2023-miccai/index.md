@@ -13,6 +13,7 @@ redirect_from: /2023-miccai/
  - Organized jointly with the workshop on [Ethical and Philosophical Issues in Medical Imaging](https://sites.google.com/view/epimi)
  - October 8th or 12th (to be determined), 2023, hybrid
  - Call for papers and further information coming soon
+ - Also see [our separate, free online event in autumn 2023](/2023-online/) and [last year's iteration of the same event](/2022/).
 
 
 ## Organizers
