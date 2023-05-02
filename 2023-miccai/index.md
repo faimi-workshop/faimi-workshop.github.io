@@ -26,3 +26,8 @@ redirect_from: /2023-miccai/
 **Esther Puyol**, King's College London  
 **Melanie Ganz-Benjaminsen**, Dept. of Computer Science, University of Copenhagen & Neurobiology Research Unit, Rigshospitalet  
 **Veronika Cheplygina**, IT University Copenhagen  
+
+## Contacts
+
+<!-- replace with group email -->
+Please contact Esther Puyol or Enzo Ferrante with any questions regarding the workshop, and Eike Petersen with questions concerning the website.
