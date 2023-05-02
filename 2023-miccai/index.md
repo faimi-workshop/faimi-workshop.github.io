@@ -1,7 +1,7 @@
 ---
 title: Fairness of AI in Medical Imaging
 description: "MICCAI 2023 Workshop"
-layout: workshop
+layout: workshop-stub
 permalink: /2023-miccai/index.html
 weight: -1
 redirect_from: /2023-miccai/
