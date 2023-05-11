@@ -9,14 +9,15 @@ redirect_from: /2023-miccai/
 
 ## TL;DR
 
- - Fairness+Medical Imaging workshop at [MICCAI 2023](https://conferences.miccai.org/2023/en/) (Vancouver)
+ - Fairness+Medical Imaging workshop on Oct 8th at [MICCAI 2023](https://conferences.miccai.org/2023/en/) (Vancouver)
  - Organized jointly with the workshop on [Ethical and Philosophical Issues in Medical Imaging](https://sites.google.com/view/epimi)
- - October 8th, 2023
  - Also see [our separate, free online event in autumn 2023](/2023-online/) and [last year's iteration of the same event](/2022/).
 
 
 ## Call for Papers
-We invite the submission of papers for **FAIMI: The MICCAI 2023 Workshop on Fairness of AI in Medical Imaging**.
+We invite the submission of papers for
+
+<p style="text-align: center;"><b>FAIMI: The MICCAI 2023 Workshop on Fairness of AI in Medical Imaging</b>.</p>
 
 Over the past several years, research on fairness, equity, and accountability in the context of machine learning has extensively demonstrated ethical risks in the deployment of machine learning systems in critical infrastructure, such as medical imaging.
 The FAIMI workshop aims to encourage and emphasize research on and discussion of fairness of AI within the medical imaging domain.
@@ -61,7 +62,6 @@ Submissions are made in [CMT](https://cmt3.research.microsoft.com/FAIMI2023).
 **Melanie Ganz-Benjaminsen**, University of Copenhagen & Neurobiology Research Unit, Rigshospitalet  
 **Veronika Cheplygina**, IT University Copenhagen  
 
-## Contacts
+## Contact
 
-<!-- replace with group email -->
-Please direct any inquiries related to the workshop or this website to [faimi-organizers__at__googlegroups__dot__com](mailto:faimi-organizers@googlegroups.com).
+Please direct any inquiries related to the workshop or this website to <a href="mailto:faimi-organizers@googlegroups.com">faimi-organizers@googlegroups.com</a>.

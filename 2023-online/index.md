@@ -1,7 +1,7 @@
 ---
 title: Fairness of AI in Medical Imaging
 description: "Free virtual workshop, autumn 2023"
-layout: workshop-stub
+layout: default
 permalink: /2023-online/index.html
 weight: -1
 redirect_from: /2023-online/
@@ -10,10 +10,10 @@ redirect_from: /2023-online/
 ## TL;DR
 
  - Fairness+Medical Imaging based speakers and discussion.  
- - Autumn 2023, held online
+ - Autumn 2023, held online. Tentatively scheduled for Nov 6, 2023.
  - Free! 
  - Also see [our MICCAI 2023 workshop on the same subject](/2023-miccai/) and [last year's iteration of this event](/2022/)
- - Stay tuned for more information
+ - Stay tuned for more information!
 
 ## Organizers
 
@@ -29,8 +29,4 @@ redirect_from: /2023-online/
 
 ## Contacts
 
-<!-- replace with group email -->
-Please contact Esther Puyol or Enzo Ferrante with any questions regarding the workshop, and Eike Petersen with questions concerning the website.
-
-
-
+Please direct any inquiries related to the workshop or this website to <a href="mailto:faimi-organizers@googlegroups.com">faimi-organizers@googlegroups.com</a>.

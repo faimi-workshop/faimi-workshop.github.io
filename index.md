@@ -22,3 +22,5 @@ In a series of interdisciplinary events, our aim is to advance the discourse aro
 [Esther Puyol](https://www.kcl.ac.uk/people/esther-puyol-anton), HeartFlow and King's College London  
 [Melanie Ganz-Benjaminsen](https://sites.google.com/view/melanieganz/home?pli=1), University of Copenhagen & Neurobiology Research Unit, Rigshospitalet  
 [Veronika Cheplygina](https://veronikach.com/), IT University Copenhagen  
+
+Please direct any inquiries related to this initiative to <a href="mailto:faimi-organizers@googlegroups.com">faimi-organizers@googlegroups.com</a>.
