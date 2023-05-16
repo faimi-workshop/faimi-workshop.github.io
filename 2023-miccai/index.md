@@ -19,10 +19,10 @@ We invite the submission of papers for
 
 <p style="text-align: center;"><b>FAIMI: The MICCAI 2023 Workshop on Fairness of AI in Medical Imaging</b>.</p>
 
-Over the past several years, research on fairness, equity, and accountability in the context of machine learning has extensively demonstrated ethical risks in the deployment of machine learning systems in critical infrastructure, such as medical imaging.
+<p style="text-align: justify">Over the past several years, research on fairness, equity, and accountability in the context of machine learning has extensively demonstrated ethical risks in the deployment of machine learning systems in critical infrastructure, such as medical imaging.
 The FAIMI workshop aims to encourage and emphasize research on and discussion of fairness of AI within the medical imaging domain.
 We therefore invite the submission of papers, which will be selected for oral or poster presentation at the workshop. 
-Topics include but are not limited to:
+Topics include but are not limited to:</p>
 - Case studies providing evidence of and/or addressing bias in medical imaging
 - Algorithmic fairness in medical imaging
 - Methods for measuring/evaluating bias in medical imaging
@@ -31,10 +31,11 @@ Topics include but are not limited to:
 - Legal aspects of bias and fairness in medical imaging
 - Policy in the context of bias and fairness in medical imaging
 
-The workshop proceedings will be published in the MICCAI workshops volumes of the Springer Lecture Notes Computer Science (LNCS) series. 
-Selected papers will also be invited to present at [the virtual FAIMI workshop tentatively scheduled for November 6](/2023-online/).
+<p style="text-align: justify">The workshop proceedings will be published in the MICCAI workshops volumes of the Springer Lecture Notes Computer Science (LNCS) series. 
+Selected papers will also be invited to present at <a href="/2023-online/">the virtual FAIMI workshop tentatively scheduled for November 6</a>.
+Papers should be <i>anonymized</i> and at most 8 pages with at most 2 pages of references using the <a href="https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines">LNCS format</a>. 
+</p>
 
-Papers should be at most 8 pages with at most 2 pages of references using the [LNCS format](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines). 
 
 Submissions are made in [CMT](https://cmt3.research.microsoft.com/FAIMI2023). 
 

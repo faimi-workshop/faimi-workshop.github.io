@@ -7,9 +7,14 @@ weight: -1
 redirect_from: /
 ---
 
+<p style="text-align: justify">
 Research on fairness, equity, and accountability in the context of machine learning has extensively demonstrated ethical risks in the deployment of such systems, including for medical image analysis.
 In a series of interdisciplinary events, our aim is to advance the discourse around fairness issues in the medical image analysis community.
+</p>
 
+<p style="text-align: center">
+<b>Next up: <a href="/2023-miccai/">FAIMI workshop at MICCAI 2023</a>!</b>
+</p>
 
 ## Organizers
 
