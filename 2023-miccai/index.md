@@ -42,13 +42,13 @@ Submissions are made in [CMT](https://cmt3.research.microsoft.com/FAIMI2023).
 
 ## Dates
 
-**July 21, 2023**: Paper submission
+**July 21st, 2023**: Paper submission
 
-**August 11, 2023**: Notification of paper decisions
+**August 11th, 2023**: Notification of paper decisions
 
-**September 1, 2023**: Camera-ready deadline
+**August 25th, 2023**: Camera-ready deadline
 
-**October 8, 2023**: Workshop
+**October 8th, 2023**: Workshop
 
 
 ## Organizers
