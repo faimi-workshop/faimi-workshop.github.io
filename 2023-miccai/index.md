@@ -32,7 +32,7 @@ Topics include but are not limited to:</p>
 - Policy in the context of bias and fairness in medical imaging
 
 <p style="text-align: justify">The workshop proceedings will be published in the MICCAI workshops volumes of the Springer Lecture Notes Computer Science (LNCS) series. 
-Selected papers will also be invited to present at <a href="/2023-online/">the virtual FAIMI workshop tentatively scheduled for November 6</a>.
+Selected papers will also be invited to present at <a href="/2023-online/">the virtual FAIMI workshop tentatively scheduled for November 6th</a>.
 Papers should be <i>anonymized</i> and at most 8 pages plus at most 2 extra pages of references using the <a href="https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines">LNCS format</a>. 
 </p>
 
