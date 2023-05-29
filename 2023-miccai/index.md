@@ -40,6 +40,16 @@ Papers should be <i>anonymized</i> and at most 8 pages plus at most 2 extra page
 Submissions are made in [CMT](https://cmt3.research.microsoft.com/FAIMI2023). 
 
 
+## Keynote
+<div class="clearfix">
+	<img class="img2" src="/assets/speakers/Gichoya.jpg" alt="Dr. Judy Gichoya" width="150" style="float: left; padding:0px 10px 10px 10px">
+	<p style="text-align: justify">
+		<b>Dr. Judy Gichoya</b> is an assistant professor at Emory university in Interventional Radiology and Informatics. 
+		Her career focus is on validating machine learning models for health in real clinical settings, exploring explainability, fairness, and a specific focus on how algorithms fail. 
+		She is heavily invested in training the next generation of data scientists through multiple high school programs, serving as the program director for radiology: AI trainee editorial board and the medical students machine learning elective.
+	</p>
+</div>
+
 ## Dates
 
 **July 21st, 2023**: Paper submission
