@@ -14,14 +14,14 @@ The organizers are listed on the front page and can be reached at <a href="mailt
 This website has been created and is maintained by the project team.
 
 ### What information we collect and how we use it
-##### If you subscribe to our [newsletter](/newsletter)
+#### If you subscribe to our [newsletter](/newsletter)
 We will add your name and email address to our newsletter mailing list, which is managed by [Brevo](www.brevo.com). 
 We do not use any tracking in our newsletters, which means that we can’t identify how many or which users have opened mailouts or followed links.
 Subscribers receive information regarding events in our workshop series and other related activities, at most once per month.
 We will never share your data with anyone beyond our team and our mail service provider, [Brevo](www.brevo.com).
 Brevo stores all data on servers within the EU (see [Brevo's data storage locations](https://help.brevo.com/hc/en-us/articles/360001005510-Data-storage-location)) and in compliance with the GDPR (see [Brevo's privacy policy](https://www.brevo.com/legal/privacypolicy/)).
 
-##### If you contact us via email
+#### If you contact us via email
 Your email address and message will be accessible to our small team of support staff and may be forwarded to the person or people in the organization best equipped to respond. We adhere to strict internal privacy policies which comply with the GDPR.
 If you send an email to <a href="mailto:faimi-organizers@googlegroups.com">faimi-organizers@googlegroups.com</a>, your data will be stored on Google's servers and be subject to [Google's privacy policy](https://policies.google.com/privacy).
 Your personal information is never shared externally by us, or used for purposes other than the above.
