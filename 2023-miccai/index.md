@@ -41,8 +41,8 @@ Submissions are made in <a href="https://cmt3.research.microsoft.com/FAIMI2023">
 
 <p style="text-align: justify">
 Following the <a href="https://conferences.miccai.org/2023/en/PAPER-SUBMISSION-AND-REBUTTAL-GUIDELINES.html">MICCAI paper submission guidelines</a>, the submission of additional <b>supplementary material</b> is possible.
-These should be in separate files, and reviewers are under no obligation to review it; the paper must be self-contained and understandable without the supplementary material.
-Note that in the submission system, supplementary materials can only be added once a regular submission as been created. (You can still edit your submission until the deadline.)
+This should be a separate file, and reviewers are under no obligation to review it; the paper must be self-contained and understandable without the supplementary material.
+Note that in the submission system, supplementary materials can only be added once a regular submission has been created. (You can still edit your submission until the deadline.)
 </p>
 
 
