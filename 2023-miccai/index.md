@@ -36,11 +36,11 @@ Topics include but are not limited to:</p>
 Selected papers will also be invited to present at <a href="/2023-online/">the virtual FAIMI workshop tentatively scheduled for November 6th</a>.
 Papers should be <i>anonymized</i> and at most 8 pages plus at most 2 extra pages of references using the <a href="https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines">LNCS format</a>. 
 The review process is conducted in a double-blind manner, following MICCAI standards. 
-Submissions are made in [CMT](https://cmt3.research.microsoft.com/FAIMI2023). 
+Submissions are made in <a href="https://cmt3.research.microsoft.com/FAIMI2023">CMT</a>. 
 </p>
 
-<p>
-Following the [MICCAI paper submission guidelines](https://conferences.miccai.org/2023/en/PAPER-SUBMISSION-AND-REBUTTAL-GUIDELINES.html), the submission of additional **supplementary material** is possible.
+<p style="text-align: justify">
+Following the <a href="https://conferences.miccai.org/2023/en/PAPER-SUBMISSION-AND-REBUTTAL-GUIDELINES.html">MICCAI paper submission guidelines</a>, the submission of additional <b>supplementary material</b> is possible.
 These should be in separate files, and reviewers are under no obligation to review it; the paper must be self-contained and understandable without the supplementary material.
 Note that in the submission system, supplementary materials can only be added once a regular submission as been created. (You can still edit your submission until the deadline.)
 </p>
