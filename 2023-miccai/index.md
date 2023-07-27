@@ -9,7 +9,7 @@ redirect_from: /2023-miccai/
 
 ## TL;DR
 
- - Fairness+Medical Imaging workshop on Oct 8th at [MICCAI 2023](https://conferences.miccai.org/2023/en/) (Vancouver)
+ - Fairness & Medical Imaging workshop on Oct 8th at [MICCAI 2023](https://conferences.miccai.org/2023/en/) (Vancouver)
  - Organized jointly with the workshop on [Ethical and Philosophical Issues in Medical Imaging](https://sites.google.com/view/epimi)
  - Also see [our separate, free online event in autumn 2023](/2023-online/) and [last year's iteration of the same event](/2022/).
  - **Submission deadline extended by one week**
@@ -36,12 +36,14 @@ Topics include but are not limited to:</p>
 Selected papers will also be invited to present at <a href="/2023-online/">the virtual FAIMI workshop tentatively scheduled for November 6th</a>.
 Papers should be <i>anonymized</i> and at most 8 pages plus at most 2 extra pages of references using the <a href="https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines">LNCS format</a>. 
 The review process is conducted in a double-blind manner, following MICCAI standards. 
-Following the [MICCAI paper submission guidelines](https://conferences.miccai.org/2023/en/PAPER-SUBMISSION-AND-REBUTTAL-GUIDELINES.html), the submission of additional **supplementary material** is possible.
-These should be in separate files, and reviewers are under no obligation to review it; the paper must be self-contained and understandable without the supplementary material.
+Submissions are made in [CMT](https://cmt3.research.microsoft.com/FAIMI2023). 
 </p>
 
-
-Submissions are made in [CMT](https://cmt3.research.microsoft.com/FAIMI2023). 
+<p>
+Following the [MICCAI paper submission guidelines](https://conferences.miccai.org/2023/en/PAPER-SUBMISSION-AND-REBUTTAL-GUIDELINES.html), the submission of additional **supplementary material** is possible.
+These should be in separate files, and reviewers are under no obligation to review it; the paper must be self-contained and understandable without the supplementary material.
+Note that in the submission system, supplementary materials can only be added once a regular submission as been created. (You can still edit your submission until the deadline.)
+</p>
 
 
 ## Keynote
@@ -55,6 +57,8 @@ Submissions are made in [CMT](https://cmt3.research.microsoft.com/FAIMI2023).
 </div>
 
 ## Dates
+
+*All dates are [Anywhere on Earth](https://en.wikipedia.org/wiki/Anywhere_on_Earth).*
 
 **~~July 21st~~ July 28th, 2023**: Paper submission
 
