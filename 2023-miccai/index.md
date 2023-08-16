@@ -66,7 +66,7 @@ Note that in the submission system, supplementary materials can only be added on
 
 **~~August 25th~~ August 18th, 2023**: Camera-ready deadline
 
-**October 8th, 2023**: Workshop
+**October 12th, 2023**: Workshop
 
 
 ## Organizers
