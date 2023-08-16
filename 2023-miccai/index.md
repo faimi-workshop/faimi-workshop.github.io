@@ -62,9 +62,9 @@ Note that in the submission system, supplementary materials can only be added on
 
 **~~July 21st~~ July 28th, 2023**: Paper submission
 
-**~~August 11th~~ August 18th, 2023**: Notification of paper decisions
+**~~August 11th~~ August 9th, 2023**: Notification of paper decisions
 
-**August 25th, 2023**: Camera-ready deadline
+**~~August 25th~~ August 18th, 2023**: Camera-ready deadline
 
 **October 8th, 2023**: Workshop
 
