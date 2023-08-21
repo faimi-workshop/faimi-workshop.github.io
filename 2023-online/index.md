@@ -37,7 +37,7 @@ redirect_from: /2023-online/
 **Daniel Moyer**, Vanderbilt University  
 **Enzo Ferrante**, CONICET, Universidad Nacional del Litoral  
 **Eike Petersen**, DTU Compute, Technical University of Denmark  
-**Esther Puyol**, HeartFlow and King's College London  
+**Esther Puyol-Antón**, HeartFlow and King's College London  
 **Melanie Ganz-Benjaminsen**, University of Copenhagen and Neurobiology Research Unit, Rigshospitalet  
 **Veronika Cheplygina**, IT University Copenhagen  
 
