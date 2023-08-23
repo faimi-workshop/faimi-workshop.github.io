@@ -80,8 +80,8 @@ Note that in the submission system, supplementary materials can only be added on
  | 2:40 - 2:50 | Yun-Yang Huang, Venesia Chiuwanara, Chao-Hsuan Lin, and Po-Chih Kuo | Mitigating Bias in MRI-Based Alzheimer's Disease Classifiers through Pruning of Deep Neural Networks
  | 2:50 - 3:00 | Cosmin I. Bercea, Esther Puyol-Antón, Benedikt Wiestler, Daniel Rueckert, Julia A. Schnabel, and Andrew P. King | Bias in Unsupervised Anomaly Detection in Brain MRI
  | 3:00-3:05 | Poster pitch | |
- | 3:10-3:30 | Posters/Coffee | |
- | 3:30-3:45 | Prizes and closing | |
+ | 3:10-3:40 | Posters/Coffee | |
+ | 3:40-3:45 | Prizes and closing | |
 
 ## Organizers
 
