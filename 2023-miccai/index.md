@@ -71,13 +71,17 @@ Note that in the submission system, supplementary materials can only be added on
 
 ## Schedule
 
- | Time | Speaker and Title |
- |------|----------------|
+ | Time | Speaker | Title |
+ |------|-------- |--------|
  | 1:30 - 1:35 | Welcome |
  | 1:35 - 2:20 | Keynote speaker: Dr. Judy Gichoya  |
- | 2:20 - 2:30 | Nilesh Kumar, Ruby Shrestha, Zhiyuan Li and Linwei Wang
- Distributionally Robust Optimization and Invariant Representation Learning for Addressing Subgroup Underrepresentation: Mechanisms and Limitations
-
+ | 2:20 - 2:30 | Nilesh Kumar, Ruby Shrestha, Zhiyuan Li and Linwei Wang  | Distributionally Robust Optimization and Invariant Representation Learning for Addressing Subgroup Underrepresentation: Mechanisms and Limitations | 
+ | 2:30 - 2:40 | Thorsten Kalb, Kaisar Kushibar, Celia Cintas, Karim Lekadir, Oliver Diaz, and Richard Osuala | Revisiting Skin Tone Fairness in Dermatological Lesion Classification
+ | 2:40 - 2:50 | Yun-Yang Huang, Venesia Chiuwanara, Chao-Hsuan Lin, and Po-Chih Kuo | Mitigating Bias in MRI-Based Alzheimer's Disease Classifiers through Pruning of Deep Neural Networks
+ | 2:50 - 3:00 | Cosmin I. Bercea, Esther Puyol-Antón, Benedikt Wiestler, Daniel Rueckert, Julia A. Schnabel, and Andrew P. King | Bias in Unsupervised Anomaly Detection in Brain MRI
+ | 3:00-3:05 | Poster pitch | |
+ | 3:10-3:30 | Posters/Coffee | |
+ | 3:30-3:45 | Prizes and closing | |
 
 ## Organizers
 
