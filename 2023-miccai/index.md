@@ -69,6 +69,16 @@ Note that in the submission system, supplementary materials can only be added on
 **October 12th, 2023**: Workshop
 
 
+## Schedule
+
+ | Time | Speaker and Title |
+ |------|----------------|
+ | 1:30 - 1:35 | Welcome |
+ | 1:35 - 2:20 | Keynote speaker: Dr. Judy Gichoya  |
+ | 2:20 - 2:30 | Nilesh Kumar, Ruby Shrestha, Zhiyuan Li and Linwei Wang
+ Distributionally Robust Optimization and Invariant Representation Learning for Addressing Subgroup Underrepresentation: Mechanisms and Limitations
+
+
 ## Organizers
 
 **Aasa Feragen**, DTU Compute, Technical University of Denmark  
