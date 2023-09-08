@@ -10,7 +10,7 @@ redirect_from: /2023-online/
 ## TL;DR
 
  - Fairness+Medical Imaging based speakers and discussion.  
- - Autumn 2023, held online. Tentatively scheduled for Nov 6, 2023.
+ - Nov 6th, 2023
  - Free! 
  - Also see [our MICCAI 2023 workshop on the same subject](/2023-miccai/) and [last year's iteration of this event](/2022/)
  - Stay tuned for more information!
