@@ -11,11 +11,11 @@ redirect_from: /2023-miccai/
 
  - Fairness & Medical Imaging workshop on **Oct 12th** at [MICCAI 2023](https://conferences.miccai.org/2023/en/) (Vancouver)
  - Organized jointly with the workshop on [Ethical and Philosophical Issues in Medical Imaging](https://sites.google.com/view/epimi)
- - Also see [our separate, free online event in autumn 2023](/2023-online/) and [last year's iteration of the same event](/2022/)
+ - Also see [our separate, free online event on Nov 6th](/2023-online/) and [last year's iteration of the same event](/2022/)
 
 
 ## Keynote
-#### “Shortcuts” Causing Bias in Radiology Artificial Intelligence: Causes, Evaluation, and Mitigation
+### “Shortcuts” Causing Bias in Radiology Artificial Intelligence: Causes, Evaluation, and Mitigation
 <p style="text-align: justify">Despite the expert-level performance of artificial intelligence (AI) models for various medical imaging tasks, real-world performance failures with disparate outputs for various subgroups limit the usefulness of AI in improving patients’ lives. 
 Many definitions of fairness have been proposed, with discussions of various tensions that arise in the choice of an appropriate metric to use to evaluate bias; for example, should one aim for individual or group fairness? 
 One central observation is that AI models apply “shortcut learning” whereby spurious features (such as chest tubes and portable radiographic markers on intensive care unit chest radiography) on medical images are used for prediction instead of identifying true pathology.
