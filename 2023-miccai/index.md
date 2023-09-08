@@ -9,9 +9,75 @@ redirect_from: /2023-miccai/
 
 ## TL;DR
 
- - Fairness & Medical Imaging workshop on Oct 12th at [MICCAI 2023](https://conferences.miccai.org/2023/en/) (Vancouver)
+ - Fairness & Medical Imaging workshop on **Oct 12th** at [MICCAI 2023](https://conferences.miccai.org/2023/en/) (Vancouver)
  - Organized jointly with the workshop on [Ethical and Philosophical Issues in Medical Imaging](https://sites.google.com/view/epimi)
  - Also see [our separate, free online event in autumn 2023](/2023-online/) and [last year's iteration of the same event](/2022/)
+
+
+## Keynote
+<div class="clearfix">
+	<img class="img2" src="/assets/speakers/Gichoya.jpg" alt="Dr. Judy Gichoya" width="150" style="float: left; padding:0px 10px 10px 10px">
+	<p style="text-align: justify">
+		<b>Dr. Judy Gichoya</b> is an assistant professor at Emory university in Interventional Radiology and Informatics. 
+		Her career focus is on validating machine learning models for health in real clinical settings, exploring explainability, fairness, and a specific focus on how algorithms fail. 
+		She is heavily invested in training the next generation of data scientists through multiple high school programs, serving as the program director for radiology: AI trainee editorial board and the medical students machine learning elective.
+	</p>
+</div>
+
+
+## Schedule
+
+ | Time | Speaker | Title |
+ |------|-------- |--------|
+ | 1:30 - 1:35 | Welcome |
+ | 1:35 - 2:20 | Keynote speaker: Dr. Judy Gichoya  |
+ | 2:20 - 2:30 | Nilesh Kumar, Ruby Shrestha, Zhiyuan Li and Linwei Wang  | Distributionally Robust Optimization and Invariant Representation Learning for Addressing Subgroup Underrepresentation: Mechanisms and Limitations | 
+ | 2:30 - 2:40 | Thorsten Kalb, Kaisar Kushibar, Celia Cintas, Karim Lekadir, Oliver Diaz, and Richard Osuala | Revisiting Skin Tone Fairness in Dermatological Lesion Classification
+ | 2:40 - 2:50 | Yun-Yang Huang, Venesia Chiuwanara, Chao-Hsuan Lin, and Po-Chih Kuo | Mitigating Bias in MRI-Based Alzheimer's Disease Classifiers through Pruning of Deep Neural Networks
+ | 2:50 - 3:00 | Cosmin I. Bercea, Esther Puyol-Antón, Benedikt Wiestler, Daniel Rueckert, Julia A. Schnabel, and Andrew P. King | Bias in Unsupervised Anomaly Detection in Brain MRI
+ | 3:00-3:05 | Poster pitch | |
+ | 3:10-3:40 | Posters/Coffee | |
+ | 3:40-3:45 | Prizes and closing | |
+
+ 
+## Accepted Papers
+Chenwei Wu, et al.: *De-identification and Obfuscation of Gender Attributes From Retinal Scans*
+
+Yuning Du, et al.: *Unveiling Fairness Biases in Deep Learning-Based Brain MRI Reconstruction*  
+
+Sophie A. Martin, et al.: *Brain matters: Exploring bias in AI for neuroimaging research*  
+
+Cosmin I. Bercea, et al.: *Bias in Unsupervised Anomaly Detection in Brain MRI*  
+
+María Agustina Ricci Lara, et al.: *Towards Unraveling Calibration Biases in Medical Image Analysis*  
+
+Nina Weng, et al.: *Are Sex-based Physiological Differences the Cause of Gender Bias for Chest X-ray Diagnosis?*  
+
+Rebecca S. Stone, et al.: *Bayesian uncertainty-weighted loss for improved generalisability on polyp segmentation task*  
+
+Yun-Yang Huang, et al.: *Mitigating Bias in MRI-Based Alzheimer's Disease Classifiers through Pruning of Deep Neural Networks*  
+
+Vien N Dang, et al.: *Auditing Unfair Biases in CNN-based Diagnosis of Alzheimer’s Disease*  
+
+Nilesh Kumar, et al.: *Distributionally Robust Optimization and Invariant Representation Learning for Addressing Subgroup Underrepresentation: Mechanisms and Limitations*  
+
+Carolina Piçarra, et al.: *Analysing race and sex bias in brain age prediction*  
+
+Mahsa Dibaji, et al.: *Studying the Effects of Sex-related Differences on Brain Age Prediction using brain MR Imaging*  
+
+Tiarna Lee, et al.: *An investigation into the impact of deep learning model choice on sex and race bias in cardiac MR segmentation*  
+
+Mohamed Huti, et al.: *An Investigation Into Race Bias in Random Forest Models Based on Breast DCE-MRI Derived Radiomics Features*  
+
+Dewinda J. Rumala: *How You Split Matters: Data Leakage and Subject Characteristics Studies in Longitudinal Brain MRI Analysis*  
+
+Thorsten Kalb, et al.:, *Revisiting Skin Tone Fairness in Dermatological Lesion Classification*  
+
+Ario Sadafi, et al.:, *A Study of Age and Sex Bias in Multiple Instance Learning based Classification of Acute Myeloid Leukemia Subtypes*  
+
+Nicolás Gaggion, et al.:, *Unsupervised bias discovery in medical image segmentation*  
+
+Amar Kumar, et al.:, *Debiasing Counterfactuals In the Presence of Spurious Correlations*  
 
 
 ## Call for Papers
@@ -45,16 +111,6 @@ Note that in the submission system, supplementary materials can only be added on
 </p>
 
 
-## Keynote
-<div class="clearfix">
-	<img class="img2" src="/assets/speakers/Gichoya.jpg" alt="Dr. Judy Gichoya" width="150" style="float: left; padding:0px 10px 10px 10px">
-	<p style="text-align: justify">
-		<b>Dr. Judy Gichoya</b> is an assistant professor at Emory university in Interventional Radiology and Informatics. 
-		Her career focus is on validating machine learning models for health in real clinical settings, exploring explainability, fairness, and a specific focus on how algorithms fail. 
-		She is heavily invested in training the next generation of data scientists through multiple high school programs, serving as the program director for radiology: AI trainee editorial board and the medical students machine learning elective.
-	</p>
-</div>
-
 ## Dates
 
 *All dates are [Anywhere on Earth](https://en.wikipedia.org/wiki/Anywhere_on_Earth).*
@@ -67,20 +123,6 @@ Note that in the submission system, supplementary materials can only be added on
 
 **October 12th, 2023**: Workshop
 
-
-## Schedule
-
- | Time | Speaker | Title |
- |------|-------- |--------|
- | 1:30 - 1:35 | Welcome |
- | 1:35 - 2:20 | Keynote speaker: Dr. Judy Gichoya  |
- | 2:20 - 2:30 | Nilesh Kumar, Ruby Shrestha, Zhiyuan Li and Linwei Wang  | Distributionally Robust Optimization and Invariant Representation Learning for Addressing Subgroup Underrepresentation: Mechanisms and Limitations | 
- | 2:30 - 2:40 | Thorsten Kalb, Kaisar Kushibar, Celia Cintas, Karim Lekadir, Oliver Diaz, and Richard Osuala | Revisiting Skin Tone Fairness in Dermatological Lesion Classification
- | 2:40 - 2:50 | Yun-Yang Huang, Venesia Chiuwanara, Chao-Hsuan Lin, and Po-Chih Kuo | Mitigating Bias in MRI-Based Alzheimer's Disease Classifiers through Pruning of Deep Neural Networks
- | 2:50 - 3:00 | Cosmin I. Bercea, Esther Puyol-Antón, Benedikt Wiestler, Daniel Rueckert, Julia A. Schnabel, and Andrew P. King | Bias in Unsupervised Anomaly Detection in Brain MRI
- | 3:00-3:05 | Poster pitch | |
- | 3:10-3:40 | Posters/Coffee | |
- | 3:40-3:45 | Prizes and closing | |
 
 ## Organizers
 
