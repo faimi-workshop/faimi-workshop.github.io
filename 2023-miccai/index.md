@@ -15,7 +15,7 @@ redirect_from: /2023-miccai/
 
 
 ## Keynote
-#### Dr. Judy Gichoya - “Shortcuts” Causing Bias in Radiology Artificial Intelligence: Causes, Evaluation, and Mitigation
+#### “Shortcuts” Causing Bias in Radiology Artificial Intelligence: Causes, Evaluation, and Mitigation
 <p style="text-align: justify">Despite the expert-level performance of artificial intelligence (AI) models for various medical imaging tasks, real-world performance failures with disparate outputs for various subgroups limit the usefulness of AI in improving patients’ lives. 
 Many definitions of fairness have been proposed, with discussions of various tensions that arise in the choice of an appropriate metric to use to evaluate bias; for example, should one aim for individual or group fairness? 
 One central observation is that AI models apply “shortcut learning” whereby spurious features (such as chest tubes and portable radiographic markers on intensive care unit chest radiography) on medical images are used for prediction instead of identifying true pathology.
@@ -23,7 +23,7 @@ Moreover, AI has been shown to have a remarkable ability to detect protected att
 Therefore, an AI model may take shortcut predictions from these correlations and subsequently generate an outcome that is biased toward certain subgroups even when protected attributes are not explicitly used as inputs into the model.
 As a result, these subgroups became nonprivileged subgroups. 
 In this talk, Dr. Gichoya will discuss the various types of bias from shortcut learning that may occur at different phases of AI model development, including data bias, modeling bias, and inference bias. 
-She will also discuss mitigation strategies to bias arising from "shortucts"
+She will also discuss mitigation strategies to bias arising from "shortcuts"
 </p>
 
 <div class="clearfix">
