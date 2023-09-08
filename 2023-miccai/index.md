@@ -15,6 +15,17 @@ redirect_from: /2023-miccai/
 
 
 ## Keynote
+#### Dr. Judy Gichoya - “Shortcuts” Causing Bias in Radiology Artificial Intelligence: Causes, Evaluation, and Mitigation
+<p style="text-align: justify">Despite the expert-level performance of artificial intelligence (AI) models for various medical imaging tasks, real-world performance failures with disparate outputs for various subgroups limit the usefulness of AI in improving patients’ lives. 
+Many definitions of fairness have been proposed, with discussions of various tensions that arise in the choice of an appropriate metric to use to evaluate bias; for example, should one aim for individual or group fairness? 
+One central observation is that AI models apply “shortcut learning” whereby spurious features (such as chest tubes and portable radiographic markers on intensive care unit chest radiography) on medical images are used for prediction instead of identifying true pathology.
+Moreover, AI has been shown to have a remarkable ability to detect protected attributes of age, sex, and race, while the same models demonstrate bias against historically underserved subgroups of age, sex, and race in disease diagnosis.
+Therefore, an AI model may take shortcut predictions from these correlations and subsequently generate an outcome that is biased toward certain subgroups even when protected attributes are not explicitly used as inputs into the model.
+As a result, these subgroups became nonprivileged subgroups. 
+In this talk, Dr. Gichoya will discuss the various types of bias from shortcut learning that may occur at different phases of AI model development, including data bias, modeling bias, and inference bias. 
+She will also discuss mitigation strategies to bias arising from "shortucts"
+</p>
+
 <div class="clearfix">
 	<img class="img2" src="/assets/speakers/Gichoya.jpg" alt="Dr. Judy Gichoya" width="150" style="float: left; padding:0px 10px 10px 10px">
 	<p style="text-align: justify">
@@ -24,13 +35,12 @@ redirect_from: /2023-miccai/
 	</p>
 </div>
 
-
 ## Schedule
 
  | Time | Speaker | Title |
  |------|-------- |--------|
  | 1:30 - 1:35 | Welcome |
- | 1:35 - 2:20 | Keynote speaker: Dr. Judy Gichoya  |
+ | 1:35 - 2:20 | Keynote speaker: Dr. Judy Gichoya  | “Shortcuts” Causing Bias in Radiology Artificial Intelligence: Causes, Evaluation, and Mitigation
  | 2:20 - 2:30 | Nilesh Kumar, Ruby Shrestha, Zhiyuan Li and Linwei Wang  | Distributionally Robust Optimization and Invariant Representation Learning for Addressing Subgroup Underrepresentation: Mechanisms and Limitations | 
  | 2:30 - 2:40 | Thorsten Kalb, Kaisar Kushibar, Celia Cintas, Karim Lekadir, Oliver Diaz, and Richard Osuala | Revisiting Skin Tone Fairness in Dermatological Lesion Classification
  | 2:40 - 2:50 | Yun-Yang Huang, Venesia Chiuwanara, Chao-Hsuan Lin, and Po-Chih Kuo | Mitigating Bias in MRI-Based Alzheimer's Disease Classifiers through Pruning of Deep Neural Networks
