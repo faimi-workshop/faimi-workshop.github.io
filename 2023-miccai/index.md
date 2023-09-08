@@ -23,7 +23,7 @@ Moreover, AI has been shown to have a remarkable ability to detect protected att
 Therefore, an AI model may take shortcut predictions from these correlations and subsequently generate an outcome that is biased toward certain subgroups even when protected attributes are not explicitly used as inputs into the model.
 As a result, these subgroups became nonprivileged subgroups. 
 In this talk, Dr. Gichoya will discuss the various types of bias from shortcut learning that may occur at different phases of AI model development, including data bias, modeling bias, and inference bias. 
-She will also discuss mitigation strategies to bias arising from "shortcuts"
+She will also discuss mitigation strategies to bias arising from "shortcuts."
 </p>
 
 <div class="clearfix">
