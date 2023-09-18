@@ -35,13 +35,12 @@ She will also discuss mitigation strategies to bias arising from "shortcuts."
 	</p>
 </div>
 
-## Schedule
+## Schedule for FAIMI/EPIMI Workshop
 
-FAIMI/EPIMI Workshop
  | Time | Speaker | Title |
  |------|-------- |--------|
  |**FAIMI** |||
- | 1:30 - 1:35 | Welcome |
+ | 1:30 - 1:35 | Welcome | |
  | 1:35 - 2:20 | Keynote speaker: Dr. Judy Gichoya  | “Shortcuts” Causing Bias in Radiology Artificial Intelligence: Causes, Evaluation, and Mitigation |
  | 2:20 - 2:35 | Nilesh Kumar, Ruby Shrestha, Zhiyuan Li and Linwei Wang  | Distributionally Robust Optimization and Invariant Representation Learning for Addressing SubgroupUnderrepresentation: Mechanisms and Limitations | 
  | 2:35 - 2:50 | Thorsten Kalb, Kaisar Kushibar, Celia Cintas, Karim Lekadir, Oliver Diaz, and Richard Osuala | Revisiting Skin Tone Fairness in Dermatological Lesion Classification |
