@@ -52,11 +52,11 @@ She will also discuss mitigation strategies to bias arising from "shortcuts."
  | 4:30 - 4:45 | Amar Kumar, et al.: Debiasing Counterfactuals In the Presence of Spurious Correlations 
  |**EPIMI** ||
  | 4:45 - 4:50 | Welcome | 
- | 4:50-5:15 | On the Relationship between Open Science in Artificial Intelligence for Medical Imaging and Global Health Equity |
- | 5:15-5:40 | Gradient-based enhancement attacks in biomedical machine learning |
- | 5:40-5:45 | Final questions and open discussion |
+ | 4:50 - 5:15 | On the Relationship between Open Science in Artificial Intelligence for Medical Imaging and Global Health Equity |
+ | 5:15 - 5:40 | Gradient-based enhancement attacks in biomedical machine learning |
+ | 5:40 - 5:45 | Final questions and open discussion |
  |**FAIMI and EPIMI** ||
- | 5:45-6:00 | Prizes and closing for FAIMI and EPIMI| 
+ | 5:45 - 6:00 | Prizes and closing for FAIMI and EPIMI| 
 
  
 ## Accepted Papers
