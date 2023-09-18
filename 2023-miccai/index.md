@@ -40,18 +40,21 @@ She will also discuss mitigation strategies to bias arising from "shortcuts."
 FAIMI/EPIMI Workshop
  | Time | Speaker | Title |
  |------|-------- |--------|
+ |**FAIMI** |||
  | 1:30 - 1:35 | Welcome |
  | 1:35 - 2:20 | Keynote speaker: Dr. Judy Gichoya  | “Shortcuts” Causing Bias in Radiology Artificial Intelligence: Causes, Evaluation, and Mitigation
  | 2:20 - 2:35 | Nilesh Kumar, Ruby Shrestha, Zhiyuan Li and Linwei Wang  | Distributionally Robust Optimization and Invariant Representation Learning for Addressing Subgroup Underrepresentation: Mechanisms and Limitations | 
  | 2:35 - 2:50 | Thorsten Kalb, Kaisar Kushibar, Celia Cintas, Karim Lekadir, Oliver Diaz, and Richard Osuala | Revisiting Skin Tone Fairness in Dermatological Lesion Classification
  | 2:50 - 3:05 | Yun-Yang Huang, Venesia Chiuwanara, Chao-Hsuan Lin, and Po-Chih Kuo  Mitigating Bias in MRI-Based Alzheimer's Disease Classifiers through Pruning of Deep Neural Networks
- | 2:50 - 3:00 | Carolina Piçarra, Ben Glocker | Analysing race and sex bias in brain age prediction
+ | 2:50 - 3:05 | Carolina Piçarra, Ben Glocker | Analysing race and sex bias in brain age prediction
  | 3:05 - 3:15 | Poster pitch | |
  | 3:15 - 4:00 | Posters/Coffee | |
  | 4:00 - 4:15 | Cosmin I. Bercea, Esther Puyol-Antón, Benedikt Wiestler, Daniel Rueckert, Julia A. Schnabel, and Andrew P. King | Bias in Unsupervised Anomaly Detection in Brain MRI
  | 4:15 - 4:30 | Nicolás Gaggion, Rodrigo Echeveste, Lucas Mansilla, Diego H. Milone, and Enzo Ferrante | Unsupervised bias discovery in medical image segmentation
  | 4:30 - 4:45 | Amar Kumar, Nima Fathi, Raghav Mehta, Brennan Nichyporuk, Jean-Pierre R. Falet, Sotirios Tsaftaris, Tal Arbel | Debiasing Counterfactuals In the Presence of Spurious Correlations 
+ |**EPIMI** |||
  | 4:45 - 5:45 | EPIMI Workshop  | |
+ |**FAIMI and EPIMI** |||
  | 5:45-6:00 | Prizes and closing for FAIMI and EPIMI| |
 
  
