@@ -37,6 +37,7 @@ She will also discuss mitigation strategies to bias arising from "shortcuts."
 
 ## Schedule
 
+FAIMI/EPIMI Workshop
  | Time | Speaker | Title |
  |------|-------- |--------|
  | 1:30 - 1:35 | Welcome |
@@ -51,7 +52,7 @@ She will also discuss mitigation strategies to bias arising from "shortcuts."
  | 4:15 - 4:30 | Nicolás Gaggion, Rodrigo Echeveste, Lucas Mansilla, Diego H. Milone, and Enzo Ferrante | Unsupervised bias discovery in medical image segmentation
  | 4:30 - 4:45 | Amar Kumar, Nima Fathi, Raghav Mehta, Brennan Nichyporuk, Jean-Pierre R. Falet, Sotirios Tsaftaris, Tal Arbel | Debiasing Counterfactuals In the Presence of Spurious Correlations 
  | 4:45 - 5:45 | EPIMI Workshop  | |
- | 5:45-6:00 | Prizes and closing | |
+ | 5:45-6:00 | Prizes and closing for FAIMI and EPIMI| |
 
  
 ## Accepted Papers
