@@ -42,7 +42,7 @@ She will also discuss mitigation strategies to bias arising from "shortcuts."
  |**FAIMI** ||
  | 1:30 - 1:35 | Welcome | 
  | 1:35 - 2:20 | **Keynote speaker:** Dr. Judy Gichoya  - “Shortcuts” Causing Bias in Radiology Artificial Intelligence: Causes, Evaluation, and Mitigation |
- | 2:20 - 2:35 | Nilesh Kumar, et al.: Distributionally Robust Optimization and Invariant Representation Learning for Addressing SubgroupUnderrepresentation: Mechanisms and Limitations | 
+ | 2:20 - 2:35 | Nilesh Kumar, et al.: Distributionally Robust Optimization and Invariant Representation Learning for Addressing Subgroup Underrepresentation: Mechanisms and Limitations | 
  | 2:35 - 2:50 | Thorsten Kalb, et al.: Revisiting Skin Tone Fairness in Dermatological Lesion Classification |
  | 2:50 - 3:05 | Carolina Piçarra, et al.: Analysing race and sex bias in brain age prediction |
  | 3:05 - 3:15 | Poster pitch | 
