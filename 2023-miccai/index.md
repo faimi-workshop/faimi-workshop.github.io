@@ -11,6 +11,7 @@ redirect_from: /2023-miccai/
 
  - Fairness & Medical Imaging workshop on **Oct 12th** at [MICCAI 2023](https://conferences.miccai.org/2023/en/) (Vancouver)
  - Organized jointly with the workshop on [Ethical and Philosophical Issues in Medical Imaging](https://sites.google.com/view/epimi)
+ - The proceedings book will be freely available from 7 October 2023: https://link.springer.com/book/9783031452482 
  - Also see [our separate, free online event on Nov 6th](/2023-online/) and [last year's iteration of the same event](/2022/)
 
 
