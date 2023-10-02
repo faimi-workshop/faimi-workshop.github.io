@@ -63,41 +63,41 @@ She will also discuss mitigation strategies to bias arising from "shortcuts."
 ## Accepted Papers
 Chenwei Wu, et al.: *De-identification and Obfuscation of Gender Attributes From Retinal Scans*
 
-Yuning Du, et al.: *Unveiling Fairness Biases in Deep Learning-Based Brain MRI Reconstruction*  
+Yuning Du, et al.: *Unveiling Fairness Biases in Deep Learning-Based Brain MRI Reconstruction*  [Link](https://arxiv.org/pdf/2309.14392v1.pdf)
 
 Sophie A. Martin, et al.: *Brain matters: Exploring bias in AI for neuroimaging research*  
 
-Cosmin I. Bercea, et al.: *Bias in Unsupervised Anomaly Detection in Brain MRI*  
+Cosmin I. Bercea, et al.: *Bias in Unsupervised Anomaly Detection in Brain MRI* [Link](https://arxiv.org/abs/2308.13861v1)
 
-María Agustina Ricci Lara, et al.: *Towards Unraveling Calibration Biases in Medical Image Analysis*  
+María Agustina Ricci Lara, et al.: *Towards Unraveling Calibration Biases in Medical Image Analysis*  [Link](https://arxiv.org/abs/2305.05101)
 
-Nina Weng, et al.: *Are Sex-based Physiological Differences the Cause of Gender Bias for Chest X-ray Diagnosis?*  
+Nina Weng, et al.: *Are Sex-based Physiological Differences the Cause of Gender Bias for Chest X-ray Diagnosis?*  [Link](https://arxiv.org/pdf/2308.05129.pdf)
 
-Rebecca S. Stone, et al.: *Bayesian uncertainty-weighted loss for improved generalisability on polyp segmentation task*  
+Rebecca S. Stone, et al.: *Bayesian uncertainty-weighted loss for improved generalisability on polyp segmentation task*  [Link](https://arxiv.org/abs/2309.06807v1)
 
 Yun-Yang Huang, et al.: *Mitigating Bias in MRI-Based Alzheimer's Disease Classifiers through Pruning of Deep Neural Networks*  
 
 Vien N Dang, et al.: *Auditing Unfair Biases in CNN-based Diagnosis of Alzheimer’s Disease*  
 
-Nilesh Kumar, et al.: *Distributionally Robust Optimization and Invariant Representation Learning for Addressing Subgroup Underrepresentation: Mechanisms and Limitations*  
+Nilesh Kumar, et al.: *Distributionally Robust Optimization and Invariant Representation Learning for Addressing Subgroup Underrepresentation: Mechanisms and Limitations*  [Link](https://arxiv.org/pdf/2308.06434.pdf)
 
-Carolina Piçarra, et al.: *Analysing race and sex bias in brain age prediction*  
+Carolina Piçarra, et al.: *Analysing race and sex bias in brain age prediction*  [Link](https://arxiv.org/pdf/2309.10835.pdf)
 
 Mahsa Dibaji, et al.: *Studying the Effects of Sex-related Differences on Brain Age Prediction using brain MR Imaging*  
 
-Tiarna Lee, et al.: *An investigation into the impact of deep learning model choice on sex and race bias in cardiac MR segmentation*  
+Tiarna Lee, et al.: *An investigation into the impact of deep learning model choice on sex and race bias in cardiac MR segmentation*  [Link](https://arxiv.org/pdf/2308.13415.pdf)
 
 Mohamed Huti, et al.: *An Investigation Into Race Bias in Random Forest Models Based on Breast DCE-MRI Derived Radiomics Features*  
 
-Dewinda J. Rumala: *How You Split Matters: Data Leakage and Subject Characteristics Studies in Longitudinal Brain MRI Analysis*  
+Dewinda J. Rumala: *How You Split Matters: Data Leakage and Subject Characteristics Studies in Longitudinal Brain MRI Analysis*  [Link](https://arxiv.org/abs/2309.00350)
 
-Thorsten Kalb, et al.:, *Revisiting Skin Tone Fairness in Dermatological Lesion Classification*  
+Thorsten Kalb, et al.:, *Revisiting Skin Tone Fairness in Dermatological Lesion Classification*  [Link](https://arxiv.org/abs/2308.09640)
 
-Ario Sadafi, et al.:, *A Study of Age and Sex Bias in Multiple Instance Learning based Classification of Acute Myeloid Leukemia Subtypes*  
+Ario Sadafi, et al.:, *A Study of Age and Sex Bias in Multiple Instance Learning based Classification of Acute Myeloid Leukemia Subtypes*  [Link](https://arxiv.org/pdf/2308.12675.pdf)
 
 Nicolás Gaggion, et al.:, *Unsupervised bias discovery in medical image segmentation*  
 
-Amar Kumar, et al.:, *Debiasing Counterfactuals In the Presence of Spurious Correlations*  
+Amar Kumar, et al.:, *Debiasing Counterfactuals In the Presence of Spurious Correlations*  [Link](https://arxiv.org/abs/2308.10984v1)
 
 
 ## Call for Papers
