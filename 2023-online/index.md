@@ -28,6 +28,12 @@ redirect_from: /2023-online/
 		<b>Sara Gerke</b> joined Penn State Dickinson Law as assistant professor of law in July 2021. Her current research focuses on the ethical and legal challenges of artificial intelligence and big data for health care and health law in the United States and Europe. She also researches comparative law and ethics of other issues at the cutting edge of medical developments, such as the clinical translation of stem cell research, biological products, such as somatic cells, tissues, and gene therapy, reproductive medicine, such as mitochondrial replacement techniques, and digital health more generally. Professor Gerke has over 50 publications in health law and bioethics, especially AI and digital health. She was named a 2021 Health Law Scholar by the American Society for Law, Medicine & Ethics and the Saint Louis University School of Law Center for Health Law Studies. Professor Gerke previously served as a Research Fellow in Medicine, Artificial Intelligence, and Law at the Petrie-Flom Center for Health Law Policy, Biotechnology, and Bioethics at Harvard Law School. Before joining Harvard Law School, Professor Gerke was the General Manager of the Institute for German, European and International Medical Law, Public Health Law and Bioethics of the Universities of Heidelberg and Mannheim.
 	</p>
 </div>
+<div class="clearfix">
+	<img class="img2" src="/assets/speakers/kanwal.png" alt="Kanwal Bhatia" width="150" style="float: left; padding:0px 10px 10px 10px">
+	<p style="text-align: justify">
+		<b>Kanwal Bhatia </b> is the founder of Aival, a startup providing software for the evaluation of healthcare AI products. Kanwal has been working in medical imaging AI since finishing her PhD in 2007: first in developing novel algorithms then in commercialising these through industry and startups. She founded Aival with the aim of accelerating adoption of safe and robust AI, using her understanding the technical challenges involved in development - and how to test for these. Aival allows non-technical healthcare providers to rapidly validate and test radiology AI products in an independent manner, helping buyers to identify products that offer greatest clinical benefit for their patients.		
+	</p>
+</div>
 
 ## Organizers
 
