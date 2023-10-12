@@ -14,6 +14,7 @@ redirect_from: /2023-online/
  - Free! 
  - Also see [our MICCAI 2023 workshop on the same subject](/2023-miccai/) and [last year's iteration of this event](/2022/)
  - Stay tuned for more information!
+ - Please register here: [Registration form](https://docs.google.com/forms/d/e/1FAIpQLScoDjHH82IRiwZgP6yq2knl4al_z_toQTcKzWefWGV0-FlAAA/viewform?usp=sf_link)
 
 ## Confirmed Speakers
 <div class="clearfix">
