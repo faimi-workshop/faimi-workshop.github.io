@@ -99,6 +99,17 @@ Nicolás Gaggion, et al.:, *Unsupervised bias discovery in medical image segment
 
 Amar Kumar, et al.:, *Debiasing Counterfactuals In the Presence of Spurious Correlations*  [Link](https://arxiv.org/abs/2308.10984v1)
 
+## Awards MICCAI FAIMI 2023
+Congratulations to <b>Amar Kumar</b> from McGill University for the best oral presenter award. Congratulations to <b>Mahsa Dibaji</b> from the University of Calgary and to <b>Dewinda J. Rumala</b> from Institut Teknologi Sepuluh Nopember for the best poster presenter awards.
+
+
+<div class="clearfix">
+	<img class="img2" src="/images/FAIMI_2023-Best-oral.png" alt="MICCAI FAIMI 2023 Best Oral" width="300" style="float: left; padding:0px 10px 10px 10px">
+	<img class="img2" src="/images/FAIMI_2023-Best-Poster-1.png" alt="MICCAI FAIMI 2023 Best Poster" width="300" style="float: left; padding:0px 10px 10px 10px">
+	<img class="img2" src="/images/FAIMI_2023-Best-poster-2.png" alt="MICCAI FAIMI 2023 Best Poster" width="300" style="float: left; padding:0px 10px 10px 10px">
+
+</div>
+
 
 ## Call for Papers
 We invite the submission of papers for
