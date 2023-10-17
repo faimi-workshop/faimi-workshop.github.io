@@ -9,14 +9,13 @@ redirect_from: /2023-online/
 
 ## TL;DR
 
- - Fairness+Medical Imaging based speakers and discussion.  
- - Nov 6th, 2023
- - Free! 
+ - Fairness & Medical Imaging-based speakers and discussions
+ - Nov 6th, 2023, 13:00-17:00 GMT/UTC
+ - Fully virtual & free! 
  - Also see [our MICCAI 2023 workshop on the same subject](/2023-miccai/) and [last year's iteration of this event](/2022/)
- - Stay tuned for more information!
  - Please register here: [Registration form](https://docs.google.com/forms/d/e/1FAIpQLScoDjHH82IRiwZgP6yq2knl4al_z_toQTcKzWefWGV0-FlAAA/viewform?usp=sf_link)
 
-## Confirmed Speakers
+## Keynote Speakers
 <div class="clearfix">
 	<img class="img2" src="/assets/speakers/Koyejo.jpg" alt="Sanmi Koyejo" width="150" style="float: left; padding:0px 10px 10px 10px">
 	<p style="text-align: justify">
@@ -36,6 +35,29 @@ redirect_from: /2023-online/
 	</p>
 </div>
 
+## Full Schedule
+**All times are in UTC/GMT**
+ | Time | Speaker and Title |
+ |------|-------- |
+ | 13:00 | Opening Remarks | 
+ ||**SESSION 1** |
+ | 13:10 | **Keynote 1: Kanwal Bhatia, Aival, UK - Medical Imaging AI Deployments: What Evidence Are We Seeing of Generalisation and Fairness?** |
+ | 13:40 | Invited talk 1: TBC | 
+ | 13:55 | Invited talk 2: Frederik Pahde, Fraunhofer Heinrich-Hertz-Institute, Germany - Reveal To Revise: An Explainable AI Life Cycle for Iterative Bias Correction of Deep Models |
+ | 14:10 | Break |
+ ||**SESSION 2** |
+ | 14:20 | **Keynote 2: Sara Gerke, Penn State University, USA - Towards Transparency: Creating Labeling Standards for AI/ML-Based Medical Devices** | 
+ | 14:50 | Invited talk 3: Yun-Yang Huang, National Tsing Hua University, Taiwan - Mitigating Bias in MRI-Based Alzheimer’s Disease Classifiers Through Pruning of Deep Neural Networks | 
+ | 15:05 | Invited talk 4: Eran Tal, McGill University, Canada - Target Specification Bias, Counterfactual Prediction, and Algorithmic Fairness in Healthcare |
+ | 15:20 | Break |
+ ||**SESSION 3** |
+ | 15:30 | Invited talk 5: Charlie Jones, Imperial College London, UK - Understanding Dataset Bias in Medical Imaging |
+ | 15:45 | Invited talk 6: Emma Stanley, University of Calgary, Canada - A Flexible Framework for Simulating and Evaluating Biases in Deep Learning-Based Medical Image Analysis |
+ | 16:00 | **Keynote 3: Sanmi Koyejo, Stanford University, USA - Algorithmic Fairness in Imaging: Where Are We Now and Where Are We Going?** |
+ | 16:30 | **Panel Discussion: Sara Gerke, Judy Gichoya, Kanwal Bhatia, Sanmi Koyejo, FAIMI organisers** |
+ | 17:00 | Closing Remarks
+
+ 
 ## Organizers
 
 **Aasa Feragen**, DTU Compute, Technical University of Denmark  
