@@ -37,6 +37,7 @@ redirect_from: /2023-online/
 
 ## Full Schedule
 **All times are in UTC/GMT**
+
  | Time | Speaker and Title |
  |------|-------- |
  | 13:00 | Opening Remarks | 
@@ -55,7 +56,7 @@ redirect_from: /2023-online/
  | 15:45 | Invited talk 6: Emma Stanley, University of Calgary, Canada - A Flexible Framework for Simulating and Evaluating Biases in Deep Learning-Based Medical Image Analysis |
  | 16:00 | **Keynote 3: Sanmi Koyejo, Stanford University, USA - Algorithmic Fairness in Imaging: Where Are We Now and Where Are We Going?** |
  | 16:30 | **Panel Discussion: Sara Gerke, Judy Gichoya, Kanwal Bhatia, Sanmi Koyejo, FAIMI organisers** |
- | 17:00 | Closing Remarks
+ | 17:00 | Closing Remarks |
 
  
 ## Organizers
