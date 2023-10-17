@@ -36,7 +36,7 @@ redirect_from: /2023-online/
 </div>
 
 ## Full Schedule
-**All times are in UTC/GMT**
+*All times are in UTC/GMT*
 
  | Time | Speaker and Title |
  |------|-------- |
