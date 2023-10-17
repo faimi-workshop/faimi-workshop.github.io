@@ -13,7 +13,7 @@ In a series of interdisciplinary events, our aim is to advance the discourse aro
 </p>
 
 <p style="text-align: center">
-<b>Next up: <a href="/2023-miccai/">FAIMI workshop at MICCAI 2023</a>!</b>
+<b>Next up: <a href="/2023-online/">our free, fully virtual FAIMI workshop on Nov 6th</a>!</b>
 </p>
 
 ## Organizers
