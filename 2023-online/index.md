@@ -43,7 +43,7 @@ redirect_from: /2023-online/
  | 13:00 | Opening Remarks | 
  ||**SESSION 1** |
  | 13:10 | **Keynote 1: Kanwal Bhatia, Aival, UK - Medical Imaging AI Deployments: What Evidence Are We Seeing of Generalisation and Fairness?** |
- | 13:40 | Invited talk 1: TBC | 
+ | 13:40 | Invited talk 1: Amar Kumar, McGill University, Canada - Debiasing Counterfactuals In the Presence of Spurious Correlations (MICCAI 2023 FAIMI Workshop Best Oral prize winner) | 
  | 13:55 | Invited talk 2: Frederik Pahde, Fraunhofer Heinrich-Hertz-Institute, Germany - Reveal To Revise: An Explainable AI Life Cycle for Iterative Bias Correction of Deep Models |
  | 14:10 | Break |
  ||**SESSION 2** |
@@ -52,7 +52,7 @@ redirect_from: /2023-online/
  | 15:05 | Invited talk 4: Eran Tal, McGill University, Canada - Target Specification Bias, Counterfactual Prediction, and Algorithmic Fairness in Healthcare |
  | 15:20 | Break |
  ||**SESSION 3** |
- | 15:30 | Invited talk 5: Charlie Jones, Imperial College London, UK - Understanding Dataset Bias in Medical Imaging |
+ | 15:30 | Invited talk 5: Yongshuo Zong, University of Edinburgh, UK - MEDFAIR: Benchmarking Fairness for Medical Imaging |
  | 15:45 | Invited talk 6: Emma Stanley, University of Calgary, Canada - A Flexible Framework for Simulating and Evaluating Biases in Deep Learning-Based Medical Image Analysis |
  | 16:00 | **Keynote 3: Sanmi Koyejo, Stanford University, USA - Algorithmic Fairness in Imaging: Where Are We Now and Where Are We Going?** |
  | 16:30 | **Panel Discussion: Sara Gerke, Judy Gichoya, Kanwal Bhatia, Sanmi Koyejo, FAIMI organisers** |
