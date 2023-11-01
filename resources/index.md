@@ -1,6 +1,6 @@
 ---
 title: Fairness of AI in Medical Imaging
-description: "Resources"
+description: "Medical AI fairness resources"
 layout: default
 permalink: /resources/index.html
 weight: -1
@@ -13,7 +13,7 @@ FAIMI has put together this resource page to help researchers get started with r
 We would like to see this as an organically evolving resource, so please <a href="mailto:faimi-organizers@googlegroups.com">get in touch with us</a> if you have any suggestions for additions or modifications.
 
 ### Literature
-The literature body on fairness of AI in medical imaging is growing rapdily so we do not attempt to provide an exhaustive list of related publications here. 
+The literature body on fairness of AI in medical imaging is growing rapdily, and we do not attempt to provide an exhaustive list of related publications here. 
 Rather, we list a few key references for specific areas of fairness research that can act as starting points for your own literature searches.
 
 #### Review papers on AI fairness
@@ -97,64 +97,64 @@ Rather, we list a few key references for specific areas of fairness research tha
 
 ### Software toolkits
 Although one can investigate fairness issues with standard software environments and packages, a number of researchers have made specialised toolkits aimed at facilitating fairness and bias assessments, and you may find it more efficient to make use of one of these.
-- AI Fairness 360 (Bellamy et al, 2018): https://ai-fairness-360.org/, created by IBM but open-source.
-- Fairlearn (Bird et al, 2020): https://fairlearn.org/, open source, originally Microsoft, self-governing from 2021 - see: https://fairlearn.org/v0.8/about/index.html.
-- Aequitas (Saleiro et al, 2018): http://www.datasciencepublicpolicy.org/our-work/tools-guides/aequitas/, open source bias audit toolkit for machine learning developers (not imaging).
-- MEDFAIR (Zong et al, 2023): https://github.com/ys-zong/MEDFAIR, fairness benchmarking suite for medical imaging.
+- [AI Fairness 360](https://ai-fairness-360.org/), Bellamy et al, 2018. Initially created by IBM but now independent.
+- [FairLearn](https://fairlearn.org/), Bird et al, 2020. Initially created by Microsoft but now independent.
+- [Aequitas](http://www.datasciencepublicpolicy.org/our-work/tools-guides/aequitas/), Saleiro et al, 2018. Open source bias audit toolkit for machine learning developers (not imaging).
+- [MEDFAIR](https://github.com/ys-zong/MEDFAIR), Zong et al, 2023. Fairness benchmarking suite for medical imaging.
 
 ### Initiatives, guidelines and legislation
 Below are some resources related to data collection and research initiatives, guidelines on fairness in AI and information about government efforts to legislate on the use of AI, many of which include reference to fairness and bias.
 #### Initiatives:
-- STANDING Together (Ganapathi et al, 2022): https://www.datadiversity.org/, promotes the formation of inclusive, diverse and transparent medical datasets.
-- “All of Us” research programme (All of Us Research Program Investigators, 2019): https://allofus.nih.gov/, initiative to acquire diverse medical data (not imaging).
-- Fairness of AI in Medical Imaging (FAIMI): https://faimi-workshop.github.io/, independent academic initiative aimed at exploring and promoting Fair AI in medical imaging.
+- [STANDING Together](https://www.datadiversity.org/), Ganapathi et al, 2022. Promotes the formation of inclusive, diverse and transparent medical datasets.
+- [“All of Us” research programme](https://allofus.nih.gov/), All of Us Research Program Investigators, 2019. US initiative to acquire diverse medical data (not imaging).
+- Fairness of AI in Medical Imaging (FAIMI): that's us, an independent academic initiative aimed at exploring and promoting fair AI in medical imaging.
 
 #### Guidelines:
-- FUTURE-AI: https://future-ai.eu/, aims to establish guidelines for AI in healthcare, including fairness as a key principle.
-- Algorithmic Bias Playbook (Obermeyer et al, 2021): A high-level discussion which addresses aspects such as label choice bias.
+- [FUTURE-AI](https://future-ai.eu/) aims to establish guidelines for AI in healthcare, including fairness as a key principle.
+- [Algorithmic Bias Playbook](https://www.chicagobooth.edu/-/media/project/chicago-booth/centers/caai/docs/algorithmic-bias-playbook-june-2021) (Obermeyer et al, 2021): A high-level discussion which addresses aspects such as label choice bias.
 
 #### Legislation/white papers on regulation of AI:
-- Global AI Legislation Tracker: https://iapp.org/resources/article/global-ai-legislation-tracker/.
-- European Commission, “Proposal for a Regulation of the European Parliament and of the Council Laying Down Harmonised Rules on Artificial Intelligence (Artificial Intelligence Act) and Amending Certain Union Legislative Acts,” 2021 (https://ec.europa.eu/newsroom/dae/redirection/document/75788).
-- UK Government Department for Science Innovation and Technology and Office for Artificial Intelligence, “A Pro-innovation Approach to AI Regulation,” 2023 (https://www.gov.uk/government/publications/ai-regulation-a-pro-innovation-approach).
-- USA Government, “Blueprint for an AI Bill of Rights” (https://www.whitehouse.gov/ostp/ai-bill-of-rights/).
-- State-by-state summary of AI legislation can be found here: https://epic.org/the-state-of-state-ai-laws-2023/.
-- ISO has a technical standard on AI bias, IEEE has one under development, NIST has a proposal document as well.
+- [Global AI Legislation Tracker](https://iapp.org/resources/article/global-ai-legislation-tracker/)
+- [European Commission, “Proposal for a Regulation of the European Parliament and of the Council Laying Down Harmonised Rules on Artificial Intelligence (Artificial Intelligence Act) and Amending Certain Union Legislative Acts,” 2021](https://ec.europa.eu/newsroom/dae/redirection/document/75788)
+- [UK Government Department for Science Innovation and Technology and Office for Artificial Intelligence, “A Pro-innovation Approach to AI Regulation,” 2023](https://www.gov.uk/government/publications/ai-regulation-a-pro-innovation-approach)
+- [USA Government, “Blueprint for an AI Bill of Rights,” 2023](https://www.whitehouse.gov/ostp/ai-bill-of-rights/)
+- State-by-state summary of AI legislation can be found [here](https://epic.org/the-state-of-state-ai-laws-2023/)
+- [ISO has a technical standard on AI bias](https://www.iso.org/standard/77607.html), [IEEE has one under development](https://standards-dev21.ieee.org/ieee/7003/6980/), [NIST has a proposal document as well](https://doi.org/10.6028/NIST.SP.1270)
 
 ### Datasets
 Unfortunately, most currently available databases of medical imaging data do not feature associated demographic information such as sex and race, which is essential for much work in fairness of AI. 
 Below we have put together a summary of the most commonly used datasets that do feature such information.
-- UK Biobank: Database of half a million patients from the UK population including approximately 100,000 with imaging consisting of heart, brain and abdominal MRI together with a wide range of demographic information. Available worldwide to approved projects upon payment of administration fee (https://www.ukbiobank.ac.uk/).
-- ADNI (Mueller et al, 2005): Multisite study of brain imaging (MRI), biochemical, and genetic data with Alzheimer’s diagnosis status and demographic information including race and sex (https://adni.loni.usc.edu/data-samples/access-data/)
-- ISIC challenge datasets: The International Skin Imaging Collaboration (ISIC) run yearly challenges for AI processing of dermatology images. Some of these have associated skin tone information (https://challenge.isic-archive.com/data/).
-- PAD-UFES (Pacheco et al, 2020) skin lesion dataset: dermatology images with 22 clinical parameters including age and Fitzpatrick skin type (https://data.mendeley.com/datasets/zr7vgbcyr2/1). 
-- Diverse Dermatology Images (Daneshjou et al, 2022): Database of 656 dermatology images from 570 unique patients, approximately balanced by skin tone. Expert annotations of lesion diagnosis and Fitzpatrick skin tone. Freely available (https://ddi-dataset.github.io/).
-- Fitzpatrick 17k dataset (Groh et al, 2021): Database of 17k dermatology images with algorithmically determined Fitzpatrick skin tone data (https://github.com/mattgroh/fitzpatrick17k).
-- NIH  chest X-ray  dataset: 112,120  chest  X-ray  images  from  30,805  patients,  labelled  with  14  common  thorax  diseases  and demographic information including age and sex (https://www.kaggle.com/datasets/nih-chest-xrays/data).
-- CheXpert chest X-ray dataset (Irvin et al, 2019): 224,316 chest X-rays of 65,240 patients with age and sex information (https://stanfordmlgroup.github.io/competitions/chexpert/).
-- PadChest (Bustos et al, 2020) chest X-ray dataset: 160,000 chest X-ray images from 67,000 patients, includes age (https://bimcv.cipf.es/bimcv-projects/padchest/).
-- Duke-Breast-Cancer-MRI (Saha et al, 2018): Dataset of Dynamic Contrast Enhanced MRI images of women with breast cancer, includes images, derived radiomics, tumour segmentations and patient demographics including race. Freely available upon registration (https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=70226903).
+- [UK Biobank](https://www.ukbiobank.ac.uk/): Database of half a million patients from the UK population including approximately 100,000 with imaging consisting of heart, brain and abdominal MRI together with a wide range of demographic information. Available worldwide to approved projects upon payment of administration fee.
+- [ADNI](https://adni.loni.usc.edu/data-samples/access-data/), Mueller et al, 2005: Multisite study of brain imaging (MRI), biochemical, and genetic data with Alzheimer’s diagnosis status and demographic information including race and sex.
+- [ISIC challenge datasets](https://challenge.isic-archive.com/data/): The International Skin Imaging Collaboration (ISIC) runs yearly challenges for AI processing of dermatology images. Some of these have associated skin tone information.
+- [PAD-UFES](https://data.mendeley.com/datasets/zr7vgbcyr2/1), Pacheco et al, 2020: skin lesion dataset, dermatology images with 22 clinical parameters including age and Fitzpatrick skin type.
+- [Diverse Dermatology Images](https://ddi-dataset.github.io/), Daneshjou et al, 2022: Database of 656 dermatology images from 570 unique patients, approximately balanced by skin tone. Expert annotations of lesion diagnosis and Fitzpatrick skin tone. Freely available.
+- [Fitzpatrick 17k dataset](https://github.com/mattgroh/fitzpatrick17k), Groh et al, 2021: Database of 17k dermatology images with algorithmically determined Fitzpatrick skin tone data.
+- [NIH  chest X-ray  dataset](https://www.kaggle.com/datasets/nih-chest-xrays/data): 112,120  chest  X-ray  images  from  30,805  patients,  labelled  with  14  common  thorax  diseases  and demographic information including age and sex.
+- [CheXpert chest X-ray dataset](https://stanfordmlgroup.github.io/competitions/chexpert/), Irvin et al, 2019: 224,316 chest X-rays of 65,240 patients with age and sex information.
+- [PadChest](https://bimcv.cipf.es/bimcv-projects/padchest/), Bustos et al, 2020: chest X-ray dataset, 160,000 chest X-ray images from 67,000 patients, includes age.
+- [Duke-Breast-Cancer-MRI](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=70226903), Saha et al, 2018: Dataset of Dynamic Contrast Enhanced MRI images of women with breast cancer, includes images, derived radiomics, tumour segmentations and patient demographics including race. Freely available upon registration.
 
 ### Talks
 #### 2016
-- Joy Buolamwini’s TED talk on “How I’m Fighting Bias in Algorithms”: https://www.ted.com/talks/joy_buolamwini_how_i_m_fighting_bias_in_algorithms
+- [Joy Buolamwini (TED talk), “How I’m Fighting Bias in Algorithms”](https://www.ted.com/talks/joy_buolamwini_how_i_m_fighting_bias_in_algorithms)
 
 #### 2019
-- Sandra Wachter, “When AI Disrupts the Law: Fairness, Privacy and Advertising in an Algorithmic World”: https://www.youtube.com/watch?v=cSQrd4H3kOU
+- [Sandra Wachter, “When AI Disrupts the Law: Fairness, Privacy and Advertising in an Algorithmic World”](https://www.youtube.com/watch?v=cSQrd4H3kOU)
 
 #### 2021
-- Marzyeh Ghassemi, “The Fairest of Them All: Privacy, Data and Machine Learning for Health”: https://www.youtube.com/watch?v=_F8cBeVEedE
-- Eran Tal, “Accuracy and Fairness in Machine Learning: Lessons From Measurement”: https://www.youtube.com/watch?v=iVqQ4MlIG0o
-- Natalia Martinez, “Blind Pareto Fairness and Subgroup Robustness”: https://slideslive.com/38959193/blind-pareto-fairness-and-subgroup-robustness
-- Nithya Sambasivan, “Reimagining ML Fairness in India and Beyond”: https://www.youtube.com/watch?v=MX9qgLclb_I
-- Abeba Birhane, “The Limits of Fairness”: https://www.youtube.com/watch?v=ekA2z3Xpzpw
-- Sara Gerke, “Legal Issues of Artificial Intelligence in Healthcare in the US”: https://www.youtube.com/watch?v=zwONJAxK_AA
+- [Marzyeh Ghassemi, “The Fairest of Them All: Privacy, Data and Machine Learning for Health”](https://www.youtube.com/watch?v=_F8cBeVEedE)
+- [Eran Tal, “Accuracy and Fairness in Machine Learning: Lessons From Measurement”](https://www.youtube.com/watch?v=iVqQ4MlIG0o)
+- [Natalia Martinez, “Blind Pareto Fairness and Subgroup Robustness”](https://slideslive.com/38959193/blind-pareto-fairness-and-subgroup-robustness)
+- [Nithya Sambasivan, “Reimagining ML Fairness in India and Beyond”](https://www.youtube.com/watch?v=MX9qgLclb_I)
+- [Abeba Birhane, “The Limits of Fairness”](https://www.youtube.com/watch?v=ekA2z3Xpzpw)
+- [Sara Gerke, “Legal Issues of Artificial Intelligence in Healthcare in the US”](https://www.youtube.com/watch?v=zwONJAxK_AA)
 
 #### 2022
 - [FAIMI 2022 Online Symposium talks](https://www.youtube.com/playlist?list=PLgwux8eqIFKdWYJTgeoCU4vZ0s6GZtc6e)
-- Judy Wawira Gichoya, “Hidden in Plain Sight: An Update to the Reading Race Project”: https://www.youtube.com/watch?v=Lm7Ir0K43Us
-- Sanmi Koyejo, “Algorithmic Fairness: Why it's Hard, and Why it's Interesting”, CVPR Tutorial: Part 1 - https://www.youtube.com/watch?v=nR4nfpXNtpg, Part 2 - https://www.youtube.com/watch?v=h_aAtC8zvKo&t=0s
-- Jessica Schrouff, “Maintaining Fairness Under Distributions Shift”, 2022: https://www.youtube.com/watch?v=eEREC-WDHAI
+- [Judy Wawira Gichoya, “Hidden in Plain Sight: An Update to the Reading Race Project”](https://www.youtube.com/watch?v=Lm7Ir0K43Us)
+- Sanmi Koyejo, “Algorithmic Fairness: Why it's Hard, and Why it's Interesting”, CVPR Tutorial: [Part 1](https://www.youtube.com/watch?v=nR4nfpXNtpg), [Part 2](https://www.youtube.com/watch?v=h_aAtC8zvKo&t=0s)
+- [Jessica Schrouff, “Maintaining Fairness Under Distributions Shift”](https://www.youtube.com/watch?v=eEREC-WDHAI)
 
 ### References
 [^1]: Mehrabi et al (2019), “A Survey on Bias and Fairness in Machine Learning”, ...
