@@ -78,7 +78,7 @@ redirect_from: /newsletter/
     </div>
     <div></div>
     <div id="sib-container" class="sib-container--large sib-container--vertical" style="text-align:center; background-color:rgba(255,255,255,1); max-width:540px; border-radius:3px; border-width:1px; border-color:#C0CCD9; border-style:solid; direction:ltr">
-      <form id="sib-form" method="POST" action="https://c0facda0.sibforms.com/serve/MUIEAC0ytIUE6VHesEKMz5LCNdlXL_8PTKpQIzAZJQJyHiUuAGjS3FvxYxc8OgVhsrrKtQ7Uo8TpM6UOglwkWkc52ov4-mXZinB7oqHDiAxf9Ps2Whp1Y0WT8hZPFanQ5f5Gbtuu3cSPylf1QdyKw0lEFcszufEHdyuVtypoEVUxbWqIF5vCBQRWv4iJti0FvZ_5M4RQUoWudXVO" data-type="subscription">
+      <form id="sib-form" method="POST" action="https://c0facda0.sibforms.com/serve/MUIFAKtzcZCrVJEYm1fqfkzSNunRAidge0kjtLgulnUdVftBC6P8odubBGCpdZp4txQKcllxi7bJ7qLBvkEqjhA2tZf4aisJqjWOhETuGMH5vwRhAC9PeBQBWpwlk3f2LuMJzfEvFIkYxoU7dYdiThbK6WIHNTUvhd-KDKRF7XtNuR9nXF5tzItA18RafmyYUoVoIp1fi4u4DD09" data-type="subscription">
         <div style="padding: 8px 0;">
           <div class="sib-form-block" style="font-size:16px; text-align:left; font-family:&quot;Helvetica&quot;, sans-serif; color:#3C4858; background-color:transparent; text-align:left">
             <div class="sib-text-form-block">
@@ -101,6 +101,38 @@ redirect_from: /newsletter/
               </label>
               <label class="entry__specification" style="font-size:12px; text-align:left; font-family:&quot;Helvetica&quot;, sans-serif; color:#8390A4; text-align:left">
                 Provide your email address to subscribe. For e.g abc@xyz.com
+              </label>
+            </div>
+          </div>
+        </div>
+        <div style="padding: 8px 0;">
+          <div class="sib-input sib-form-block">
+            <div class="form__entry entry_block">
+              <div class="form__label-row ">
+                <label class="entry__label" style="font-weight: 700; text-align:left; font-size:16px; text-align:left; font-weight:700; font-family:&quot;Helvetica&quot;, sans-serif; color:#3c4858;" for="FIRSTNAME">First name (optional)</label>
+
+                <div class="entry__field">
+                  <input class="input " maxlength="200" type="text" id="FIRSTNAME" name="FIRSTNAME" autocomplete="off" placeholder="FIRSTNAME" />
+                </div>
+              </div>
+
+              <label class="entry__error entry__error--primary" style="font-size:16px; text-align:left; font-family:&quot;Helvetica&quot;, sans-serif; color:#661d1d; background-color:#ffeded; border-radius:3px; border-color:#ff4949;">
+              </label>
+            </div>
+          </div>
+        </div>
+        <div style="padding: 8px 0;">
+          <div class="sib-input sib-form-block">
+            <div class="form__entry entry_block">
+              <div class="form__label-row ">
+                <label class="entry__label" style="font-weight: 700; text-align:left; font-size:16px; text-align:left; font-weight:700; font-family:&quot;Helvetica&quot;, sans-serif; color:#3c4858;" for="LASTNAME">Last name (optional)</label>
+
+                <div class="entry__field">
+                  <input class="input " maxlength="200" type="text" id="LASTNAME" name="LASTNAME" autocomplete="off" placeholder="LASTNAME" />
+                </div>
+              </div>
+
+              <label class="entry__error entry__error--primary" style="font-size:16px; text-align:left; font-family:&quot;Helvetica&quot;, sans-serif; color:#661d1d; background-color:#ffeded; border-radius:3px; border-color:#ff4949;">
               </label>
             </div>
           </div>
@@ -140,10 +172,9 @@ redirect_from: /newsletter/
               </svg>
             </div>
             <p style="font-size:14px; text-align:left; font-family:&quot;Helvetica&quot;, sans-serif; color:#687484; background-color:transparent;">
-              We use Brevo as our marketing platform. By Clicking below to submit this form, you acknowledge that the information you provided will be transferred to Brevo for processing in accordance with their <a target="_blank" class="clickable_link" href="https://www.sendinblue.com/legal/termsofuse/">terms of use</a>
+              We use Brevo as our marketing platform. By clicking below to submit this form, you acknowledge that the information you provided will be transferred to Brevo for processing in accordance with their <a target="_blank" class="clickable_link" href="https://www.brevo.com/legal/termsofuse/">terms of use</a>
             </p>
           </div>
-
         </div>
         <div style="padding: 8px 0;">
           <div class="sib-form-block" style="text-align: left">
