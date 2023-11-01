@@ -5,6 +5,8 @@ layout: default
 permalink: /resources/index.html
 weight: -1
 redirect_from: /resources/
+toc:
+  sidebar: left
 ---
 
 ### Getting started with research on AI fairness in medical imaging
