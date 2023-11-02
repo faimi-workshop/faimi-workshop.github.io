@@ -16,17 +16,24 @@ The literature body on fairness of AI in medical imaging is growing rapdily, and
 Rather, we list a few key references for specific areas of fairness research that can act as starting points for your own literature searches.
 
 #### Review papers on AI fairness
-- Mehrabi et al (2021), [A Survey on Bias and Fairness in Machine Learning](https://dl.acm.org/doi/10.1145/3457607), ACM Computing Surveys. ([arxiv](https://doi.org/10.48550/arXiv.1908.09635))
-- Du et al (2020), [Fairness in Deep Learning: A Computational Perspective](https://ieeexplore.ieee.org/document/9113719), IEEE Intelligent Systems. ([arxiv](https://arxiv.org/abs/1908.08843))
-- Chen et al (2023), [Algorithmic Fairness in Artificial Intelligence for Medicine and Healthcare](https://doi.org/10.1038/s41551-023-01056-8), Nature Biomedical Engineering.
+Mehrabi et al (2021), [A Survey on Bias and Fairness in Machine Learning](https://dl.acm.org/doi/10.1145/3457607), ACM Computing Surveys. ([arxiv](https://doi.org/10.48550/arXiv.1908.09635))
+
+Du et al (2020), [Fairness in Deep Learning: A Computational Perspective](https://ieeexplore.ieee.org/document/9113719), IEEE Intelligent Systems. ([arxiv](https://arxiv.org/abs/1908.08843))
+
+Chen et al (2023), [Algorithmic Fairness in Artificial Intelligence for Medicine and Healthcare](https://doi.org/10.1038/s41551-023-01056-8), Nature Biomedical Engineering.
 
 #### Seminal works on AI fairness
-- Angwin et al (2016), [Machine Bias](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing), ProPublica. *COMPAS study in which racial bias was shown in a machine learning algorithm for predicting recidivism.*
-- Hardt et al (2016), [Equality of Opportunity in Supervised Learning](https://dl.acm.org/doi/10.5555/3157382.3157469), NeurIPS. ([arxiv](https://arxiv.org/abs/1610.02413)) *Introduced the concepts of equality of opportunity and equalized odds in algorithmic fairness. Characterizes trade-offs and provides optimal post-processing methods.*
-- Chouldechova (2017), [Fair Prediction with Disparate Impact: A Study of Bias in Recidivism Prediction Instruments](https://www.liebertpub.com/doi/10.1089/big.2016.0047), Big Data. *A re-analysis and re-discussion of the COMPAS case. The key result here was that PPV equality and equal error rates are not compatible in the presence of base rate differences between groups.*
-- Buolamwini et al (2018), [Gender Shades: Intersectional Accuracy Disparities in Commercial Gender Classification](https://proceedings.mlr.press/v81/buolamwini18a.html), FAccT. *One of the earliest papers to uncover AI bias in image classification.*
-- Obermeyer et al (2019), [Dissecting Racial Bias in an Algorithm Used to Manage the Health of Populations](https://doi.org/10.1126/science.aax2342), Science. *Demonstration that an algorithm actively used to distribute healthcare system resources was severely biased against black patients.*
-- Barocas et al (2019), [Fairness and Machine Learning: Limitations and Opportunities](https://fairmlbook.org/index.html). *Full book on algorithmic fairness, covers many aspects.*
+Angwin et al (2016), [Machine Bias](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing), ProPublica. *COMPAS study in which racial bias was shown in a machine learning algorithm for predicting recidivism.*
+
+Hardt et al (2016), [Equality of Opportunity in Supervised Learning](https://dl.acm.org/doi/10.5555/3157382.3157469), NeurIPS. ([arxiv](https://arxiv.org/abs/1610.02413)) *Introduced the concepts of equality of opportunity and equalized odds in algorithmic fairness. Characterizes trade-offs and provides optimal post-processing methods.*
+
+Chouldechova (2017), [Fair Prediction with Disparate Impact: A Study of Bias in Recidivism Prediction Instruments](https://www.liebertpub.com/doi/10.1089/big.2016.0047), Big Data. *A re-analysis and re-discussion of the COMPAS case. The key result here was that PPV equality and equal error rates are not compatible in the presence of base rate differences between groups.*
+
+Buolamwini et al (2018), [Gender Shades: Intersectional Accuracy Disparities in Commercial Gender Classification](https://proceedings.mlr.press/v81/buolamwini18a.html), FAccT. *One of the earliest papers to uncover AI bias in image classification.*
+
+Obermeyer et al (2019), [Dissecting Racial Bias in an Algorithm Used to Manage the Health of Populations](https://doi.org/10.1126/science.aax2342), Science. *Demonstration that an algorithm actively used to distribute healthcare system resources was severely biased against black patients.*
+
+Barocas et al (2019), [Fairness and Machine Learning: Limitations and Opportunities](https://fairmlbook.org/index.html). *Full book on algorithmic fairness, covers many aspects.*
 
 #### Perspectives on what constitutes AI fairness
 - Corbett-Davies and Goel (2018), [The Measure and Mismeasure of Fairness: A Critical Review of Fair Machine Learning](https://arxiv.org/abs/1808.00023), arXiv. (As of 2023, a version of this is now also in JMLR.)
@@ -90,7 +97,7 @@ Rather, we list a few key references for specific areas of fairness research tha
 - Yuan et al (2022), [EdgeMixup: Improving Fairness for Skin Disease Classification and Segmentation](https://doi.org/10.48550/arXiv.2202.13883), arXiv.
 
 #### Miscellaneous
-- Simoiu et al (2017), [The Problem of Infra-Marginality in Outcome Tests for Discrimination](https://dx.doi.org/10.2139/ssrn.2811449), The Annals of Applied Statistics, and Kearns et al (2018), [Preventing Fairness Gerrymandering: Auditing and Learning for Subgroup Fairness](https://proceedings.mlr.press/v80/kearns18a.html), ICML: Fairness with respect to one protected attribute can hide aggravated unfairness with respect to another (a.k.a. inframarginality / fairness gerrymandering / subgroup fairness).
+- Simoiu et al (2017), [The Problem of Infra-Marginality in Outcome Tests for Discrimination](https://dx.doi.org/10.2139/ssrn.2811449), The Annals of Applied Statistics, and Kearns et al (2018), [Preventing Fairness Gerrymandering: Auditing and Learning for Subgroup Fairness](https://proceedings.mlr.press/v80/kearns18a.html), ICML: *Fairness with respect to one protected attribute can hide aggravated unfairness with respect to another (a.k.a. inframarginality / fairness gerrymandering / subgroup fairness).*
 - Wick et al (2019), [Unlocking Fairness: a Trade-off Revisited](https://papers.nips.cc/paper/2019/hash/373e4c5d8edfa8b74fd4b6791d0cf6dc-Abstract.html), NeurIPS, and Dutta et al (2020), [Is There a Trade-Off Between Fairness and Accuracy? A Perspective Using Mismatched Hypothesis Testing](https://proceedings.mlr.press/v119/dutta20a.html), ICML: *Observed fairness-accuracy trade-offs may be illusory and purely a result of label bias. Optimizing for fairness may also yield performance-optimal models, even if evaluations on (equally biased) test data suggests otherwise.* Also see Sharma et al (2023), [On Testing and Comparing Fair classifiers under Data Bias](https://arxiv.org/abs/2302.05906), arxiv, on this subject.
 - Lazar Reich and Vijaykumar (2020), [A Possibility in Algorithmic Fairness: Can Calibration and Equal Error Rates be Reconciled?](https://drops.dagstuhl.de/opus/volltexte/2021/13872/), FORC. *Contrary to popular belief, equalized odds (i.e., equal TPR and FPR) and calibration by groups **are** compatible.*
 - Wachter et al (2021), [Bias Preservation in Machine Learning: The Legality of Fairness Metrics Under EU Non-Discrimination Law](https://dx.doi.org/10.2139/ssrn.3792772), West Virginia Law Review, and Wachter et al (2023), [The Unfairness of Fair Machine Learning: Levelling Down and Strict Egalitarianism by Default](https://ssrn.com/abstract=4331652), Michigan Technology Law Review: *A legal perspective on AI fairness and the “levelling down” phenomenon in “fair” machine learning*.
