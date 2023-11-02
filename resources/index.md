@@ -23,96 +23,161 @@ Mehrabi et al (2021), [A Survey on Bias and Fairness in Machine Learning](https:
 Chen et al (2023), [Algorithmic Fairness in Artificial Intelligence for Medicine and Healthcare](https://doi.org/10.1038/s41551-023-01056-8), Nature Biomedical Engineering.
 
 #### Seminal works on AI fairness
-Angwin et al (2016), [Machine Bias](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing), ProPublica. *COMPAS study in which racial bias was shown in a machine learning algorithm for predicting recidivism.*
+Angwin et al (2016), [Machine Bias](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing), ProPublica.  
+*COMPAS study in which racial bias was shown in a machine learning algorithm for predicting recidivism.*
 
-Hardt et al (2016), [Equality of Opportunity in Supervised Learning](https://dl.acm.org/doi/10.5555/3157382.3157469), NeurIPS. ([arxiv](https://arxiv.org/abs/1610.02413)) *Introduced the concepts of equality of opportunity and equalized odds in algorithmic fairness. Characterizes trade-offs and provides optimal post-processing methods.*
+Hardt et al (2016), [Equality of Opportunity in Supervised Learning](https://dl.acm.org/doi/10.5555/3157382.3157469), NeurIPS. ([arxiv](https://arxiv.org/abs/1610.02413))  
+*Introduced the concepts of equality of opportunity and equalized odds in algorithmic fairness. Characterizes trade-offs and provides optimal post-processing methods.*
 
-Chouldechova (2017), [Fair Prediction with Disparate Impact: A Study of Bias in Recidivism Prediction Instruments](https://www.liebertpub.com/doi/10.1089/big.2016.0047), Big Data. *A re-analysis and re-discussion of the COMPAS case. The key result here was that PPV equality and equal error rates are not compatible in the presence of base rate differences between groups.*
+Chouldechova (2017), [Fair Prediction with Disparate Impact: A Study of Bias in Recidivism Prediction Instruments](https://www.liebertpub.com/doi/10.1089/big.2016.0047), Big Data.  
+*A re-analysis and re-discussion of the COMPAS case. The key result here was that PPV equality and equal error rates are not compatible in the presence of base rate differences between groups.*
 
-Buolamwini et al (2018), [Gender Shades: Intersectional Accuracy Disparities in Commercial Gender Classification](https://proceedings.mlr.press/v81/buolamwini18a.html), FAccT. *One of the earliest papers to uncover AI bias in image classification.*
+Buolamwini et al (2018), [Gender Shades: Intersectional Accuracy Disparities in Commercial Gender Classification](https://proceedings.mlr.press/v81/buolamwini18a.html), FAccT.  
+*One of the earliest papers to uncover AI bias in image classification.*
 
-Obermeyer et al (2019), [Dissecting Racial Bias in an Algorithm Used to Manage the Health of Populations](https://doi.org/10.1126/science.aax2342), Science. *Demonstration that an algorithm actively used to distribute healthcare system resources was severely biased against black patients.*
+Obermeyer et al (2019), [Dissecting Racial Bias in an Algorithm Used to Manage the Health of Populations](https://doi.org/10.1126/science.aax2342), Science.  
+*Demonstration that an algorithm actively used to distribute healthcare system resources was severely biased against black patients.*
 
-Barocas et al (2019), [Fairness and Machine Learning: Limitations and Opportunities](https://fairmlbook.org/index.html). *Full book on algorithmic fairness, covers many aspects.*
+Barocas et al (2019), [Fairness and Machine Learning: Limitations and Opportunities](https://fairmlbook.org/index.html).  
+*Full book on algorithmic fairness, covers many aspects.*
 
 #### Perspectives on what constitutes AI fairness
-- Corbett-Davies and Goel (2018), [The Measure and Mismeasure of Fairness: A Critical Review of Fair Machine Learning](https://arxiv.org/abs/1808.00023), arXiv. (As of 2023, a version of this is now also in JMLR.)
-- Rajkomar et al (2018), [Ensuring Fairness in Machine Learning to Advance Health Equity](https://doi.org/10.7326/M18-1990), Annals of Internal Medicine.
-- McCradden et al (2020), [Ethical limitations of algorithmic fairness solutions in health care machine learning](https://doi.org/10.1016/s2589-7500(20)30065-0), The Lancet Digital Health.
-- Sambasivan et al (2021), [Re-imagining Algorithmic Fairness in India and Beyond](https://doi.org/10.1145/3442188.3445896), FAccT.
-- Ricci Lara et al (2022), [Addressing Fairness in Artificial Intelligence for Medical Imaging](https://doi.org/10.1038/s41467-022-32186-3), Nature Communications. 
-- Petersen et al (2023), [The Path Toward Equal Performance in Medical Machine Learning](https://doi.org/10.1016/j.patter.2023.100790), Patterns.
+Corbett-Davies and Goel (2018), [The Measure and Mismeasure of Fairness: A Critical Review of Fair Machine Learning](https://arxiv.org/abs/1808.00023), arXiv. (As of 2023, a version of this is now also in JMLR.)
+
+Rajkomar et al (2018), [Ensuring Fairness in Machine Learning to Advance Health Equity](https://doi.org/10.7326/M18-1990), Annals of Internal Medicine.
+
+McCradden et al (2020), [Ethical limitations of algorithmic fairness solutions in health care machine learning](https://doi.org/10.1016/s2589-7500(20)30065-0), The Lancet Digital Health.
+Sambasivan et al (2021), [Re-imagining Algorithmic Fairness in India and Beyond](https://doi.org/10.1145/3442188.3445896), FAccT.
+
+Ricci Lara et al (2022), [Addressing Fairness in Artificial Intelligence for Medical Imaging](https://doi.org/10.1038/s41467-022-32186-3), Nature Communications. 
+
+Petersen et al (2023), [The Path Toward Equal Performance in Medical Machine Learning](https://doi.org/10.1016/j.patter.2023.100790), Patterns.
 
 #### Shortcut learning, models recognizing sensitive patient attributes, and fairness in medical AI
-- Geirhos et al (2020), [Shortcut Learning in Deep Neural Networks](https://doi.org/10.1038/s42256-020-00257-z), Nature Machine Intelligence. *General overview of shortcut learning in deep neural networks, not medicine-specific.*
-- Yi et al (2021), [Radiology “Forensics”: Determination of Age and Sex from Chest Radiographs Using Deep Learning](https://doi.org/10.1007/s10140-021-01953-y), Emergency Radiology, and Gichoya et al (2022), [AI Recognition of Patient Race in Medical Imaging: A Modelling Study](https://doi.org/10.1016/S2589-7500(22)00063-2), Lancet Digital Health. *AI recognition of patient age, sex, and race from chest x-rays, which raises the possibility of bias in AI models trained using such images.*
-- Glocker et al (2023), [Algorithmic Encoding of Protected Characteristics in Chest X-ray Disease Detection Models](https://doi.org/10.1016/j.ebiom.2023.104467), eBiomedicine. *Does encoding of protected characteristics in an AI model necessarily lead to bias?*
-- Brown et al (2023), [Detecting Shortcut Learning for Fair Medical AI Using Shortcut Testing](https://doi.org/10.1038/s41467-023-39902-7), Nature Communications. *Detecting shortcut learning for fair medical AI using shortcut testing.*
-- Zou et al (2023), [Implications of Predicting Race Variables from Medical Images](https://doi.org/10.1126/science.adh4260), Science.
+Geirhos et al (2020), [Shortcut Learning in Deep Neural Networks](https://doi.org/10.1038/s42256-020-00257-z), Nature Machine Intelligence.  
+*General overview of shortcut learning in deep neural networks, not medicine-specific.*
+
+Yi et al (2021), [Radiology “Forensics”: Determination of Age and Sex from Chest Radiographs Using Deep Learning](https://doi.org/10.1007/s10140-021-01953-y), Emergency Radiology, and Gichoya et al (2022), [AI Recognition of Patient Race in Medical Imaging: A Modelling Study](https://doi.org/10.1016/S2589-7500(22)00063-2), Lancet Digital Health.  
+*AI recognition of patient age, sex, and race from chest x-rays, which raises the possibility of bias in AI models trained using such images.*
+
+Glocker et al (2023), [Algorithmic Encoding of Protected Characteristics in Chest X-ray Disease Detection Models](https://doi.org/10.1016/j.ebiom.2023.104467), eBiomedicine.  
+*Does encoding of protected characteristics in an AI model necessarily lead to bias?*
+
+Brown et al (2023), [Detecting Shortcut Learning for Fair Medical AI Using Shortcut Testing](https://doi.org/10.1038/s41467-023-39902-7), Nature Communications.  
+*Detecting shortcut learning for fair medical AI using shortcut testing.*
+
+Zou et al (2023), [Implications of Predicting Race Variables from Medical Images](https://doi.org/10.1126/science.adh4260), Science.
 
 #### Quantitative comparisons
-- Zhang et al (2022), [Improving the Fairness of Chest X-ray Classifiers](https://proceedings.mlr.press/v174/zhang22a.html), CHIL. *Comparison of multiple approaches for addressing bias in chest X-ray classification and evaluation using different definitions of fairness.*
-- Lee et al (2023), [An Investigation Into the Impact of Deep Learning Model Choice on Sex and Race Bias in Cardiac MR Segmentation](https://doi.org/10.1007/978-3-031-45249-9_21), MICCAI FAIMI workshop. *Comparison of bias characteristics of different deep learning models including CNNs and a vision transformer.*
-- Zong et al (2023), [MEDFAIR: Benchmarking Fairness for Medical Imaging](https://doi.org/10.48550/arXiv.2210.01725), ICLR. *Comparison of many standard fairness methods on ten medical image datasets, spanning chest x-rays, brain MRIs, retinal fundus images, dermatoscopic images, heart CT, lung CT, and SD-OCT.*
+Zhang et al (2022), [Improving the Fairness of Chest X-ray Classifiers](https://proceedings.mlr.press/v174/zhang22a.html), CHIL.  
+*Comparison of multiple approaches for addressing bias in chest X-ray classification and evaluation using different definitions of fairness.*
+
+Lee et al (2023), [An Investigation Into the Impact of Deep Learning Model Choice on Sex and Race Bias in Cardiac MR Segmentation](https://doi.org/10.1007/978-3-031-45249-9_21), MICCAI FAIMI workshop.  
+*Comparison of bias characteristics of different deep learning models including CNNs and a vision transformer.*
+
+Zong et al (2023), [MEDFAIR: Benchmarking Fairness for Medical Imaging](https://doi.org/10.48550/arXiv.2210.01725), ICLR.  
+*Comparison of many standard fairness methods on ten medical image datasets, spanning chest x-rays, brain MRIs, retinal fundus images, dermatoscopic images, heart CT, lung CT, and SD-OCT.*
 
 #### Applied AI fairness research in medical imaging
 ##### AI fairness for chest x-rays
-- Larrazabal et al (2020), [Gender Imbalance in Medical Imaging Datasets Produces Biased Classifiers for Computer-aided Diagnosis](https://doi.org/10.1073/pnas.1919012117), Proceedings of the National Academy of Sciences (USA).
-- Seyyed-Kalantari et al (2021), [Underdiagnosis Bias of Artificial Intelligence Algorithms Applied to Chest Radiographs in Under-served Patient Populations](https://doi.org/10.1038/s41591-021-01595-0), Nature Medicine. 
-- Zhang et al (2022), [Improving the Fairness of Chest X-ray Classifiers](https://proceedings.mlr.press/v174/zhang22a.html), CHIL.
-- Lin et al (2023), [Improving Model Fairness in Image-based Computer-aided Diagnosis](https://doi.org/10.1038/s41467-023-41974-4), Nature Communications.
-- Glocker et al (2023), [Risk of Bias in Chest Radiography Deep Learning Foundation Models](https://doi.org/10.1148/ryai.230060), Radiology: Artificial Intelligence.
+Larrazabal et al (2020), [Gender Imbalance in Medical Imaging Datasets Produces Biased Classifiers for Computer-aided Diagnosis](https://doi.org/10.1073/pnas.1919012117), Proceedings of the National Academy of Sciences (USA).
+
+Seyyed-Kalantari et al (2021), [Underdiagnosis Bias of Artificial Intelligence Algorithms Applied to Chest Radiographs in Under-served Patient Populations](https://doi.org/10.1038/s41591-021-01595-0), Nature Medicine. 
+
+Zhang et al (2022), [Improving the Fairness of Chest X-ray Classifiers](https://proceedings.mlr.press/v174/zhang22a.html), CHIL.
+
+Lin et al (2023), [Improving Model Fairness in Image-based Computer-aided Diagnosis](https://doi.org/10.1038/s41467-023-41974-4), Nature Communications.
+
+Glocker et al (2023), [Risk of Bias in Chest Radiography Deep Learning Foundation Models](https://doi.org/10.1148/ryai.230060), Radiology: Artificial Intelligence.
 
 ##### AI fairness for dermatoscopic images
-- Abbasi-Sureshjani et al (2020), [Risk of Training Diagnostic Algorithms on Data with Demographic Bias](https://doi.org/10.1007/978-3-030-61166-8_20), MICCAI.
-- Kinyanjui et al (2020), [Fairness of Classifiers Across Skin Tones in Dermatology](https://doi.org/10.1007/978-3-030-59725-2_31), MICCAI.
-- Daneshjou et al (2022), [Disparities in Dermatology AI Performance on a Diverse, Curated Clinical Image Set](https://doi.org/10.1126/sciadv.abq6147), Science Advances.
-- Pakzad et al (2022), [CIRCLe: Color Invariant Representation Learning for Unbiased Classification of Skin Lesions](https://doi.org/10.1007/978-3-031-25069-9_14), ECCV Workshop on Skin Image Analysis.
+Abbasi-Sureshjani et al (2020), [Risk of Training Diagnostic Algorithms on Data with Demographic Bias](https://doi.org/10.1007/978-3-030-61166-8_20), MICCAI.
+
+Kinyanjui et al (2020), [Fairness of Classifiers Across Skin Tones in Dermatology](https://doi.org/10.1007/978-3-030-59725-2_31), MICCAI.
+
+Daneshjou et al (2022), [Disparities in Dermatology AI Performance on a Diverse, Curated Clinical Image Set](https://doi.org/10.1126/sciadv.abq6147), Science Advances.
+
+Pakzad et al (2022), [CIRCLe: Color Invariant Representation Learning for Unbiased Classification of Skin Lesions](https://doi.org/10.1007/978-3-031-25069-9_14), ECCV Workshop on Skin Image Analysis.
 
 ##### AI fairness for brain MRI:
-- Petersen et al (2022), [Feature Robustness and Sex Differences in Medical Imaging: A Case Study in MRI-Based Alzheimer’s Disease Detection](https://doi.org/10.1007/978-3-031-16431-6_9), MICCAI.
-- Ioannou et al (2022), [A Study of Demographic Bias in CNN-Based Brain MR Segmentation](https://doi.org/10.1007/978-3-031-17899-3_2), MICCAI workshop on Machine Learning in Clinical Neuroimaging.
-- Wang et al (2023), [Bias in Machine Learning Models can be Significantly Mitigated by Careful Training: Evidence from Neuroimaging Studies](https://doi.org/10.1073/pnas.2211613120), Proceedings of the National Academy of Sciences (USA).
-- Klingenberg et al (2023), [Higher Performance for Women than Men in MRI-based Alzheimer's Disease Detection](https://doi.org/10.1186/s13195-023-01225-6), Alzheimer’s Research & Therapy.
+Petersen et al (2022), [Feature Robustness and Sex Differences in Medical Imaging: A Case Study in MRI-Based Alzheimer’s Disease Detection](https://doi.org/10.1007/978-3-031-16431-6_9), MICCAI.
+
+Ioannou et al (2022), [A Study of Demographic Bias in CNN-Based Brain MR Segmentation](https://doi.org/10.1007/978-3-031-17899-3_2), MICCAI workshop on Machine Learning in Clinical Neuroimaging.
+
+Wang et al (2023), [Bias in Machine Learning Models can be Significantly Mitigated by Careful Training: Evidence from Neuroimaging Studies](https://doi.org/10.1073/pnas.2211613120), Proceedings of the National Academy of Sciences (USA).
+
+Klingenberg et al (2023), [Higher Performance for Women than Men in MRI-based Alzheimer's Disease Detection](https://doi.org/10.1186/s13195-023-01225-6), Alzheimer’s Research & Therapy.
 
 ##### AI fairness for cardiac MRI:
-- Puyol-Antón et al (2021), [Fairness in Cardiac MR Image Analysis: An Investigation of Bias Due to Data Imbalance in Deep Learning Based Segmentation](https://doi.org/10.1007/978-3-030-87199-4_39), MICCAI.
-- Puyol-Antón et al (2022), [Fairness in Cardiac Magnetic Resonance Imaging: Assessing Sex and Racial Bias in Deep Learning-Based Segmentation](https://doi.org/10.3389/fcvm.2022.859310), Frontiers in Cardiovascular Medicine.
-- Lee et al (2022), [A Systematic Study of Race and Sex Bias in CNN-Based Cardiac MR Segmentation](https://doi.org/10.1007/978-3-031-23443-9_22), MICCAI Workshop on Statistical Atlases and Computational Models of the Heart.
-- Lee et al (2023), [An Investigation Into the Impact of Deep Learning Model Choice on Sex and Race Bias in Cardiac MR Segmentation](https://doi.org/10.1007/978-3-031-45249-9_21), MICCAI FAIMI workshop.
+Puyol-Antón et al (2021), [Fairness in Cardiac MR Image Analysis: An Investigation of Bias Due to Data Imbalance in Deep Learning Based Segmentation](https://doi.org/10.1007/978-3-030-87199-4_39), MICCAI.
+
+Puyol-Antón et al (2022), [Fairness in Cardiac Magnetic Resonance Imaging: Assessing Sex and Racial Bias in Deep Learning-Based Segmentation](https://doi.org/10.3389/fcvm.2022.859310), Frontiers in Cardiovascular Medicine.
+
+Lee et al (2022), [A Systematic Study of Race and Sex Bias in CNN-Based Cardiac MR Segmentation](https://doi.org/10.1007/978-3-031-23443-9_22), MICCAI Workshop on Statistical Atlases and Computational Models of the Heart.
+
+Lee et al (2023), [An Investigation Into the Impact of Deep Learning Model Choice on Sex and Race Bias in Cardiac MR Segmentation](https://doi.org/10.1007/978-3-031-45249-9_21), MICCAI FAIMI workshop.
 
 ##### AI fairness for ophthalmology:
-- Burlina et al (2021), [Addressing Artificial Intelligence Bias in Retinal Diagnostics](https://doi.org/10.1167/tvst.10.2.13), Translational Vision Science & Technology.
-- Lin et al (2023), [Improving Model Fairness in Image-based Computer-aided Diagnosis](https://doi.org/10.1038/s41467-023-41974-4), Nature Communications.
+Burlina et al (2021), [Addressing Artificial Intelligence Bias in Retinal Diagnostics](https://doi.org/10.1167/tvst.10.2.13), Translational Vision Science & Technology.
+
+Lin et al (2023), [Improving Model Fairness in Image-based Computer-aided Diagnosis](https://doi.org/10.1038/s41467-023-41974-4), Nature Communications.
 
 ##### AI fairness for breast DCE-MRI:
-- Huti et al (2023), [An Investigation Into Race Bias in Random Forest Models Based on Breast DCE-MRI Derived Radiomics Features](https://doi.org/10.1007/978-3-031-45249-9_22), MICCAI FAIMI workshop.
+Huti et al (2023), [An Investigation Into Race Bias in Random Forest Models Based on Breast DCE-MRI Derived Radiomics Features](https://doi.org/10.1007/978-3-031-45249-9_22), MICCAI FAIMI workshop.
 
 ##### AI fairness for medical image segmentation:
-- Puyol-Antón et al (2021), [Fairness in Cardiac MR Image Analysis: An Investigation of Bias Due to Data Imbalance in Deep Learning Based Segmentation](https://doi.org/10.1007/978-3-030-87199-4_39), MICCAI.
-- Puyol-Antón et al (2022), [Fairness in Cardiac Magnetic Resonance Imaging: Assessing Sex and Racial Bias in Deep Learning-Based Segmentation](https://doi.org/10.3389/fcvm.2022.859310), Frontiers in Cardiovascular Medicine.
-- Lee et al (2022), [A Systematic Study of Race and Sex Bias in CNN-Based Cardiac MR Segmentation](https://doi.org/10.1007/978-3-031-23443-9_22), MICCAI Workshop on Statistical Atlases and Computational Models of the Heart.
-- Lee et al (2023), [An Investigation Into the Impact of Deep Learning Model Choice on Sex and Race Bias in Cardiac MR Segmentation](https://doi.org/10.1007/978-3-031-45249-9_21), MICCAI FAIMI workshop.
-- Ioannou et al (2022), [A Study of Demographic Bias in CNN-Based Brain MR Segmentation](https://doi.org/10.1007/978-3-031-17899-3_2), MICCAI workshop on Machine Learning in Clinical Neuroimaging.
-- Yuan et al (2022), [EdgeMixup: Improving Fairness for Skin Disease Classification and Segmentation](https://doi.org/10.48550/arXiv.2202.13883), arXiv.
+Puyol-Antón et al (2021), [Fairness in Cardiac MR Image Analysis: An Investigation of Bias Due to Data Imbalance in Deep Learning Based Segmentation](https://doi.org/10.1007/978-3-030-87199-4_39), MICCAI.
+
+Puyol-Antón et al (2022), [Fairness in Cardiac Magnetic Resonance Imaging: Assessing Sex and Racial Bias in Deep Learning-Based Segmentation](https://doi.org/10.3389/fcvm.2022.859310), Frontiers in Cardiovascular Medicine.
+
+Lee et al (2022), [A Systematic Study of Race and Sex Bias in CNN-Based Cardiac MR Segmentation](https://doi.org/10.1007/978-3-031-23443-9_22), MICCAI Workshop on Statistical Atlases and Computational Models of the Heart.
+
+Lee et al (2023), [An Investigation Into the Impact of Deep Learning Model Choice on Sex and Race Bias in Cardiac MR Segmentation](https://doi.org/10.1007/978-3-031-45249-9_21), MICCAI FAIMI workshop.
+
+Ioannou et al (2022), [A Study of Demographic Bias in CNN-Based Brain MR Segmentation](https://doi.org/10.1007/978-3-031-17899-3_2), MICCAI workshop on Machine Learning in Clinical Neuroimaging.
+
+Yuan et al (2022), [EdgeMixup: Improving Fairness for Skin Disease Classification and Segmentation](https://doi.org/10.48550/arXiv.2202.13883), arXiv.
 
 #### Miscellaneous
-- Simoiu et al (2017), [The Problem of Infra-Marginality in Outcome Tests for Discrimination](https://dx.doi.org/10.2139/ssrn.2811449), The Annals of Applied Statistics, and Kearns et al (2018), [Preventing Fairness Gerrymandering: Auditing and Learning for Subgroup Fairness](https://proceedings.mlr.press/v80/kearns18a.html), ICML: *Fairness with respect to one protected attribute can hide aggravated unfairness with respect to another (a.k.a. inframarginality / fairness gerrymandering / subgroup fairness).*
-- Wick et al (2019), [Unlocking Fairness: a Trade-off Revisited](https://papers.nips.cc/paper/2019/hash/373e4c5d8edfa8b74fd4b6791d0cf6dc-Abstract.html), NeurIPS, and Dutta et al (2020), [Is There a Trade-Off Between Fairness and Accuracy? A Perspective Using Mismatched Hypothesis Testing](https://proceedings.mlr.press/v119/dutta20a.html), ICML: *Observed fairness-accuracy trade-offs may be illusory and purely a result of label bias. Optimizing for fairness may also yield performance-optimal models, even if evaluations on (equally biased) test data suggests otherwise.* Also see Sharma et al (2023), [On Testing and Comparing Fair classifiers under Data Bias](https://arxiv.org/abs/2302.05906), arxiv, on this subject.
-- Lazar Reich and Vijaykumar (2020), [A Possibility in Algorithmic Fairness: Can Calibration and Equal Error Rates be Reconciled?](https://drops.dagstuhl.de/opus/volltexte/2021/13872/), FORC. *Contrary to popular belief, equalized odds (i.e., equal TPR and FPR) and calibration by groups **are** compatible.*
-- Wachter et al (2021), [Bias Preservation in Machine Learning: The Legality of Fairness Metrics Under EU Non-Discrimination Law](https://dx.doi.org/10.2139/ssrn.3792772), West Virginia Law Review, and Wachter et al (2023), [The Unfairness of Fair Machine Learning: Levelling Down and Strict Egalitarianism by Default](https://ssrn.com/abstract=4331652), Michigan Technology Law Review: *A legal perspective on AI fairness and the “levelling down” phenomenon in “fair” machine learning*.
-- Mukherjee et al (2022), [Confounding Factors Need to be Accounted for in Assessing Bias by Machine Learning Algorithms](https://doi.org/10.1038/s41591-022-01847-7), Nature Medicine.
-- Schrouff et al (2022), [Diagnosing Failures of Fairness Transfer Across Distribution Shift in Real-world Medical Settings](https://doi.org/10.48550/arXiv.2202.01034), NeurIPS: *Are bias mitigation strategies robust to real-world domain shifts?*
-- Zhao and Gordon (2022), [Inherent Tradeoffs in Learning Fair Representations](https://jmlr.org/papers/v23/21-1427.html), JMLR: *Theoretical analysis of how group-invariant representations and statistical/demographic parity hurt accuracy in the presence of base rate differences between groups.*
-- Ricci Lara et al (2023), [Towards Unraveling Calibration Biases in Medical Image Analysis](https://doi.org/10.1007/978-3-031-45249-9_13), MICCAI FAIMI workshop, and Petersen et al (2023), [On (Assessing) the Fairness of Risk Score Models](https://doi.org/10.1145/3593013.3594045), FAccT: *Standard calibration error metrics (such as ECE) are biased with respect to the evaluation sample size, which must be taken into account when comparing calibration between (protected) groups of different sizes.*
-- Jones et al (2023), [No Fair Lunch: A Causal Perspective on Dataset Bias in Machine Learning for Medical Imaging](https://doi.org/10.48550/arXiv.2307.16526), arXiv.
+Simoiu et al (2017), [The Problem of Infra-Marginality in Outcome Tests for Discrimination](https://dx.doi.org/10.2139/ssrn.2811449), The Annals of Applied Statistics, and Kearns et al (2018), [Preventing Fairness Gerrymandering: Auditing and Learning for Subgroup Fairness](https://proceedings.mlr.press/v80/kearns18a.html), ICML.  
+*Fairness with respect to one protected attribute can hide aggravated unfairness with respect to another (a.k.a. inframarginality / fairness gerrymandering / subgroup fairness).*
+
+Wick et al (2019), [Unlocking Fairness: a Trade-off Revisited](https://papers.nips.cc/paper/2019/hash/373e4c5d8edfa8b74fd4b6791d0cf6dc-Abstract.html), NeurIPS, and Dutta et al (2020), [Is There a Trade-Off Between Fairness and Accuracy? A Perspective Using Mismatched Hypothesis Testing](https://proceedings.mlr.press/v119/dutta20a.html), ICML.  
+*Observed fairness-accuracy trade-offs may be illusory and purely a result of label bias. Optimizing for fairness may also yield performance-optimal models, even if evaluations on (equally biased) test data suggests otherwise.* Also see Sharma et al (2023), [On Testing and Comparing Fair classifiers under Data Bias](https://arxiv.org/abs/2302.05906), arxiv, on this subject.
+
+Lazar Reich and Vijaykumar (2020), [A Possibility in Algorithmic Fairness: Can Calibration and Equal Error Rates be Reconciled?](https://drops.dagstuhl.de/opus/volltexte/2021/13872/), FORC.  
+*Contrary to popular belief, equalized odds (i.e., equal TPR and FPR) and calibration by groups **are** compatible.*
+
+Wachter et al (2021), [Bias Preservation in Machine Learning: The Legality of Fairness Metrics Under EU Non-Discrimination Law](https://dx.doi.org/10.2139/ssrn.3792772), West Virginia Law Review, and Wachter et al (2023), [The Unfairness of Fair Machine Learning: Levelling Down and Strict Egalitarianism by Default](https://ssrn.com/abstract=4331652), Michigan Technology Law Review.  
+*A legal perspective on AI fairness and the “levelling down” phenomenon in “fair” machine learning*.
+
+Mukherjee et al (2022), [Confounding Factors Need to be Accounted for in Assessing Bias by Machine Learning Algorithms](https://doi.org/10.1038/s41591-022-01847-7), Nature Medicine.
+
+Schrouff et al (2022), [Diagnosing Failures of Fairness Transfer Across Distribution Shift in Real-world Medical Settings](https://doi.org/10.48550/arXiv.2202.01034), NeurIPS.  
+*Are bias mitigation strategies robust to real-world domain shifts?*
+
+Zhao and Gordon (2022), [Inherent Tradeoffs in Learning Fair Representations](https://jmlr.org/papers/v23/21-1427.html), JMLR.  
+*Theoretical analysis of how group-invariant representations and statistical/demographic parity hurt accuracy in the presence of base rate differences between groups.*
+
+Ricci Lara et al (2023), [Towards Unraveling Calibration Biases in Medical Image Analysis](https://doi.org/10.1007/978-3-031-45249-9_13), MICCAI FAIMI workshop, and Petersen et al (2023), [On (Assessing) the Fairness of Risk Score Models](https://doi.org/10.1145/3593013.3594045), FAccT.  
+*Standard calibration error metrics (such as ECE) are biased with respect to the evaluation sample size, which must be taken into account when comparing calibration between (protected) groups of different sizes.*
+
+Jones et al (2023), [No Fair Lunch: A Causal Perspective on Dataset Bias in Machine Learning for Medical Imaging](https://doi.org/10.48550/arXiv.2307.16526), arXiv.
 
 ### Software toolkits
 Although one can investigate fairness issues with standard software environments and packages, a number of researchers have made specialised toolkits aimed at facilitating fairness and bias assessments, and you may find it more efficient to make use of one of these.
-- [AI Fairness 360](https://ai-fairness-360.org/), [Bellamy et al (2018)](https://doi.org/10.48550/arXiv.1810.01943). Initially created by IBM, now independent.
-- [FairLearn](https://fairlearn.org/), [Bird et al (2020)](https://www.microsoft.com/en-us/research/uploads/prod/2020/05/Fairlearn_WhitePaper-2020-09-22.pdf). *Initially created by Microsoft, now independent.*
-- [Aequitas](http://www.datasciencepublicpolicy.org/our-work/tools-guides/aequitas/), [Saleiro et al (2018)](https://doi.org/10.48550/arXiv.1811.05577). *Open source bias audit toolkit for machine learning developers (not imaging).*
-- [MEDFAIR](https://github.com/ys-zong/MEDFAIR), [Zong et al (2023)](https://doi.org/10.48550/arXiv.2210.01725), ICLR. *Fairness benchmarking suite for medical imaging.*
+
+[AI Fairness 360](https://ai-fairness-360.org/), [Bellamy et al (2018)](https://doi.org/10.48550/arXiv.1810.01943).  
+*Initially created by IBM, now independent.*
+
+[FairLearn](https://fairlearn.org/), [Bird et al (2020)](https://www.microsoft.com/en-us/research/uploads/prod/2020/05/Fairlearn_WhitePaper-2020-09-22.pdf).  
+*Initially created by Microsoft, now independent.*
+
+[Aequitas](http://www.datasciencepublicpolicy.org/our-work/tools-guides/aequitas/), [Saleiro et al (2018)](https://doi.org/10.48550/arXiv.1811.05577).  
+*Open source bias audit toolkit for machine learning developers (not imaging).*
+
+[MEDFAIR](https://github.com/ys-zong/MEDFAIR), [Zong et al (2023)](https://doi.org/10.48550/arXiv.2210.01725), ICLR.  
+*Fairness benchmarking suite for medical imaging.*
 
 ### Initiatives, guidelines and legislation
 Below are some resources related to data collection and research initiatives, guidelines on fairness in AI and information about government efforts to legislate on the use of AI, many of which include reference to fairness and bias.
