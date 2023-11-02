@@ -16,9 +16,9 @@ The literature body on fairness of AI in medical imaging is growing rapdily, and
 Rather, we list a few key references for specific areas of fairness research that can act as starting points for your own literature searches.
 
 #### Review papers on AI fairness
-Mehrabi et al (2021), [A Survey on Bias and Fairness in Machine Learning](https://dl.acm.org/doi/10.1145/3457607), ACM Computing Surveys. ([arxiv](https://doi.org/10.48550/arXiv.1908.09635))
-
 Du et al (2020), [Fairness in Deep Learning: A Computational Perspective](https://ieeexplore.ieee.org/document/9113719), IEEE Intelligent Systems. ([arxiv](https://arxiv.org/abs/1908.08843))
+
+Mehrabi et al (2021), [A Survey on Bias and Fairness in Machine Learning](https://dl.acm.org/doi/10.1145/3457607), ACM Computing Surveys. ([arxiv](https://doi.org/10.48550/arXiv.1908.09635))
 
 Chen et al (2023), [Algorithmic Fairness in Artificial Intelligence for Medicine and Healthcare](https://doi.org/10.1038/s41551-023-01056-8), Nature Biomedical Engineering.
 
