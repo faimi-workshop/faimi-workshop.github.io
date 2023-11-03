@@ -12,7 +12,7 @@ FAIMI has put together this resource page to help researchers get started with r
 We would like to see this as an organically evolving resource, so please <a href="mailto:faimi-organizers@googlegroups.com">get in touch with us</a> if you have any suggestions for additions or modifications.
 
 ## Literature
-The literature body on fairness of AI in medical imaging is growing rapdily, and we do not attempt to provide an exhaustive list of related publications here. 
+The literature on AI fairness in medical imaging is growing rapidly, and we do not attempt to provide an exhaustive list of related publications here. 
 Rather, we list a few key references for specific areas of fairness research that can act as starting points for your own literature searches.
 
 ### Review papers on AI fairness
@@ -162,3 +162,9 @@ Below we have put together a summary of the most commonly used datasets that do 
 - [Judy Wawira Gichoya, “Hidden in Plain Sight: An Update to the Reading Race Project”](https://www.youtube.com/watch?v=Lm7Ir0K43Us)
 - Sanmi Koyejo, “Algorithmic Fairness: Why it's Hard, and Why it's Interesting”, CVPR Tutorial: [Part 1](https://www.youtube.com/watch?v=nR4nfpXNtpg), [Part 2](https://www.youtube.com/watch?v=h_aAtC8zvKo&t=0s)
 - [Jessica Schrouff, “Maintaining Fairness Under Distributions Shift”](https://www.youtube.com/watch?v=eEREC-WDHAI)
+
+### 2023
+- [Can AI Be Harmful? A Conversation with MIT’s Dr. Marzyeh Ghassemi on the NEJM AI Grand Rounds Podcast](https://youtu.be/2QBmnoCgMME?si=9s1v3CRpf14ZuEFL)
+- [The Double-Edged Sword of AI, with Dr. Ziad Obermeyer on the NEJM AI Grand Roudns Podcast](https://youtu.be/c5KcSNeGXOM?si=DTafvq8FljSrSHaZ)
+- [Karim Lekadir, "In AI we trust? Towards ethical AI in medical imaging."](https://www.youtube.com/watch?v=CQifgsIrKN0)
+- [Bias in AI: Origins and Solutions feat. Dr. Joy Buolamwini on ASK MORE OF AI with Clara Shih](https://www.youtube.com/watch?v=7rx82V0UT98)
