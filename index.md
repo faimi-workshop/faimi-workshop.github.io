@@ -13,7 +13,7 @@ In a series of interdisciplinary events, our aim is to advance the discourse aro
 </p>
 
 <p style="text-align: center">
-<b>Next up: <a href="https://biomedicalimaging.org/2024/tutorials/">ISBI 2021 </a> tutorial Fairness of AI in Medical Imaging (FAIMI)!</b>
+<b>Next up: <a href="https://biomedicalimaging.org/2024/tutorials/">ISBI 2024 </a> tutorial Fairness of AI in Medical Imaging (FAIMI)!</b>
 </p>
 
 ## Organizers
