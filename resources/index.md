@@ -57,6 +57,7 @@ Rather, we list a few key references for specific areas of fairness research tha
 - Zhang et al (2022), [Improving the Fairness of Chest X-ray Classifiers](https://proceedings.mlr.press/v174/zhang22a.html), CHIL.
 - Lin et al (2023), [Improving Model Fairness in Image-based Computer-aided Diagnosis](https://doi.org/10.1038/s41467-023-41974-4), Nature Communications.
 - Glocker et al (2023), [Risk of Bias in Chest Radiography Deep Learning Foundation Models](https://doi.org/10.1148/ryai.230060), Radiology: Artificial Intelligence.
+
 #### AI fairness in image reconstruction
 - Du et al (2023), [Unveiling Fairness Biases in Deep Learning-Based Brain MRI Reconstruction](https://link.springer.com/chapter/10.1007/978-3-031-45249-9_10), MICCAI FAIMI
 
