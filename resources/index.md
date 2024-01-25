@@ -57,8 +57,10 @@ Rather, we list a few key references for specific areas of fairness research tha
 - Zhang et al (2022), [Improving the Fairness of Chest X-ray Classifiers](https://proceedings.mlr.press/v174/zhang22a.html), CHIL.
 - Lin et al (2023), [Improving Model Fairness in Image-based Computer-aided Diagnosis](https://doi.org/10.1038/s41467-023-41974-4), Nature Communications.
 - Glocker et al (2023), [Risk of Bias in Chest Radiography Deep Learning Foundation Models](https://doi.org/10.1148/ryai.230060), Radiology: Artificial Intelligence.
+#### AI fairness in image reconstruction
+- Du et al (2023), [Unveiling Fairness Biases in Deep Learning-Based Brain MRI Reconstruction](https://link.springer.com/chapter/10.1007/978-3-031-45249-9_10), MICCAI FAIMI
 
-#### AI fairness for dermatoscopic images
+#### AI fairness for dermatology image
 - Abbasi-Sureshjani et al (2020), [Risk of Training Diagnostic Algorithms on Data with Demographic Bias](https://doi.org/10.1007/978-3-030-61166-8_20), MICCAI.
 - Kinyanjui et al (2020), [Fairness of Classifiers Across Skin Tones in Dermatology](https://doi.org/10.1007/978-3-030-59725-2_31), MICCAI.
 - Daneshjou et al (2022), [Disparities in Dermatology AI Performance on a Diverse, Curated Clinical Image Set](https://doi.org/10.1126/sciadv.abq6147), Science Advances.
@@ -90,6 +92,9 @@ Rather, we list a few key references for specific areas of fairness research tha
 - Lee et al (2023), [An Investigation Into the Impact of Deep Learning Model Choice on Sex and Race Bias in Cardiac MR Segmentation](https://doi.org/10.1007/978-3-031-45249-9_21), MICCAI FAIMI workshop.
 - Ioannou et al (2022), [A Study of Demographic Bias in CNN-Based Brain MR Segmentation](https://doi.org/10.1007/978-3-031-17899-3_2), MICCAI workshop on Machine Learning in Clinical Neuroimaging.
 - Yuan et al (2022), [EdgeMixup: Improving Fairness for Skin Disease Classification and Segmentation](https://doi.org/10.48550/arXiv.2202.13883), arXiv.
+- Gaggion et al (2023), [Unsupervised Bias Discovery in Medical Image Segmentation](https://link.springer.com/chapter/10.1007/978-3-031-45249-9_26), MICCAI FAIMI.
+- Tian et al (2023), [Harvard FairSeg: A Large-Scale Medical Image Segmentation Dataset for Fairness Learning Using Segment Anything Model with Fair Error-Bound Scaling](https://arxiv.org/pdf/2311.02189.pdf), Arxiv.
+
 
 ### Miscellaneous
 - Simoiu et al (2017), [The Problem of Infra-Marginality in Outcome Tests for Discrimination](https://dx.doi.org/10.2139/ssrn.2811449), The Annals of Applied Statistics, and Kearns et al (2018), [Preventing Fairness Gerrymandering: Auditing and Learning for Subgroup Fairness](https://proceedings.mlr.press/v80/kearns18a.html), ICML: *Fairness with respect to one protected attribute can hide aggravated unfairness with respect to another (a.k.a. inframarginality / fairness gerrymandering / subgroup fairness).*
@@ -141,7 +146,11 @@ Below we have put together a summary of the most commonly used datasets that do 
 - [CheXpert chest X-ray dataset](https://stanfordmlgroup.github.io/competitions/chexpert/), [Irvin et al (2019)](https://doi.org/10.1609/aaai.v33i01.3301590), AAAI. *224,316 chest X-rays of 65,240 patients with age and sex information.*
 - [PadChest](https://bimcv.cipf.es/bimcv-projects/padchest/), [Bustos et al (2020)](https://doi.org/10.1016/j.media.2020.101797). *Chest X-ray dataset, 160,000 chest X-ray images from 67,000 patients, includes age*.
 - [Duke-Breast-Cancer-MRI](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=70226903), [Saha et al (2018)](https://doi.org/10.1038%2Fs41416-018-0185-8), British Journal of Cancer. *Dataset of dynamic contrast-enhanced MRI images of women with breast cancer, includes images, derived radiomics, tumour segmentations and patient demographics including race. Freely available upon registration.*
-
+- [OASIS](https://www.oasis-brains.org/#data)
+*Series of brain MR datasets with age, gender information.*
+- [Fairseg](https://ophai.hms.harvard.edu/datasets/harvard-fairseg10k/), [Tian et al (2023)](https://arxiv.org/abs/2311.02189).
+*Public dataset of scanning laser ophthalmoscopy fundus images for assessment of bias in segmentation of the optic disc and cup*
+  
 ## Talks
 ### 2016
 - [Joy Buolamwini (TED talk), “How I’m Fighting Bias in Algorithms”](https://www.ted.com/talks/joy_buolamwini_how_i_m_fighting_bias_in_algorithms)
