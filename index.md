@@ -28,4 +28,13 @@ In a series of interdisciplinary events, our aim is to advance the discourse aro
 [Melanie Ganz-Benjaminsen](https://sites.google.com/view/melanieganz/home?pli=1), University of Copenhagen & Neurobiology Research Unit, Rigshospitalet  
 [Veronika Cheplygina](https://veronikach.com/), IT University Copenhagen  
 
+## Advisory Panel members
+
+[Judy Gichoya](https://winshipcancer.emory.edu/bios/faculty/gichoya-judy.html), Emory University, USA  
+Kanwal Bhatia, Aival, UK  
+[Tal Arbel](https://www.cim.mcgill.ca/~arbel/), McGill University, USA  
+[Bishesh Khanal](https://www.naamii.org.np/teams/bishesh-khanal/), NAAMII, Nepal  
+[Ira Ktena](https://sites.google.com/view/sk1712/home), Deep Mind, UK  
+[Sanmi Koyejo](https://cs.stanford.edu/~sanmi/), Stanford University, USA  
+
 Please direct any inquiries related to this initiative to <a href="mailto:faimi-organizers@googlegroups.com">faimi-organizers@googlegroups.com</a>.
