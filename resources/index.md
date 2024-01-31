@@ -61,11 +61,12 @@ Rather, we list a few key references for specific areas of fairness research tha
 #### AI fairness in image reconstruction
 - Du et al (2023), [Unveiling Fairness Biases in Deep Learning-Based Brain MRI Reconstruction](https://link.springer.com/chapter/10.1007/978-3-031-45249-9_10), MICCAI FAIMI
 
-#### AI fairness for dermatology image
+#### AI fairness for dermatology images
 - Abbasi-Sureshjani et al (2020), [Risk of Training Diagnostic Algorithms on Data with Demographic Bias](https://doi.org/10.1007/978-3-030-61166-8_20), MICCAI.
 - Kinyanjui et al (2020), [Fairness of Classifiers Across Skin Tones in Dermatology](https://doi.org/10.1007/978-3-030-59725-2_31), MICCAI.
 - Daneshjou et al (2022), [Disparities in Dermatology AI Performance on a Diverse, Curated Clinical Image Set](https://doi.org/10.1126/sciadv.abq6147), Science Advances.
 - Pakzad et al (2022), [CIRCLe: Color Invariant Representation Learning for Unbiased Classification of Skin Lesions](https://doi.org/10.1007/978-3-031-25069-9_14), ECCV Workshop on Skin Image Analysis.
+- Bencevic et al (2024), [Understanding skin color bias in deep learning-based skin lesion segmentation](https://doi.org/10.1016/j.cmpb.2024.108044), Computer Methods and Programs in Biomedicine.
 
 #### AI fairness for brain MRI:
 - Petersen et al (2022), [Feature Robustness and Sex Differences in Medical Imaging: A Case Study in MRI-Based Alzheimer’s Disease Detection](https://doi.org/10.1007/978-3-031-16431-6_9), MICCAI.
@@ -92,9 +93,9 @@ Rather, we list a few key references for specific areas of fairness research tha
 - Lee et al (2022), [A Systematic Study of Race and Sex Bias in CNN-Based Cardiac MR Segmentation](https://doi.org/10.1007/978-3-031-23443-9_22), MICCAI Workshop on Statistical Atlases and Computational Models of the Heart.
 - Lee et al (2023), [An Investigation Into the Impact of Deep Learning Model Choice on Sex and Race Bias in Cardiac MR Segmentation](https://doi.org/10.1007/978-3-031-45249-9_21), MICCAI FAIMI workshop.
 - Ioannou et al (2022), [A Study of Demographic Bias in CNN-Based Brain MR Segmentation](https://doi.org/10.1007/978-3-031-17899-3_2), MICCAI workshop on Machine Learning in Clinical Neuroimaging.
-- Yuan et al (2022), [EdgeMixup: Improving Fairness for Skin Disease Classification and Segmentation](https://doi.org/10.48550/arXiv.2202.13883), arXiv.
 - Gaggion et al (2023), [Unsupervised Bias Discovery in Medical Image Segmentation](https://link.springer.com/chapter/10.1007/978-3-031-45249-9_26), MICCAI FAIMI.
 - Tian et al (2023), [Harvard FairSeg: A Large-Scale Medical Image Segmentation Dataset for Fairness Learning Using Segment Anything Model with Fair Error-Bound Scaling](https://arxiv.org/pdf/2311.02189.pdf), Arxiv.
+- Bencevic et al (2024), [Understanding skin color bias in deep learning-based skin lesion segmentation](https://doi.org/10.1016/j.cmpb.2024.108044), Computer Methods and Programs in Biomedicine.
 
 
 ### Miscellaneous
