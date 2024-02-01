@@ -176,6 +176,6 @@ Below we have put together a summary of the most commonly used datasets that do 
 
 ### 2023
 - [Can AI Be Harmful? A Conversation with MIT’s Dr. Marzyeh Ghassemi on the NEJM AI Grand Rounds Podcast](https://youtu.be/2QBmnoCgMME?si=9s1v3CRpf14ZuEFL)
-- [The Double-Edged Sword of AI, with Dr. Ziad Obermeyer on the NEJM AI Grand Roudns Podcast](https://youtu.be/c5KcSNeGXOM?si=DTafvq8FljSrSHaZ)
+- [The Double-Edged Sword of AI, with Dr. Ziad Obermeyer on the NEJM AI Grand Rounds Podcast](https://youtu.be/c5KcSNeGXOM?si=DTafvq8FljSrSHaZ)
 - [Karim Lekadir, "In AI we trust? Towards ethical AI in medical imaging."](https://www.youtube.com/watch?v=CQifgsIrKN0)
 - [Bias in AI: Origins and Solutions feat. Dr. Joy Buolamwini on ASK MORE OF AI with Clara Shih](https://www.youtube.com/watch?v=7rx82V0UT98)
