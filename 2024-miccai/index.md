@@ -8,7 +8,7 @@ redirect_from: /2024-miccai/
 ---
 
 ## TL;DR
- - Fairness & Medical Imaging workshop on Oct 10th at MICCAI 2024 (Morocco)
+ - Fairness & Medical Imaging workshop on **Oct 10th** at [MICCAI 2024[(https://conferences.miccai.org/2024/en/) (Morocco)
  - Organized jointly with the workshop on [Ethical and Philosophical Issues in Medical Imaging](https://sites.google.com/view/epimi)
 
 
