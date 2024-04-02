@@ -9,6 +9,7 @@ redirect_from: /2024-miccai/
 
 ## TL;DR
  - Fairness & Medical Imaging workshop on **Oct 10th** at [MICCAI 2024](https://conferences.miccai.org/2024/en/) (Morocco)
+ - The workshop will be only *fully* in-person (as in *no* remote live talk or *no* hybrid mode)
  - Organized jointly with the workshop on [Ethical and Philosophical Issues in Medical Imaging](https://sites.google.com/view/epimi)
 
 
@@ -54,7 +55,7 @@ Note that in the submission system, supplementary materials can only be added on
 
 **August 5th, 2024**: Camera-ready deadline
 
-**October, 2024**: Workshop
+**October 10th, 2024**: Workshop
 
 
 ## Organizers
