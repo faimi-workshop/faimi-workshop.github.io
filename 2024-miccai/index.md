@@ -49,13 +49,13 @@ Note that in the submission system, supplementary materials can only be added on
 
 *All dates are [Anywhere on Earth](https://en.wikipedia.org/wiki/Anywhere_on_Earth).*
 
-**July 21st, 2024**: Paper submission
+Full Paper Deadline: **June 24, 2024**  
 
-**July 26th, 2024**: Notification of paper decisions
+Notification of Acceptance: **July 26, 2024**
 
-**August 5th, 2024**: Camera-ready deadline
+Camera-ready Version: **August 1, 2024**
 
-**October 10th, 2024**: Workshop
+Workshop: **October 10th, 2024**
 
 
 ## Organizers
