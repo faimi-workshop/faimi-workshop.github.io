@@ -51,7 +51,7 @@ Note that in the submission system, supplementary materials can only be added on
 
 Full Paper Deadline: **June 24, 2024**  
 
-Notification of Acceptance: **July 26, 2024**
+Notification of Acceptance: **July 15, 2024**
 
 Camera-ready Version: **August 1, 2024**
 
