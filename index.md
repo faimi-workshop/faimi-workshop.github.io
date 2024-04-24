@@ -38,4 +38,9 @@ In a series of interdisciplinary events, our aim is to advance the discourse aro
 [Sanmi Koyejo](https://cs.stanford.edu/~sanmi/), Stanford University, USA  
 [Karim Lekadir](https://mat.ub.edu/departament/professors/lekadir-karim/), Universitat de Barcelona, Spain 
 
+## Activity committee
+[Tareen Dawood](https://www.kcl.ac.uk/people/tareen-dawood), King's College London. ISIBI 2024 tutorial coordinator
+[Nina Weng](https://orbit.dtu.dk/en/persons/nina-weng), DTU Compute, Technical University of Denmark. ISIBI 2024 tutorial coordinator
+[Tiarna Lee](https://www.kcl.ac.uk/people/tiarna-lee), King's College London. RISE-FAIMI 2024 summer school coordinator
+
 Please direct any inquiries related to this initiative to <a href="mailto:faimi-organizers@googlegroups.com">faimi-organizers@googlegroups.com</a>.
