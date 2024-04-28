@@ -23,7 +23,7 @@ In a series of interdisciplinary events, our aim is to advance the discourse aro
 [Ben Glocker](https://www.imperial.ac.uk/people/b.glocker), Imperial College London  
 [Daniel Moyer](https://dcmoyer.github.io/), Vanderbilt University  
 [Enzo Ferrante](https://eferrante.github.io/), CONICET, Universidad Nacional del Litoral  
-[Eike Petersen](https://e-pet.github.io/), DTU Compute, Technical University of Denmark  
+[Eike Petersen](https://e-pet.github.io/), Fraunhofer Institute for Digital Medicine MEVIS, Germany  
 [Esther Puyol-Antón](https://www.kcl.ac.uk/people/esther-puyol-anton), HeartFlow and King's College London  
 [Melanie Ganz-Benjaminsen](https://sites.google.com/view/melanieganz/home?pli=1), University of Copenhagen & Neurobiology Research Unit, Rigshospitalet  
 [Veronika Cheplygina](https://veronikach.com/), IT University Copenhagen  
