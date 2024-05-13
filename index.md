@@ -39,10 +39,10 @@ In a series of interdisciplinary events, our aim is to advance the discourse aro
 [Karim Lekadir](https://mat.ub.edu/departament/professors/lekadir-karim/), Universitat de Barcelona, Spain 
 
 ## Activity committee
-[Tareen Dawood](https://www.kcl.ac.uk/people/tareen-dawood), King's College London. ISIBI 2024 tutorial coordinator  
-[Nina Weng](https://orbit.dtu.dk/en/persons/nina-weng), DTU Compute, Technical University of Denmark. ISIBI 2024 tutorial coordinator  
-[Tiarna Lee](https://www.kcl.ac.uk/people/tiarna-lee), King's College London. RISE-FAIMI 2024 summer school coordinator  
-[Dewinda Julianensi Rumala](https://djrumala.github.io), Institut Teknologi Sepuluh Nopember. YouTube channel coordinator  
-Emma Stanley, University of Calgary, Canada. YouTube channel coordinator  
+[Tareen Dawood](https://www.kcl.ac.uk/people/tareen-dawood), King's College London, UK. ISBI 2024 tutorial coordinator  
+[Nina Weng](https://orbit.dtu.dk/en/persons/nina-weng), DTU Compute, Technical University of Denmark. ISBI 2024 tutorial coordinator  
+[Tiarna Lee](https://www.kcl.ac.uk/people/tiarna-lee), King's College London, UK. RISE-FAIMI 2024 summer school coordinator  
+[Dewinda Julianensi Rumala](https://djrumala.github.io), Institut Teknologi Sepuluh Nopember, Indonesia. YouTube channel coordinator  
+[Emma Stanley](https://www.linkedin.com/in/emmastanley16/), University of Calgary, Canada. YouTube channel coordinator  
 
 Please direct any inquiries related to this initiative to <a href="mailto:faimi-organizers@googlegroups.com">faimi-organizers@googlegroups.com</a>.
