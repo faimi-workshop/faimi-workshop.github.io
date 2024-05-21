@@ -60,7 +60,7 @@ Workshop: **October 10th, 2024**
 
 ## Keynote - Dr. Mercy Asiedu
 #### Machine Learning Fairness for Health in Africa
-<p style="text-align: justify">Abstract TBC"
+<p style="text-align: justify">Abstract TBC
 </p>
 
 <div class="clearfix">
