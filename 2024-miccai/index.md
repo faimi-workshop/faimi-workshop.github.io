@@ -58,6 +58,28 @@ Camera-ready Version: **August 1, 2024**
 Workshop: **October 10th, 2024**
 
 
+## Keynote - Dr. Mercy Asiedu
+#### Machine Learning Fairness for Health in Africa
+<p style="text-align: justify">Despite the expert-level performance of artificial intelligence (AI) models for various medical imaging tasks, real-world performance failures with disparate outputs for various subgroups limit the usefulness of AI in improving patients’ lives. 
+Many definitions of fairness have been proposed, with discussions of various tensions that arise in the choice of an appropriate metric to use to evaluate bias; for example, should one aim for individual or group fairness? 
+One central observation is that AI models apply “shortcut learning” whereby spurious features (such as chest tubes and portable radiographic markers on intensive care unit chest radiography) on medical images are used for prediction instead of identifying true pathology.
+Moreover, AI has been shown to have a remarkable ability to detect protected attributes of age, sex, and race, while the same models demonstrate bias against historically underserved subgroups of age, sex, and race in disease diagnosis.
+Therefore, an AI model may take shortcut predictions from these correlations and subsequently generate an outcome that is biased toward certain subgroups even when protected attributes are not explicitly used as inputs into the model.
+As a result, these subgroups became nonprivileged subgroups. 
+In this talk, Dr. Gichoya will discuss the various types of bias from shortcut learning that may occur at different phases of AI model development, including data bias, modeling bias, and inference bias. 
+She will also discuss mitigation strategies to bias arising from "shortcuts."
+</p>
+
+<div class="clearfix">
+	<img class="img2" src="/assets/speakers/Asiedu.jpg" alt="Dr. Mercy Asiedu" width="150" style="float: left; padding:0px 10px 10px 10px">
+	<p style="text-align: justify">
+		<b>Dr. Mercy Asiedu</b> is a research scientist in the Society Centered AI team at Google Research where she works on fairness in machine learning and generative AI tools for impact driven research for global health. Before that, she was a Schmidt Science Postdoctoral Research Fellow at MIT working on interdisciplinary research projects using generative AI methods to  improve mobile ultrasound imaging. She also worked on projects researching the use of language models to improve comprehension of health notes for breast oncology patients. 
+She received her PhD in Biomedical Engineering and a certificate in Global health from Duke University. Her dissertation focused on the research and development of a low-cost imaging device and machine learning algorithms to reduce barriers to cervical cancer screening. She has won several awards for her work including the Inaugural Patrick J. McGovern Tech for Humanity Changemaker Awards, the Lemelson-MIT Graduate Student Inventor Award, and Velji Emerging Leader in Global Health award. 
+She has her bachelor’s degree in Biomedical Engineering from the University of Rochester, and high school degree from Holy Child Secondary School, Cape Coast, Ghana.
+	</p>
+</div>
+
+
 ## Organizers
 
 **Aasa Feragen**, DTU Compute, Technical University of Denmark  
