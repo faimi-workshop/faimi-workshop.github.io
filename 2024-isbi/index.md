@@ -14,13 +14,13 @@ redirect_from: /2024-isbi/
 
 
 ## Materials
-[Lecture part 1](https://drive.google.com/file/d/1AoCxE0ovrIe3Q8RrHo5HyDLb_9VwS10k/view?usp=sharing)
-[Lecture part 2](https://drive.google.com/file/d/1g7_0Bp1OWuO5uaQH0X9bBd0xdg6kHKgx/view?usp=sharing)
-[Lecture part 3](https://drive.google.com/file/d/14xM8eH0GjG_9ZRE5J_Rmyhm-xjshwWjs/view?usp=sharing)
+[Lecture part 1](https://drive.google.com/file/d/1gvWvviw9wL3KbOfT2VylFOrCulB3zaEh/view?usp=drive_link)
+[Lecture part 2](https://drive.google.com/file/d/1w34E3VCaY2q1W5DvYuthl9e2fUPUnHMS/view?usp=drive_link)
+[Lecture part 3](https://drive.google.com/file/d/1ITGXtEWXSrNCEe3_mVrcvOt0w2tTfHAZ/view?usp=drive_link)
 
-[Case study 1](https://drive.google.com/file/d/18GUgEToqc4nsyfR7nEQqfZLD09kPUmZ2/view?usp=drive_link)
-[Case study 2](https://drive.google.com/file/d/1gv3TPbqSqtl4mZHz-eaZRvB7962_buNN/view?usp=drive_link)
-[Case study 3](https://drive.google.com/file/d/1ISvhPQdJgUwN_Sy8N4BjnZ79Yw0UoUH1/view?usp=drive_link)
+[Case study 1](https://drive.google.com/file/d/1haeHBKa9tybVTqkzoOI_C3IqKyAD57VT/view?usp=drive_link)
+[Case study 2](https://drive.google.com/file/d/1-CnspZyzPNfxVh3YDS1TIb05DxptZcGo/view?usp=drive_link)
+[Case study 3](https://drive.google.com/file/d/1_qrA5-7imvfDwep6tkXZcyjOzwklQfIa/view?usp=drive_link)
 
 ## Organizers
 
