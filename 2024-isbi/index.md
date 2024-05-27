@@ -14,9 +14,8 @@ redirect_from: /2024-isbi/
 
 
 ## Materials
-Lecture part 1: <a href="2024-isbi/Fairness_Part1.pdff" class="image fit"><img src="2024-isbi/Fairness_Part1.pdf" alt=""></a>
-Lecture part 2:
-Lecture part 3:
+[Lecture part 1](2024-isbi/Fairness_Part1.pdf)
+
 
 ## Organizers
 
