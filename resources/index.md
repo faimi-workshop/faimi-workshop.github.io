@@ -176,6 +176,8 @@ Below we have put together a summary of the most commonly used datasets that do 
 - [Jessica Schrouff, “Maintaining Fairness Under Distributions Shift”](https://www.youtube.com/watch?v=eEREC-WDHAI)
 
 ### 2023
+- [FAIMI 2023 Online Symposium talks](https://www.youtube.com/watch?v=h6I5aY0dLfI&list=PL043hPrfrJaMfleMaibbfR0oMc7ef9PvL)
+- [MICCAI FAIMI 2023 Workshop talks](https://www.youtube.com/watch?v=JhWMuAj2284&list=PL043hPrfrJaNVIzIdfJgRdFOXD3d1yqwH)
 - [Can AI Be Harmful? A Conversation with MIT’s Dr. Marzyeh Ghassemi on the NEJM AI Grand Rounds Podcast](https://youtu.be/2QBmnoCgMME?si=9s1v3CRpf14ZuEFL)
 - [The Double-Edged Sword of AI, with Dr. Ziad Obermeyer on the NEJM AI Grand Rounds Podcast](https://youtu.be/c5KcSNeGXOM?si=DTafvq8FljSrSHaZ)
 - [Karim Lekadir, "In AI we trust? Towards ethical AI in medical imaging."](https://www.youtube.com/watch?v=CQifgsIrKN0)
