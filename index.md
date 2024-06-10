@@ -12,9 +12,9 @@ Research on fairness, equity, and accountability in the context of machine learn
 In a series of interdisciplinary events, our aim is to advance the discourse around fairness issues in the medical image analysis community.
 </p>
 
-<p style="text-align: center">
+<!--<p style="text-align: center">
 <b>Next up: <a href="https://biomedicalimaging.org/2024/tutorials/">ISBI 2024 </a> tutorial Fairness of AI in Medical Imaging (FAIMI)!</b>
-</p>
+</p>-->
 
 ## Organizers
 
