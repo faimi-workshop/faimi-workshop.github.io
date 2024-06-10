@@ -170,7 +170,7 @@ Below we have put together a summary of the most commonly used datasets that do 
 - [Sara Gerke, “Legal Issues of Artificial Intelligence in Healthcare in the US”](https://www.youtube.com/watch?v=zwONJAxK_AA)
 
 ### 2022
-- [FAIMI 2022 Online Symposium talks](https://www.youtube.com/playlist?list=PLgwux8eqIFKdWYJTgeoCU4vZ0s6GZtc6e)
+- [FAIMI 2022 Online Symposium talks](https://www.youtube.com/watch?v=QuKQ6QqV3gU&list=PL043hPrfrJaM_n20y_ziZ6TXPVjH9d_3N)
 - [Judy Wawira Gichoya, “Hidden in Plain Sight: An Update to the Reading Race Project”](https://www.youtube.com/watch?v=Lm7Ir0K43Us)
 - Sanmi Koyejo, “Algorithmic Fairness: Why it's Hard, and Why it's Interesting”, CVPR Tutorial: [Part 1](https://www.youtube.com/watch?v=nR4nfpXNtpg), [Part 2](https://www.youtube.com/watch?v=h_aAtC8zvKo&t=0s)
 - [Jessica Schrouff, “Maintaining Fairness Under Distributions Shift”](https://www.youtube.com/watch?v=eEREC-WDHAI)
