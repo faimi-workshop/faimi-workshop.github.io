@@ -7,6 +7,9 @@ weight: -1
 redirect_from: /2024-miccai/
 ---
 
+## SUBMISSION IS EXTENDED TO 28 June 2024
+The regular paper submission has been extended to Friday, 28 June 2024 23:59:59 UTC-12, but we request all participants to submit title and abstract as a placeholder by 24 June 2024.
+
 ## TL;DR
  - Fairness & Medical Imaging workshop on **Oct 10th** at [MICCAI 2024](https://conferences.miccai.org/2024/en/) (Morocco)
  - The workshop will be only *fully* in-person (as in *no* remote live talk or *no* hybrid mode)
@@ -49,7 +52,9 @@ Note that in the submission system, supplementary materials can only be added on
 
 *All dates are [Anywhere on Earth](https://en.wikipedia.org/wiki/Anywhere_on_Earth).*
 
-Full Paper Deadline: **June 24, 2024**  
+Abstract / placeholder: **June 24, 2024**
+
+Full Paper Deadline: **~~June 24, 2024~~ June 28, 2024**
 
 Notification of Acceptance: **July 15, 2024**
 
