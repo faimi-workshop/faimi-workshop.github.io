@@ -97,6 +97,7 @@ Rather, we list a few key references for specific areas of fairness research tha
 - Gaggion et al (2023), [Unsupervised Bias Discovery in Medical Image Segmentation](https://link.springer.com/chapter/10.1007/978-3-031-45249-9_26), MICCAI FAIMI.
 - Tian et al (2023), [Harvard FairSeg: A Large-Scale Medical Image Segmentation Dataset for Fairness Learning Using Segment Anything Model with Fair Error-Bound Scaling](https://arxiv.org/pdf/2311.02189.pdf), Arxiv.
 - Bencevic et al (2024), [Understanding skin color bias in deep learning-based skin lesion segmentation](https://doi.org/10.1016/j.cmpb.2024.108044), Computer Methods and Programs in Biomedicine.
+- Siddiqui et al (2024),  [Fair AI-powered orthopedic image segmentation: addressing bias and promoting equitable healthcare](https://doi.org/10.1038/s41598-024-66873-6), Scientific Reports.
 
 
 ### Miscellaneous
