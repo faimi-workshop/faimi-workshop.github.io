@@ -7,13 +7,81 @@ weight: -1
 redirect_from: /2024-miccai/
 ---
 
-## SUBMISSION IS EXTENDED TO 28 June 2024
-The regular paper submission has been extended to Friday, 28 June 2024 23:59:59 UTC-12, but we request all participants to submit title and abstract as a placeholder by 24 June 2024.
-
 ## TL;DR
  - Fairness & Medical Imaging workshop on **Oct 10th** at [MICCAI 2024](https://conferences.miccai.org/2024/en/) (Morocco)
  - The workshop will be only *fully* in-person (as in *no* remote live talk or *no* hybrid mode)
  - Organized jointly with the workshop on [Ethical and Philosophical Issues in Medical Imaging](https://sites.google.com/view/epimi)
+
+
+## Keynote - Dr. Mercy Asiedu
+#### Machine Learning Fairness for Health in Africa
+<p style="text-align: justify">Abstract TBC
+</p>
+
+<div class="clearfix">
+	<img class="img2" src="/assets/speakers/Asiedu.jpg" alt="Dr. Mercy Asiedu" width="150" style="float: left; padding:0px 10px 10px 10px">
+	<p style="text-align: justify">
+		<b>Dr. Mercy Asiedu</b> is a research scientist in the Society Centered AI team at Google Research where she works on fairness in machine learning and generative AI tools for impact driven research for global health. Before that, she was a Schmidt Science Postdoctoral Research Fellow at MIT working on interdisciplinary research projects using generative AI methods to  improve mobile ultrasound imaging. She also worked on projects researching the use of language models to improve comprehension of health notes for breast oncology patients. 
+She received her PhD in Biomedical Engineering and a certificate in Global health from Duke University. Her dissertation focused on the research and development of a low-cost imaging device and machine learning algorithms to reduce barriers to cervical cancer screening. She has won several awards for her work including the Inaugural Patrick J. McGovern Tech for Humanity Changemaker Awards, the Lemelson-MIT Graduate Student Inventor Award, and Velji Emerging Leader in Global Health award. 
+She has her bachelor’s degree in Biomedical Engineering from the University of Rochester, and high school degree from Holy Child Secondary School, Cape Coast, Ghana.
+	</p>
+</div>
+
+## Schedule for FAIMI/EPIMI Workshop
+
+| Time | Speaker and Title |
+ |------|-------- |
+ |**EPIMI** ||
+ | 1:30 - 1:35 | Welcome | 
+ | 1:35 - 2:20 | **Keynote speaker:** Dr. Xiaoxiao Li |
+ | 2:20 - 3:00 | EPIMI Orals | 
+ |**FAIMI** ||
+ | 3:00 - 3:30 | Welcome + Poster pitch | 
+ | 3:30 - 4:00 | Posters/Coffee| 
+ | 4:00 - 5:00 | **Keynote speaker:** Dr. Mercy Asiedu - Machine Learning Fairness for health in Africa | 
+ | 5:00 - 5:10 | Vincent Olesen, et al.: Slicing Through Bias: Explaining Performance Gaps in Medical Image Analysis using Slice Discovery Methods | 
+ | 5:10 - 5:20 | Vien N Dang, et al.: Mitigating Overdiagnosis Bias in CNN-Based Alzheimer's Disease Diagnosis for the Elderly | 
+ | 5:20 - 5:30 | Kate E Cevorar, et al.: Quantifying the Impact of Population Shift Across Age and Sex for Abdominal Organ Segmentation | 
+ | 5:30 - 5:40 | Yuyang Xue, et al.: BMFT: Achieving Fairness via Bias-based Weight Masking Fine-tuning | 
+ | 5:40 - 5:50 | Giacomo Nebbia, et al.: Cycle-GANs generated difference maps to interpret race prediction from medical images | 
+ | 5:50 - 6:00 | Prizes and closing for FAIMI | 
+
+ 
+## Accepted Papers
+
+Anissa Alloula, et al.: *On Biases in a UK Biobank-based Retinal Image Classification Model* [Link](https://arxiv.org/abs/2408.02676)
+
+Ulas Bagci, et al.: *Practical and Ethical Considerations for Generative AI in Medical Imaging*
+
+Samia Belhadj, et al.: *Positive-Sum Fairness: Leveraging Demographic Attributes to Achieve Fair AI Outcomes Without Sacrificing Group Gains*
+
+Christopher T Boland, et al.: *All you need is a guiding hand: mitigating shortcut bias in deep learning models for medical imaging*
+
+Ricardo C Brioso, et al.: *Investigating Gender Bias in Lymph-node Segmentation with Anatomical Priors*
+
+Kate E Cevora, et al.: *Quantifying the Impact of Population Shift Across Age and Sex for Abdominal Organ Segmentation*
+
+Vien N Dang, et al.: *Mitigating Overdiagnosis Bias in CNN-Based Alzheimer's Disease Diagnosis for the Elderly*
+
+John J P McCabe, et al.: *Exploring Fairness in State-of-the-Art Pulmonary Nodule Detection Algorithms*
+
+Giacomo Nebbia, et al.: *Cycle-GANs generated difference maps to interpret race prediction from medical images*
+
+Dilermando Queiroz Neto, et al.: *Using Backbone Foundation Model for Evaluation Fairness Without Demographic Data in Chest Radiography*
+
+Vincent Olesen, et al.: *Slicing Through Bias: Explaining Performance Gaps in Medical Image Analysis using Slice Discovery Methods* [Link](https://arxiv.org/abs/2406.12142)
+
+Ralf Raumanns, et al.: *Dataset Distribution Impacts Model Fairness: Single vs. Multi-Task Learning* [Link](https://arxiv.org/abs/2407.17543)
+
+Raissa Souza, et al.: *Do sites benefit equally from distributed learning in medical image analysis?*
+
+Emma Stanley, et al.: *Assessing the Impact of Sociotechnical Harms in AI-based Medical Image Analysis*
+
+Ronald Summers, et al.: *AI Fairness in Medical Imaging: Controlling for Disease Severity*
+
+Yuyang Xue, et al.: *BMFT: Achieving Fairness via Bias-based Weight Masking Fine-tuning*
+
+Alexander Ziller, et al.: *Fair and Private CT Contrast Agent Detection*
 
 
 ## Call for Papers
@@ -61,21 +129,6 @@ Notification of Acceptance: **July 15, 2024**
 Camera-ready Version: **August 1, 2024**
 
 Workshop: **October 10th, 2024**
-
-
-## Keynote - Dr. Mercy Asiedu
-#### Machine Learning Fairness for Health in Africa
-<p style="text-align: justify">Abstract TBC
-</p>
-
-<div class="clearfix">
-	<img class="img2" src="/assets/speakers/Asiedu.jpg" alt="Dr. Mercy Asiedu" width="150" style="float: left; padding:0px 10px 10px 10px">
-	<p style="text-align: justify">
-		<b>Dr. Mercy Asiedu</b> is a research scientist in the Society Centered AI team at Google Research where she works on fairness in machine learning and generative AI tools for impact driven research for global health. Before that, she was a Schmidt Science Postdoctoral Research Fellow at MIT working on interdisciplinary research projects using generative AI methods to  improve mobile ultrasound imaging. She also worked on projects researching the use of language models to improve comprehension of health notes for breast oncology patients. 
-She received her PhD in Biomedical Engineering and a certificate in Global health from Duke University. Her dissertation focused on the research and development of a low-cost imaging device and machine learning algorithms to reduce barriers to cervical cancer screening. She has won several awards for her work including the Inaugural Patrick J. McGovern Tech for Humanity Changemaker Awards, the Lemelson-MIT Graduate Student Inventor Award, and Velji Emerging Leader in Global Health award. 
-She has her bachelor’s degree in Biomedical Engineering from the University of Rochester, and high school degree from Holy Child Secondary School, Cape Coast, Ghana.
-	</p>
-</div>
 
 
 ## Organizers
