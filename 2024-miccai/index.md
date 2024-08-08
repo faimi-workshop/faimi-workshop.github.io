@@ -41,7 +41,7 @@ She has her bachelor’s degree in Biomedical Engineering from the University of
  | 4:00 - 5:00 | **Keynote speaker:** Dr. Mercy Asiedu - Machine Learning Fairness for health in Africa | 
  | 5:00 - 5:10 | Vincent Olesen, et al.: Slicing Through Bias: Explaining Performance Gaps in Medical Image Analysis using Slice Discovery Methods | 
  | 5:10 - 5:20 | Vien N Dang, et al.: Mitigating Overdiagnosis Bias in CNN-Based Alzheimer's Disease Diagnosis for the Elderly | 
- | 5:20 - 5:30 | Kate E Cevorar, et al.: Quantifying the Impact of Population Shift Across Age and Sex for Abdominal Organ Segmentation | 
+ | 5:20 - 5:30 | Kate E Cevora, et al.: Quantifying the Impact of Population Shift Across Age and Sex for Abdominal Organ Segmentation | 
  | 5:30 - 5:40 | Yuyang Xue, et al.: BMFT: Achieving Fairness via Bias-based Weight Masking Fine-tuning | 
  | 5:40 - 5:50 | Giacomo Nebbia, et al.: Cycle-GANs generated difference maps to interpret race prediction from medical images | 
  | 5:50 - 6:00 | Prizes and closing for FAIMI | 
