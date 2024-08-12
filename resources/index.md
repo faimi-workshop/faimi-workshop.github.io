@@ -183,3 +183,6 @@ Below we have put together a summary of the most commonly used datasets that do 
 - [The Double-Edged Sword of AI, with Dr. Ziad Obermeyer on the NEJM AI Grand Rounds Podcast](https://youtu.be/c5KcSNeGXOM?si=DTafvq8FljSrSHaZ)
 - [Karim Lekadir, "In AI we trust? Towards ethical AI in medical imaging."](https://www.youtube.com/watch?v=CQifgsIrKN0)
 - [Bias in AI: Origins and Solutions feat. Dr. Joy Buolamwini on ASK MORE OF AI with Clara Shih](https://www.youtube.com/watch?v=7rx82V0UT98)
+
+### 2024
+-  [Andrew King, "Bias and Fairness in AI for Medical Imaging" (RISE-FAIMI Tutorial)]([https://www.youtube.com/watch?v=h6I5aY0dLfI&list=PL043hPrfrJaMfleMaibbfR0oMc7ef9PvL](https://www.youtube.com/watch?v=AP9fQCWF5d4))
