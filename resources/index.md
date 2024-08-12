@@ -185,4 +185,4 @@ Below we have put together a summary of the most commonly used datasets that do 
 - [Bias in AI: Origins and Solutions feat. Dr. Joy Buolamwini on ASK MORE OF AI with Clara Shih](https://www.youtube.com/watch?v=7rx82V0UT98)
 
 ### 2024
--  [Andrew King, "Bias and Fairness in AI for Medical Imaging" (RISE-FAIMI Tutorial)]([https://www.youtube.com/watch?v=h6I5aY0dLfI&list=PL043hPrfrJaMfleMaibbfR0oMc7ef9PvL](https://www.youtube.com/watch?v=AP9fQCWF5d4))
+-  [Andrew King, "Bias and Fairness in AI for Medical Imaging" (RISE-MICCAI/FAIMI Summer School)](https://www.youtube.com/watch?v=AP9fQCWF5d4)
