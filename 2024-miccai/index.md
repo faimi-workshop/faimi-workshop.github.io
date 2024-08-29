@@ -13,7 +13,7 @@ redirect_from: /2024-miccai/
  - Organized jointly with the workshop on [Ethical and Philosophical Issues in Medical Imaging](https://sites.google.com/view/epimi)
 
 
-## Keynote - Dr. Mercy Asiedu
+## FAIMI Keynote - Dr. Mercy Asiedu
 #### Machine Learning Fairness for Health in Africa
 <p style="text-align: justify">Abstract TBC
 </p>
@@ -24,6 +24,17 @@ redirect_from: /2024-miccai/
 		<b>Dr. Mercy Asiedu</b> is a research scientist in the Society Centered AI team at Google Research where she works on fairness in machine learning and generative AI tools for impact driven research for global health. Before that, she was a Schmidt Science Postdoctoral Research Fellow at MIT working on interdisciplinary research projects using generative AI methods to  improve mobile ultrasound imaging. She also worked on projects researching the use of language models to improve comprehension of health notes for breast oncology patients. 
 She received her PhD in Biomedical Engineering and a certificate in Global health from Duke University. Her dissertation focused on the research and development of a low-cost imaging device and machine learning algorithms to reduce barriers to cervical cancer screening. She has won several awards for her work including the Inaugural Patrick J. McGovern Tech for Humanity Changemaker Awards, the Lemelson-MIT Graduate Student Inventor Award, and Velji Emerging Leader in Global Health award. 
 She has her bachelor’s degree in Biomedical Engineering from the University of Rochester, and high school degree from Holy Child Secondary School, Cape Coast, Ghana.
+	</p>
+</div>
+
+## EPIMI Keynote - Dr. Xiaoxiao Li 
+<p style="text-align: justify">Abstract TBC
+</p>
+
+<div class="clearfix">
+	<img class="img2" src="/assets/speakers/Xiaoxiao.jpg" alt="Dr. Xiaoxiao Li" width="150" style="float: left; padding:0px 10px 10px 10px">
+	<p style="text-align: justify">
+		<b>Dr. Xiaoxiao Li</b> is an Assistant Professor in the Electrical and Computer Engineering Department at the University of British Columbia (UBC), leading the Trusted and Efficient AI (TEA) Group, and an Adjunct Assistant Professor at the School of Medicine at Yale University. Dr. Li specializes in the interdisciplinary field of deep learning and healthcare. Their primary mission is to make AI more reliable, especially when it comes to sensitive areas like healthcare. At the TEA Group, they explore wide-range of topics from fundamental machine learning to more focused healthcare-driven AI solutions. The group delves into topics like learning from multimodal and heterogeneous data, efficient AI models, federated learning, vision-language models, and creating AI models that not only perform tasks but can also be trustworthy. Some of their groundbreaking work includes AI-driven analysis of neuroimages, pathology slides, molecular and clinical notes. In essence, Dr. Li’s work is all about bridging the world of advanced machine learning with the practical needs of the healthcare industry.
 	</p>
 </div>
 
