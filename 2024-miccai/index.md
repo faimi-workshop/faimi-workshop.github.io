@@ -15,9 +15,6 @@ redirect_from: /2024-miccai/
 
 ## FAIMI Keynote - Dr. Mercy Asiedu
 #### Machine Learning Fairness for Health in Africa
-<p style="text-align: justify">Abstract TBC
-</p>
-
 <div class="clearfix">
 	<img class="img2" src="/assets/speakers/Asiedu.jpg" alt="Dr. Mercy Asiedu" width="150" style="float: left; padding:0px 10px 10px 10px">
 	<p style="text-align: justify">
@@ -28,9 +25,6 @@ She has her bachelor’s degree in Biomedical Engineering from the University of
 </div>
 
 ## EPIMI Keynote - Dr. Xiaoxiao Li 
-<p style="text-align: justify">Abstract TBC
-</p>
-
 <div class="clearfix">
 	<img class="img2" src="/assets/speakers/Xiaoxiao.jpg" alt="Dr. Xiaoxiao Li" width="150" style="float: left; padding:0px 10px 10px 10px">
 	<p style="text-align: justify">
@@ -44,8 +38,9 @@ She has her bachelor’s degree in Biomedical Engineering from the University of
  |------|-------- |
  |**EPIMI** ||
  | 1:30 - 1:35 | Welcome | 
- | 1:35 - 2:20 | **Keynote speaker:** Dr. Xiaoxiao Li |
- | 2:20 - 3:00 | EPIMI Orals | 
+ | 1:35 - 2:20 | **Keynote speaker:** Dr. Xiaoxiao Li - Evaluating Fairness and Mitigating Bias in the Era of Medical Imaging Foundation Models |
+ | 2:20 - 2:40 | Debesh Jha, et al.: Practical and Ethical Considerations for Generative AI in Medical Imaging | 
+ | 2:40 - 3:00 | Emma A.M. Stanley, et al.: Assessing the Impact of Sociotechnical Harms in AI-based Medical Image Analysis
  |**FAIMI** ||
  | 3:00 - 3:30 | Welcome + Poster pitch | 
  | 3:30 - 4:00 | Posters/Coffee| 
@@ -56,7 +51,6 @@ She has her bachelor’s degree in Biomedical Engineering from the University of
  | 5:30 - 5:40 | Yuyang Xue, et al.: BMFT: Achieving Fairness via Bias-based Weight Masking Fine-tuning | 
  | 5:40 - 5:50 | Giacomo Nebbia, et al.: Cycle-GANs generated difference maps to interpret race prediction from medical images | 
  | 5:50 - 6:00 | Prizes and closing for FAIMI | 
-
  
 ## Accepted Papers
 
