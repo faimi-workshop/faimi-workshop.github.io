@@ -87,7 +87,7 @@ Rather, we list a few key references for specific areas of fairness research tha
 
 #### AI fairness for histology:
 - Valdya et al (2024), [Demographic Bias in Misdiagnosis by Computational Pathology Models](https://doi.org/10.1038/s41591-024-02885-z), Nature Medicine.
-- 
+
 #### AI fairness for breast DCE-MRI:
 - Huti et al (2023), [An Investigation Into Race Bias in Random Forest Models Based on Breast DCE-MRI Derived Radiomics Features](https://doi.org/10.1007/978-3-031-45249-9_22), MICCAI FAIMI workshop.
 
