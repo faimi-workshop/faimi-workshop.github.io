@@ -15,6 +15,9 @@ redirect_from: /2024-miccai/
 
 ## FAIMI Keynote - Dr. Mercy Asiedu
 #### Machine Learning Fairness for Health in Africa
+<p style="text-align: justify">Applications of artificial intelligence (AI) in healthcare have accelerated exponentially. While AI has the potential to improve healthcare for the better, like other advancements in medical technology, it also has the potential to increase health disparities. Historically, medical technology has not been created with the needs of underserved settings in mind and this has led to limited access in low/middle income countries. Reduced access to these healthcare tools leads to downstream gaps in data used to train machine learning models, and by extension, the potential for machine learning biases, should these models be used on individuals from historically excluded settings. 
+In this talk I will discuss the Nteasee Study to understand the general population and expert perspectives on AI for health in Africa, including a deep dive on algorithmic fairness and colonialism. I will then provide a brief overview of my research on developing tools to attempt to overcome some of these limitations, ranging from  African-focussed datasets for LLM evaluation and tuning and applied AI for health equity outcomes. Overall, I hope to make a case for considering geo-contextual perspectives for AI development and evaluation and to demonstrate examples of beneficial AI development for health in Africa.</p>
+
 <div class="clearfix">
 	<img class="img2" src="/assets/speakers/Asiedu.jpg" alt="Dr. Mercy Asiedu" width="150" style="float: left; padding:0px 10px 10px 10px">
 	<p style="text-align: justify">
