@@ -41,9 +41,9 @@ She has her bachelor’s degree in Biomedical Engineering from the University of
  |------|-------- |
  |**EPIMI** ||
  | 1:30 - 1:35 | Welcome | 
- | 1:35 - 2:20 | **Keynote speaker:** Dr. Xiaoxiao Li - Evaluating Fairness and Mitigating Bias in the Era of Medical Imaging Foundation Models |
- | 2:20 - 2:40 | Debesh Jha, et al.: Practical and Ethical Considerations for Generative AI in Medical Imaging | 
- | 2:40 - 3:00 | Emma A.M. Stanley, et al.: Assessing the Impact of Sociotechnical Harms in AI-based Medical Image Analysis
+ | 1:35 - 1:55 | Debesh Jha, et al.: Practical and Ethical Considerations for Generative AI in Medical Imaging | 
+ | 1:55 - 2:15 | Emma A.M. Stanley, et al.: Assessing the Impact of Sociotechnical Harms in AI-based Medical Image Analysis
+ | 2:15 - 3:00 | **Keynote speaker:** Dr. Xiaoxiao Li - Evaluating Fairness and Mitigating Bias in the Era of Medical Imaging Foundation Models |
  |**FAIMI** ||
  | 3:00 - 3:30 | Welcome + Poster pitch | 
  | 3:30 - 4:00 | Posters/Coffee| 
