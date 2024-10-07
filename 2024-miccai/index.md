@@ -91,14 +91,12 @@ Yuyang Xue, et al.: *BMFT: Achieving Fairness via Bias-based Weight Masking Fine
 
 Alexander Ziller, et al.: *Fair and Private CT Contrast Agent Detection*
 
-
 ## Proceedings
 
+<a href="https://link.springer.com/book/9783031727863">
 <img class="img2" src="/images/proceedings2024.png" alt="FAIMI 2024 Proceedings" style="float: center; padding:0px 10px 10px 10px">
-
+</a>
 You can access the Proceedings of our FAIMI 2024 workshop at MICCAI [here](https://link.springer.com/book/9783031727863)
-
-
 
 ## Call for Papers
 We invite the submission of papers for
