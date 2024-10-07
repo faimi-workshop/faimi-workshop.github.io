@@ -93,7 +93,12 @@ Alexander Ziller, et al.: *Fair and Private CT Contrast Agent Detection*
 
 
 ## Proceedings
+
+<img class="img2" src="/images/proceedings2024.png" alt="FAIMI 2024 Proceedings" style="float: center; padding:0px 10px 10px 10px">
+
 You can access the Proceedings of our FAIMI 2024 workshop at MICCAI [here](https://link.springer.com/book/9783031727863)
+
+
 
 ## Call for Papers
 We invite the submission of papers for
