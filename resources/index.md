@@ -120,6 +120,7 @@ Although one can investigate fairness issues with standard software environments
 - [FairLearn](https://fairlearn.org/), [Bird et al (2020)](https://www.microsoft.com/en-us/research/uploads/prod/2020/05/Fairlearn_WhitePaper-2020-09-22.pdf). *Initially created by Microsoft, now independent.*
 - [Aequitas](http://www.datasciencepublicpolicy.org/our-work/tools-guides/aequitas/), [Saleiro et al (2018)](https://doi.org/10.48550/arXiv.1811.05577). *Open source bias audit toolkit for machine learning developers (not imaging).*
 - [MEDFAIR](https://github.com/ys-zong/MEDFAIR), [Zong et al (2023)](https://doi.org/10.48550/arXiv.2210.01725), ICLR. *Fairness benchmarking suite for medical imaging.*
+- [FairMedFM](https://github.com/FairMedFM/FairMedFM), [Jin et al (2024)](https://doi.org/10.48550/arXiv.2407.00983), NeurIPS. *Fairness benchmarking suite for medical imaging foundation models.*
 
 ## Initiatives, guidelines and legislation
 Below are some resources related to data collection and research initiatives, guidelines on fairness in AI and information about government efforts to legislate on the use of AI, many of which include reference to fairness and bias.
