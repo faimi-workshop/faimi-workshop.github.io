@@ -83,8 +83,6 @@ Ralf Raumanns, et al.: *Dataset Distribution Impacts Model Fairness: Single vs. 
 
 Raissa Souza, et al.: *Do sites benefit equally from distributed learning in medical image analysis?*
 
-Emma Stanley, et al.: *Assessing the Impact of Sociotechnical Harms in AI-based Medical Image Analysis*
-
 Ronald Summers, et al.: *AI Fairness in Medical Imaging: Controlling for Disease Severity*
 
 Yuyang Xue, et al.: *BMFT: Achieving Fairness via Bias-based Weight Masking Fine-tuning*
