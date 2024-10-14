@@ -96,6 +96,18 @@ Alexander Ziller, et al.: *Fair and Private CT Contrast Agent Detection*
 </a>
 You can access the Proceedings of our FAIMI 2024 workshop at MICCAI [here](https://link.springer.com/book/9783031727863)
 
+
+## Awards MICCAI FAIMI 2024
+Congratulations to <b>Kate E Cevora</b> from  Imperial College London for the best oral presenter award. Congratulations to <b>Raissa Souza</b> from the University of Calgary for the best poster presenter award.
+
+
+<div class="clearfix">
+	<img class="img2" src="/images/FAIMI_2024-Best-oral.png" alt="MICCAI FAIMI 2024 Best Oral" width="300" style="float: left; padding:0px 10px 10px 10px">
+	<img class="img2" src="/images/FAIMI_2024-Best-Poster.png" alt="MICCAI FAIMI 2024 Best Poster" width="300" style="float: left; padding:0px 10px 10px 10px">
+
+</div>
+
+
 ## Call for Papers
 We invite the submission of papers for
 
@@ -126,16 +138,6 @@ Following the <a href="https://conferences.miccai.org/2024/en/PAPER-SUBMISSION-A
 This should be a separate file, and reviewers are under no obligation to review it; the paper must be self-contained and understandable without the supplementary material.
 Note that in the submission system, supplementary materials can only be added once a regular submission has been created. (You can still edit your submission until the deadline.)
 </p>
-
-## Awards MICCAI FAIMI 2024
-Congratulations to <b>Kate E Cevora</b> from  Imperial College London for the best oral presenter award. Congratulations to <b>Raissa Souza</b> from the University of Calgary for the best poster presenter award.
-
-
-<div class="clearfix">
-	<img class="img2" src="/images/FAIMI_2024-Best-oral.png" alt="MICCAI FAIMI 2024 Best Oral" width="300" style="float: left; padding:0px 10px 10px 10px">
-	<img class="img2" src="/images/FAIMI_2024-Best-Poster.png" alt="MICCAI FAIMI 2024 Best Poster" width="300" style="float: left; padding:0px 10px 10px 10px">
-
-</div>
 
 
 ## Dates
