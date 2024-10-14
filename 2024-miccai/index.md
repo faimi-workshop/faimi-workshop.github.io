@@ -127,6 +127,16 @@ This should be a separate file, and reviewers are under no obligation to review 
 Note that in the submission system, supplementary materials can only be added once a regular submission has been created. (You can still edit your submission until the deadline.)
 </p>
 
+## Awards MICCAI FAIMI 2024
+Congratulations to <b>Kate E Cevora</b> from  Imperial College London for the best oral presenter award. Congratulations to <b>Raissa Souza</b> from the University of Calgary for the best poster presenter award.
+
+
+<div class="clearfix">
+	<img class="img2" src="/images/FAIMI_2024-Best-oral.png" alt="MICCAI FAIMI 2024 Best Oral" width="300" style="float: left; padding:0px 10px 10px 10px">
+	<img class="img2" src="/images/FAIMI_2024-Best-Poster.png" alt="MICCAI FAIMI 2024 Best Poster" width="300" style="float: left; padding:0px 10px 10px 10px">
+
+</div>
+
 
 ## Dates
 
