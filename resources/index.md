@@ -41,7 +41,7 @@ Rather, we list a few key references for specific areas of fairness research tha
 - Yi et al (2021), [Radiology “Forensics”: Determination of Age and Sex from Chest Radiographs Using Deep Learning](https://doi.org/10.1007/s10140-021-01953-y), Emergency Radiology, and Gichoya et al (2022), [AI Recognition of Patient Race in Medical Imaging: A Modelling Study](https://doi.org/10.1016/S2589-7500(22)00063-2), Lancet Digital Health. *AI recognition of patient age, sex, and race from chest x-rays, which raises the possibility of bias in AI models trained using such images.*
 - Glocker et al (2023), [Algorithmic Encoding of Protected Characteristics in Chest X-ray Disease Detection Models](https://doi.org/10.1016/j.ebiom.2023.104467), eBiomedicine.  
 *Does encoding of protected characteristics in an AI model necessarily lead to bias?*
-- Brown et al (2023), [Detecting Shortcut Learning for Fair Medical AI Using Shortcut Testing](https://doi.org/10.1038/s41467-023-39902-7), Nature Communications.
+- Brown et al (2023), [Detecting Shortcut Learning for Fair Medical AI Using Shortcut Testing](https://doi.org/10.1038/s41467-023-39902-7), Nature Communications. *Method for detecting when shortcut learning is being used*
 - Zou et al (2023), [Implications of Predicting Race Variables from Medical Images](https://doi.org/10.1126/science.adh4260), Science.
 
 ### Quantitative comparisons
