@@ -19,6 +19,7 @@ Rather, we list a few key references for specific areas of fairness research tha
 - Du et al (2020), [Fairness in Deep Learning: A Computational Perspective](https://ieeexplore.ieee.org/document/9113719), IEEE Intelligent Systems. ([arxiv](https://arxiv.org/abs/1908.08843))
 - Mehrabi et al (2021), [A Survey on Bias and Fairness in Machine Learning](https://dl.acm.org/doi/10.1145/3457607), ACM Computing Surveys. ([arxiv](https://doi.org/10.48550/arXiv.1908.09635))
 - Chen et al (2023), [Algorithmic Fairness in Artificial Intelligence for Medicine and Healthcare](https://doi.org/10.1038/s41551-023-01056-8), Nature Biomedical Engineering.
+- Xu et al (2024), [Addressing Fairness Issues in Deep Learning-based Medical Image Analysis: A Systematic Review](https://doi.org/10.1038/s41746-024-01276-5), npj Digital Medicine.
 
 ### Seminal works on AI fairness
 - Angwin et al (2016), [Machine Bias](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing), ProPublica. *COMPAS study in which racial bias was shown in a machine learning algorithm for predicting recidivism.*
