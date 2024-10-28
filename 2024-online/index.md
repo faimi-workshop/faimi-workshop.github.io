@@ -12,6 +12,8 @@ redirect_from: /2024-online/
  - Dec 4th, 2024, 14:00-17:00 GMT/UTC
  - Fully virtual & free! 
  - Also see [our MICCAI 2024 workshop on the same subject](/2024-miccai/) and [last year's iteration of this event](/2023-online/)
+ - Register [here](https://forms.gle/mqvP7rdgitSRzGEp8)
+
 
 
 ## Keynote Speaker
