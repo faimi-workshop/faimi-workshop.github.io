@@ -37,6 +37,7 @@ In a series of interdisciplinary events, our aim is to advance the discourse aro
 [Ira Ktena](https://sites.google.com/view/sk1712/home), Deep Mind, UK  
 [Sanmi Koyejo](https://cs.stanford.edu/~sanmi/), Stanford University, USA  
 [Karim Lekadir](https://mat.ub.edu/departament/professors/lekadir-karim/), Universitat de Barcelona, Spain 
+[Mercy Asiedu](https://mercynasiedu.com/), Google Research, USA 
 
 ## Activity committee
 [Tareen Dawood](https://www.kcl.ac.uk/people/tareen-dawood), King's College London, UK. ISBI 2024 tutorial coordinator  
