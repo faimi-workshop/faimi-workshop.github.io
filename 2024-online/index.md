@@ -45,7 +45,7 @@ redirect_from: /2024-online/
 **Andrew King**, King's College London  
 **Ben Glocker**, Imperial College London  
 **Enzo Ferrante**, CONICET, Universidad Nacional del Litoral  
-**Eike Petersen**, DTU Compute, Technical University of Denmark  
+**Eike Petersen**, Fraunhofer Institute for Digital Medicine MEVIS, Germany
 **Esther Puyol-Antón**, HeartFlow and King's College London  
 **Melanie Ganz-Benjaminsen**, University of Copenhagen and Neurobiology Research Unit, Rigshospitalet  
 **Veronika Cheplygina**, IT University Copenhagen  
