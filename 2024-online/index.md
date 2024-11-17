@@ -31,11 +31,16 @@ redirect_from: /2024-online/
  |------|-------- |
  | 14:00 | Opening Remarks | 
  ||**SESSION 1** |
- | 14:10 | Invited talks | 
+ | 14:10 | Invited talks: | 
+ |       | Improved fairness and accuracy of skin disease image classification using alignment with clinical text representations, Gagan Raj Gupta, Indian Institute of Technology, India | 
+ |       | Understanding AI bias in CMR segmentation, Tiarna Lee, King's College London, UK | 
+ |       | Bias in motion: Theoretical insights into the dynamics of bias in SGD training, Stefano Sarao Manelli, Gothenburg University, Sweden | 
+ |       | Quantifying the impact of population shift across age and sex for abdominal organ segmentation, Kate Cevora, Imperial College London, UK | 
+ |       | Debiased noise editing on foundation models for fair medical image classification , Ruinan Jin, University of British Columbia, Canada | 
  | 15:20 | Break |
  ||**SESSION 2** |
  | 15:30 | **Keynote 1: Roxana Daneshjou, USA -  AI in healthcare: hype or gamechanger?** |
- | 16:30 | **Panel Discussion: Roxana Daneshjo and FAIMI organisers** |
+ | 16:30 | **Panel Discussion: Roxana Daneshjo, Mercy Asiedu and FAIMI organisers** |
  | 17:00 | Closing Remarks |
 
  
