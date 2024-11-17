@@ -34,7 +34,7 @@ redirect_from: /2024-online/
  | 14:10 | Invited talks: | 
  |       | Improved fairness and accuracy of skin disease image classification using alignment with clinical text representations, Gagan Raj Gupta, Indian Institute of Technology, India | 
  |       | Understanding AI bias in CMR segmentation, Tiarna Lee, King's College London, UK | 
- |       | Bias in motion: Theoretical insights into the dynamics of bias in SGD training, Stefano Sarao Manelli, Gothenburg University, Sweden | 
+ |       | Bias in motion: Theoretical insights into the dynamics of bias in SGD training, Stefano Sarao Manelli, Chalmers University of Technology, Sweden | 
  |       | Quantifying the impact of population shift across age and sex for abdominal organ segmentation, Kate Cevora, Imperial College London, UK | 
  |       | Debiased noise editing on foundation models for fair medical image classification , Ruinan Jin, University of British Columbia, Canada | 
  | 15:20 | Break |
