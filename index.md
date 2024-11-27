@@ -34,7 +34,7 @@ In a series of interdisciplinary events, our aim is to advance the discourse aro
 [Kanwal Bhatia](https://www.linkedin.com/in/kanwal-bhatia-138b195/), Aival, UK  
 [Tal Arbel](https://www.cim.mcgill.ca/~arbel/), McGill University, USA  
 [Bishesh Khanal](https://www.naamii.org.np/teams/bishesh-khanal/), NAAMII, Nepal  
-[Ira Ktena](https://sites.google.com/view/sk1712/home), Deep Mind, UK  
+[Ira Ktena](https://sites.google.com/view/sk1712/home), Google DeepMind, UK  
 [Sanmi Koyejo](https://cs.stanford.edu/~sanmi/), Stanford University, USA  
 [Karim Lekadir](https://mat.ub.edu/departament/professors/lekadir-karim/), Universitat de Barcelona, Spain  
 [Mercy Asiedu](https://mercynasiedu.com/), Google Research, USA 
