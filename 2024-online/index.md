@@ -13,9 +13,6 @@ redirect_from: /2024-online/
  - Fully virtual & free! 
  - Also see [our MICCAI 2024 workshop on the same subject](/2024-miccai/) and [last year's iteration of this event](/2023-online/)
  - Register [here](https://forms.gle/mqvP7rdgitSRzGEp8)
-<!---
- - [Join Webinar](https://ucph-ku.zoom.us/w/61345070262?tk=XkPgLakTrAxwT3AKcWj2pH6JKYzt1Zbe1uaGQ0geqRM.DQcAAAAOSHN8thZDWVR5TVZXeFJ0MmVfZGFpN00wZGVBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&pwd=EdaZ6xQ2v8zbPzfTx4UzSKBQory2Ja.1&uuid=WN_VPnYhJs8TCSIRq81yWM0-g)
---->
 
 
 ## Keynote Speaker
