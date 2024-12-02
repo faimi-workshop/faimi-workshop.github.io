@@ -39,7 +39,7 @@ redirect_from: /2024-online/
  | 15:20 | Break |
  ||**SESSION 2** |
  | 15:30 | **Keynote 1: Roxana Daneshjou, USA -  AI in healthcare: hype or gamechanger?** |
- | 16:30 | **Panel Discussion: Roxana Daneshjou, Mercy Asiedu and FAIMI organisers** |
+ | 16:30 | **Panel Discussion: Roxana Daneshjou, Mercy Asiedu, Maria Zuluaga and FAIMI organisers** |
  | 17:00 | Closing Remarks |
 
  
