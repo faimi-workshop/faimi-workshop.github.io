@@ -12,7 +12,7 @@ redirect_from: /2024-online/
  - Dec 4th, 2024, 14:00-17:00 GMT/UTC
  - Fully virtual & free! 
  - Also see [our MICCAI 2024 workshop on the same subject](/2024-miccai/) and [last year's iteration of this event](/2023-online/)
- - **Join [here](https://ucph-ku.zoom.us/j/61345070262?pwd=EdaZ6xQ2v8zbPzfTx4UzSKBQory2Ja.1)!**
+ - **Join the symposium by Zoom link [here](https://ucph-ku.zoom.us/j/61345070262?pwd=EdaZ6xQ2v8zbPzfTx4UzSKBQory2Ja.1)!**
 
 
 ## Keynote Speaker
