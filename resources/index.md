@@ -133,6 +133,7 @@ Below are some resources related to data collection and research initiatives, gu
 ### Guidelines:
 - [FUTURE-AI](https://future-ai.eu/) *aims to establish guidelines for AI in healthcare, including fairness as a key principle.*
 - [Algorithmic Bias Playbook](https://www.chicagobooth.edu/-/media/project/chicago-booth/centers/caai/docs/algorithmic-bias-playbook-june-2021) (Obermeyer et al, 2021): *high-level discussion addressing aspects such as label choice bias.*
+- [Tackling algorithmic bias and promoting transparency in health datasets: the STANDING Together consensus recommendations](https://doi.org/10.1016/S2589-7500(24)00224-3) (Alderman et al, 2024): *consensus recommendations for health datasets from the STANDING Together initiative.*
 
 ### Legislation/white papers on regulation of AI:
 - [Global AI Legislation Tracker](https://iapp.org/resources/article/global-ai-legislation-tracker/)
