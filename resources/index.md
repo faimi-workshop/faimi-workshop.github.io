@@ -100,9 +100,9 @@ Rather, we list a few key references for specific areas of fairness research tha
 - Ioannou et al (2022), [A Study of Demographic Bias in CNN-Based Brain MR Segmentation](https://doi.org/10.1007/978-3-031-17899-3_2), MICCAI workshop on Machine Learning in Clinical Neuroimaging.
 - Gaggion et al (2023), [Unsupervised Bias Discovery in Medical Image Segmentation](https://link.springer.com/chapter/10.1007/978-3-031-45249-9_26), MICCAI FAIMI.
 - Tian et al (2023), [Harvard FairSeg: A Large-Scale Medical Image Segmentation Dataset for Fairness Learning Using Segment Anything Model with Fair Error-Bound Scaling](https://arxiv.org/pdf/2311.02189.pdf), Arxiv.
-- Bencevic et al (2024), [Understanding skin color bias in deep learning-based skin lesion segmentation](https://doi.org/10.1016/j.cmpb.2024.108044), Computer Methods and Programs in Biomedicine.
-- Siddiqui et al (2024),  [Fair AI-powered orthopedic image segmentation: addressing bias and promoting equitable healthcare](https://doi.org/10.1038/s41598-024-66873-6), Scientific Reports.
-
+- Bencevic et al (2024), [Understanding Skin Color Bias in Deep Learning-based Skin Lesion Segmentation](https://doi.org/10.1016/j.cmpb.2024.108044), Computer Methods and Programs in Biomedicine.
+- Siddiqui et al (2024),  [Fair AI-powered Orthopedic Image Segmentation: Addressing Bias and Promoting Equitable Healthcare](https://doi.org/10.1038/s41598-024-66873-6), Scientific Reports.
+- Lee et al (2025), [An Investigation Into the Causes of Race Bias in AI-based Cine CMR Segmentation](https://doi.org/10.1093/ehjdh/ztaf008), EHJ Digital Health.
 
 ### Miscellaneous
 - Simoiu et al (2017), [The Problem of Infra-Marginality in Outcome Tests for Discrimination](https://dx.doi.org/10.2139/ssrn.2811449), The Annals of Applied Statistics, and Kearns et al (2018), [Preventing Fairness Gerrymandering: Auditing and Learning for Subgroup Fairness](https://proceedings.mlr.press/v80/kearns18a.html), ICML: *Fairness with respect to one protected attribute can hide aggravated unfairness with respect to another (a.k.a. inframarginality / fairness gerrymandering / subgroup fairness).*
@@ -131,7 +131,7 @@ Below are some resources related to data collection and research initiatives, gu
 - Fairness of AI in Medical Imaging (FAIMI): *that's us, an independent academic initiative aimed at exploring and promoting fair AI in medical imaging*.
 
 ### Guidelines:
-- [FUTURE-AI](https://future-ai.eu/) *aims to establish guidelines for AI in healthcare, including fairness as a key principle.*
+- [FUTURE-AI](https://future-ai.eu/), [Lekadir et al (2025)](https://doi.org/10.1136/bmj-2024-081554), BMJ. *aims to establish guidelines for AI in healthcare, including fairness as a key principle.*
 - [Algorithmic Bias Playbook](https://www.chicagobooth.edu/-/media/project/chicago-booth/centers/caai/docs/algorithmic-bias-playbook-june-2021) (Obermeyer et al, 2021): *high-level discussion addressing aspects such as label choice bias.*
 - [Tackling algorithmic bias and promoting transparency in health datasets: the STANDING Together consensus recommendations](https://doi.org/10.1016/S2589-7500(24)00224-3) (Alderman et al, 2024): *consensus recommendations for health datasets from the STANDING Together initiative.*
 
