@@ -56,7 +56,8 @@ jobs:
       - name: Upload Jekyll site
         uses: actions/upload-pages-artifact@v3
         with:
-          path: _site # Ensure the correct build directory is uploaded
+          path: _site # Ensure the built Jekyll site is uploaded
+          name: github-pages # Explicitly set the artifact name
 
   # Deployment job
   deploy:
@@ -70,4 +71,4 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v1
         with:
-          artifact_name: github-pages # Ensure the correct artifact name is used
+          artifact_name: github-pages # Ensure it matches the uploaded artifact
