@@ -55,6 +55,10 @@ jobs:
         env:
           GITHUB_PAGES: true
 
+      - name: Check _site Directory
+        run: |
+          ls -la _site  # Debugging step to confirm the _site directory exists
+
       - name: Upload Jekyll site
         uses: actions/upload-pages-artifact@v3
         with:
@@ -69,7 +73,7 @@ jobs:
     needs: build
     steps:
       - name: Download artifact
-        uses: actions/download-artifact@v2
+        uses: actions/download-artifact@latest
         with:
           name: github-pages
           path: _site # Ensure it extracts to the correct directory
