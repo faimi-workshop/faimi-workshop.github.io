@@ -55,6 +55,8 @@ jobs:
 
       - name: Upload Jekyll site
         uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site # Ensure the correct build directory is uploaded
 
   # Deployment job
   deploy:
