@@ -2,7 +2,7 @@
 name: Deploy Jekyll site to Pages
 
 on:
-  # Runs on pushes targeting the default branch
+  # Runs on pushes to the default branch
   push:
     branches: ["main"]
 
@@ -44,10 +44,11 @@ jobs:
 
       - name: Build Jekyll Site
         run: |
-          BASEURL=${{ steps.pages.outputs.base_path }}
-          if [[ -z "$BASEURL" ]]; then
-            BASEURL="/"  # Fallback if base_path is empty
+          BASEURL="${{ steps.pages.outputs.base_path }}"
+          if [ -z "$BASEURL" ]; then
+            BASEURL="/"
           fi
+          echo "Using baseurl: $BASEURL"
           bundle exec jekyll build --baseurl "$BASEURL"
 
       - name: Upload Jekyll site
