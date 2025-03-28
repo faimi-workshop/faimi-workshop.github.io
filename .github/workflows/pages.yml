@@ -61,7 +61,6 @@ jobs:
           path: _site # Ensure the built Jekyll site is uploaded
           name: github-pages # Explicitly set the artifact name
 
-  # Deployment job
   deploy:
     environment:
       name: github-pages
@@ -70,10 +69,13 @@ jobs:
     needs: build
     steps:
       - name: Download artifact
-        uses: actions/download-artifact@v3
+        uses: actions/download-artifact@v3.0.2
         with:
           name: github-pages
-          path: _site # Ensure it downloads to the expected location
+          path: _site # Ensure it extracts to the correct directory
+
+      - name: List downloaded files
+        run: ls -la _site # Debugging step to confirm files exist
 
       - name: Deploy to GitHub Pages
         id: deployment
