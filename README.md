@@ -3,7 +3,7 @@
 
 Website of FAIMI-Workshop. Content is held in `2022/index.md` and `_layouts/default.html`.
 
-To run locally at localhost:4000, install ruby (2.5+) and jekyll (https://jekyllrb.com/), then run the following:
+To run locally at localhost:4000, install ruby (3+) and jekyll (https://jekyllrb.com/), then run the following:
 
 ```
 # this installs the appropriate gems (ruby packages)
