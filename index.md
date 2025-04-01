@@ -31,7 +31,7 @@ In a series of interdisciplinary events, our aim is to advance the discourse aro
 
 [Judy Gichoya](https://winshipcancer.emory.edu/bios/faculty/gichoya-judy.html), Emory University, USA  
 [Kanwal Bhatia](https://www.linkedin.com/in/kanwal-bhatia-138b195/), Aival, UK  
-[Tal Arbel](https://www.cim.mcgill.ca/~arbel/), McGill University, USA  
+[Tal Arbel](https://www.cim.mcgill.ca/~arbel/), McGill University, Canada  
 [Bishesh Khanal](https://www.naamii.org.np/teams/bishesh-khanal/), NAAMII, Nepal  
 [Ira Ktena](https://sites.google.com/view/sk1712/home), Google DeepMind, UK  
 [Sanmi Koyejo](https://cs.stanford.edu/~sanmi/), Stanford University, USA  
