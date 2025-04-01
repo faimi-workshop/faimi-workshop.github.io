@@ -43,10 +43,12 @@ Submissions are made in <a href="https://cmt3.research.microsoft.com/FAIMI2025">
 
 <p style="text-align: justify">
 Following the <a href="https://conferences.miccai.org/2025/en/PAPER-SUBMISSION-GUIDELINES.html">MICCAI paper submission guidelines</a>, the submission of additional <b>supplementary material</b> is possible.
-This should be a separate file, and reviewers are under no obligation to review it; the paper must be self-contained and understandable without the supplementary material.
-Note that in the submission system, supplementary materials can only be added once a regular submission has been created. (You can still edit your submission until the deadline.)
-</p>
 
+*<b>NEW</b>* Supplementary materials are limited to multimedia content (e.g., videos) as warranted by the technical application (e.g. robotics, surgery, ...). These files should not display any proofs, analysis, or additional results, and should not show any identification markers either. Violation of this guideline will lead to desk rejection. PDF files may not be submitted as supplementary materials in 2025 unless authors are citing a paper that has not yet been published. In such a case, authors are required to submit an anonymized version of the cited paper.
+
+All supplementary material must be self-contained and zipped into a single file. Only the following formats are allowed: avi, mp4, wmv. We encourage authors to submit videos using an MP4 codec such as DivX contained in an AVI. A README text file must be included with each video specifying the exact codec used and a URL where the codec can be downloaded.
+
+While the reviewers will have access to such supplementary material, <i>they are under no obligation to review it</i> , and the paper itself must contain all necessary information and illustrations for review purposes.
 
 ## Dates
 
