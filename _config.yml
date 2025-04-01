@@ -1,13 +1,13 @@
 title: FAIMI
 email: faimi-organizers@googlegroups.com
-author: Aasa Feragen, Andrew King, Ben Glocker, Daniel Moyer, Enzo Ferrante, Eike Petersen, Melanie Ganz-Benjaminsen, Veronika Cheplygina
+author: Aasa Feragen, Andrew King, Ben Glocker, Enzo Ferrante, Eike Petersen, Melanie Ganz-Benjaminsen, Veronika Cheplygina
 baseurl: ""
 description: >- # this means to ignore newlines until "lsi:"
   Website for the Fairness of AI in Medical Imaging Initiative
 
 #lsi: false
 safe: true
-# source: 
+# source:
 
 theme: jekyll-theme-cayman
 
@@ -20,14 +20,13 @@ markdown: kramdown
 permalink: pretty
 
 kramdown:
-  auto_ids:       true
+  auto_ids: true
   math_engine: mathjax
   syntax_highlighter: rouge
-  
+
 plugins_dir:
   - jekyll-sitemap
   - jekyll-seo-tag
-
 #  - jekyll-remote-theme # add this line to the plugins list if you already have one
 #remote_theme: pages-themes/cayman@v0.2.0
 #plugins:

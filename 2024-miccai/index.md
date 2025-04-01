@@ -160,7 +160,6 @@ Workshop: **October 10th, 2024**
 **Aasa Feragen**, DTU Compute, Technical University of Denmark  
 **Andrew King**, King's College London  
 **Ben Glocker**, Imperial College London  
-**Daniel Moyer**, Vanderbilt University  
 **Enzo Ferrante**, CONICET, Universidad Nacional del Litoral  
 **Eike Petersen**, DTU Compute, Technical University of Denmark  
 **Esther Puyol-Antón**, HeartFlow and King's College London  
