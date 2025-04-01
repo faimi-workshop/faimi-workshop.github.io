@@ -44,5 +44,6 @@ In a series of interdisciplinary events, our aim is to advance the discourse aro
 [Tiarna Lee](https://www.kcl.ac.uk/people/tiarna-lee), King's College London, UK. RISE-FAIMI 2024 summer school coordinator  
 [Dewinda Julianensi Rumala](https://djrumala.github.io), Institut Teknologi Sepuluh Nopember, Indonesia. YouTube channel coordinator  
 [Emma Stanley](https://www.linkedin.com/in/emmastanley16/), University of Calgary, Canada. YouTube channel coordinator  
+[Akshit Achara](https://www.kcl.ac.uk/people/akshit-achara), King's College London, UK. Website coordinator  
 
 Please direct any inquiries related to this initiative to <a href="mailto:faimi-organizers@googlegroups.com">faimi-organizers@googlegroups.com</a>.
