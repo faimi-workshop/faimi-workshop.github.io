@@ -4,7 +4,7 @@ description: "MICCAI 2025 Tutorial"
 layout: default
 permalink: /2025-miccai-tutorial/index.html
 weight: -1
-redirect_from: /22025-miccai-tutorial/
+redirect_from: /2025-miccai-tutorial/
 ---
 
 
@@ -19,7 +19,7 @@ Through expert-led lectures and hands-on demonstrations, participants will explo
 
 
 ## Schedule 
-TBC
+TDC
 
 ## Organizers
 

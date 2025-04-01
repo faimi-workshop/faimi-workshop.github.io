@@ -2,13 +2,13 @@
 title: Fairness of AI in Medical Imaging
 description: "MICCAI 2025 Workshop"
 layout: default
-permalink: /2025-miccai/index.html
+permalink: /2025-miccai-workshop/index.html
 weight: -1
-redirect_from: /2025-miccai/
+redirect_from: /2025-miccai-workshop/
 ---
 
 ## TL;DR
- - Fairness & Medical Imaging workshop on **Oct 10th** at [MICCAI 2025](https://conferences.miccai.org/2025/en/) (South Korea)
+ - Fairness & Medical Imaging Workshop at [MICCAI 2025](https://conferences.miccai.org/2025/en/) (South Korea)
  - Date: TBC
  - Location: TBC
 
