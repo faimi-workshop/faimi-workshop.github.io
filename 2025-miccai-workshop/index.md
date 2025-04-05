@@ -61,13 +61,13 @@ While the reviewers will have access to such supplementary material, <i>they are
 
 *All dates are [Anywhere on Earth](https://en.wikipedia.org/wiki/Anywhere_on_Earth).*
 
-Abstract / placeholder: TBC
+Abstract / placeholder: **June 11, 2024**
 
-Full Paper Deadline: TBC
+Full Paper Deadline: **June 25, 2024**
 
-Notification of Acceptance: TBC
+Notification of Acceptance: **July 16, 2025**
 
-Camera-ready Version: TBC
+Camera-ready Version: **July 30, 2025**
 
 Workshop: TBC
 
