@@ -13,7 +13,7 @@ redirect_from: /2023-online/
  - Nov 6th, 2023, 13:00-17:00 GMT/UTC
  - Fully virtual & free! 
  - Also see [our MICCAI 2023 workshop on the same subject](/2023-miccai/) and [last year's iteration of this event](/2022/)
- - [Recordings of all talks](https://www.youtube.com/watch?v=h6I5aY0dLfI&list=PL043hPrfrJaMfleMaibbfR0oMc7ef9PvL) are now available.
+ - [Recordings of all talks](https://www.youtube.com/watch?v=oWNyolgbr_U&list=PL043hPrfrJaMY1l8uTttcEjw64jTdh5uz) are now available.
 
 ## Keynote Speakers
 <div class="clearfix">
