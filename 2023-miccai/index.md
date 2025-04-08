@@ -13,7 +13,7 @@ redirect_from: /2023-miccai/
  - Organized jointly with the workshop on [Ethical and Philosophical Issues in Medical Imaging](https://sites.google.com/view/epimi)
  - The proceedings book is available at: [https://link.springer.com/book/9783031452482](https://link.springer.com/book/9783031452482) 
  - Also see [our separate, free online event on Nov 6th](/2023-online/) and [last year's iteration of the same event](/2022/)
- - [Recordings of all talks](https://www.youtube.com/watch?v=JhWMuAj2284&list=PL043hPrfrJaNVIzIdfJgRdFOXD3d1yqwH) are now available.
+ - [Recordings of all talks](https://www.youtube.com/watch?v=czkG9Oqts6o&list=PL043hPrfrJaMqyXIY3pBNVzSf6sn3OYKU) are now available.
 
 
 ## Keynote - Dr. Judy Gichoya
