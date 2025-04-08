@@ -12,7 +12,7 @@ redirect_from: /2022/
  - Fairness+Medical Imaging based speakers and discussion.  
  - October 5th, 2022, held online
  - Free! 
- - [Recordings of all talks](https://www.youtube.com/watch?v=QuKQ6QqV3gU&list=PL043hPrfrJaM_n20y_ziZ6TXPVjH9d_3N) are now available.
+ - [Recordings of all talks](https://www.youtube.com/watch?v=GNDf5yv9AqY&list=PL043hPrfrJaPd1QnFNnshzTtaC-LDJWGI) are now available.
 
 ## Aim and Scope
 
