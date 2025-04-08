@@ -9,8 +9,8 @@ redirect_from: /2024-miccai/
 
 ## TL;DR
  - Fairness & Medical Imaging workshop on **Oct 10th** at [MICCAI 2024](https://conferences.miccai.org/2024/en/) (Morocco)
- - The workshop will be only *fully* in-person (as in *no* remote live talk or *no* hybrid mode)
  - Organized jointly with the workshop on [Ethical and Philosophical Issues in Medical Imaging](https://sites.google.com/view/epimi)
+ - [Recordings of talks](https://www.youtube.com/watch?v=8EoupgJYP94&list=PL043hPrfrJaPc0E5v-ogus9-fFhu0xUja) are available
 
 
 ## FAIMI Keynote - Dr. Mercy Asiedu
