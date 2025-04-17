@@ -21,7 +21,8 @@ Rather, we list a few key references for specific areas of fairness research tha
 - Chen et al (2023), [Algorithmic Fairness in Artificial Intelligence for Medicine and Healthcare](https://doi.org/10.1038/s41551-023-01056-8), Nature Biomedical Engineering.
 - Xu et al (2024), [Addressing Fairness Issues in Deep Learning-based Medical Image Analysis: A Systematic Review](https://doi.org/10.1038/s41746-024-01276-5), npj Digital Medicine.
 - Hansanzadeh et al (2025), [Bias Recognition and Mitigation Strategies in Artificial Intelligence Healthcare Applications](https://doi.org/10.1038/s41746-025-01503-7), npj Digital Medicine.
-
+- Anderson et al (2025), [Algorithmic Individual Fairness and Healthcare: A Scoping Review](https://doi.org/10.1101/2024.03.25.24304853), JAMIA Open.
+  
 ### Seminal works on AI fairness
 - Angwin et al (2016), [Machine Bias](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing), ProPublica. *COMPAS study in which racial bias was shown in a machine learning algorithm for predicting recidivism.*
 - Hardt et al (2016), [Equality of Opportunity in Supervised Learning](https://dl.acm.org/doi/10.5555/3157382.3157469), NeurIPS. ([arxiv](https://arxiv.org/abs/1610.02413)) *Introduced the concepts of equality of opportunity and equalized odds in algorithmic fairness. Characterizes trade-offs and provides optimal post-processing methods.*
