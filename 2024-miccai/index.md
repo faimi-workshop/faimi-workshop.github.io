@@ -161,7 +161,7 @@ Workshop: **October 10th, 2024**
 **Andrew King**, King's College London  
 **Ben Glocker**, Imperial College London  
 **Enzo Ferrante**, CONICET, Universidad Nacional del Litoral  
-**Eike Petersen**, DTU Compute, Technical University of Denmark  
+**Eike Petersen**, Fraunhofer Institute for Digital Medicine MEVIS  
 **Esther Puyol-Antón**, HeartFlow and King's College London  
 **Melanie Ganz-Benjaminsen**, University of Copenhagen & Neurobiology Research Unit, Rigshospitalet  
 **Veronika Cheplygina**, IT University Copenhagen  
