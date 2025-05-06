@@ -9,8 +9,8 @@ redirect_from: /2025-miccai-workshop/
 
 ## TL;DR
  - Fairness & Medical Imaging Workshop at [MICCAI 2025](https://conferences.miccai.org/2025/en/) (South Korea)
- - Date: TBC
- - Location: TBC
+ - Date: Sept 23, 2025
+ - Location: Daejeon Convention Center
 
 ## Schedule 
 TBC
