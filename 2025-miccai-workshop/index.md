@@ -72,6 +72,9 @@ Camera-ready Version: **July 30, 2025**
 Workshop: TBC
 
 
+## Sponsors
+We are thrilled to announce that a prestigious award will be presented at the upcoming FAIMI workshop, made possible by the generous sponsorship of [GISTeR](https://www.gister.re.kr/eng/user/main.do#). We encourage all attendees to take this opportunity to learn more about their work.
+
 ## Organizers
 
 **Aasa Feragen**, DTU Compute, Technical University of Denmark  
