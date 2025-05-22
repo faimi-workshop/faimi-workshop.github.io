@@ -69,7 +69,7 @@ Notification of Acceptance: **July 16, 2025**
 
 Camera-ready Version: **July 30, 2025**
 
-Workshop: TBC
+Workshop: **Sept 23, 2025**
 
 
 ## Sponsors
