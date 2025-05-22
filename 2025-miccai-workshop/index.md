@@ -82,6 +82,7 @@ Workshop: TBC
 **Esther Puyol-Antón**, HeartFlow and King's College London  
 **Melanie Ganz-Benjaminsen**, University of Copenhagen & Neurobiology Research Unit, Rigshospitalet  
 **Veronika Cheplygina**, IT University Copenhagen  
+**Heisook Lee**, President of GISTeR
 
 ## Contact
 
