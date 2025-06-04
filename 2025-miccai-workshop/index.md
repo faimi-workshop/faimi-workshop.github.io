@@ -61,8 +61,6 @@ While the reviewers will have access to such supplementary material, <i>they are
 
 *All dates are [Anywhere on Earth](https://en.wikipedia.org/wiki/Anywhere_on_Earth).*
 
-Abstract / placeholder: **June 11, 2025**
-
 Full Paper Deadline: **June 25, 2025**
 
 Notification of Acceptance: **July 16, 2025**
