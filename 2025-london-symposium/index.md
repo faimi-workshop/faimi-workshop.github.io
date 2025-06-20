@@ -1,5 +1,5 @@
 ---
-title: Fairness of AI in Medical Imaging - Mini Symposium in London
+title: Fairness of AI in Medical Imaging - London Mini-Symposium
 description: "Hybrid Symposium, Jun 30th 2025"
 layout: default
 permalink: /2025-london-symposium/index.html
@@ -8,9 +8,10 @@ redirect_from: /2025-london-symposium/
 ---
 
 ## TL;DR
- - Fairness of AI in Medical Imaging - Mini Symposium in London
- - Dec 4th, 2024, 14:00-17:00 GMT/UTC
+ - Fairness of AI in Medical Imaging - London Mini-Symposium
+ - June 30th 2025, 14:00 – 16:45 British Summer Time 
  - Hybrid & free! 
+ - For the in-person workshop, there will be refreshments for arrival and coffee break during the event.
 
 
 ## Full Schedule
@@ -28,17 +29,21 @@ redirect_from: /2025-london-symposium/
 | Time           | Presenter                               | Title                                                                 |
 |----------------|-----------------------------------------|-----------------------------------------------------------------------|
 | 13:30 – 14:00  | —                                       | Arrival with refreshments                                             |
-| 14:00          | Enzo Ferrante / Ben Glocker             | Opening remarks                                                       |
-| 14:00 – 14:20  | Ira Ktena (Google DeepMind)             | *tbc*                                                                 |
-| 14:20 – 14:40  | Rodrigo Echeveste (CONICET / UNL)       | Fairly (un)certain models and how (not) to assess it                  |
+| 14:00          | **Enzo Ferrante / Ben Glocker**             | Opening remarks                                                       |
+| 14:00 – 14:20  | **Ira Ktena** (Google DeepMind)             | *tbc*                                                                 |
+| 14:20 – 14:40  | **Rodrigo Echeveste** (CONICET / UNL)       | Fairly (un)certain models and how (not) to assess it                  |
 | 14:40 – 15:00  | *tbc*                                   | *tbc*                                                                 |
 | 15:00 – 15:30  | —                                       | Coffee break                                                          |
-| 15:30 – 15:50  | Charles Jones (Imperial College London) | Understanding Causal and Statistical Dataset Biases in Medical Imaging |
-| 15:50 – 16:10  | Andy King (King’s College London)       | Understanding-informed bias mitigation for CMR segmentation                                                                 |
-| 16:10 – 16:30  | Jessica Schrouff (GSK)                  | Mind the graph when balancing data for fairness or robustness         |
-| 16:30          | Enzo Ferrante / Ben Glocker             | Closing remarks                                                       |
+| 15:30 – 15:50  | **Charles Jones** (Imperial College London) | Understanding Causal and Statistical Dataset Biases in Medical Imaging |
+| 15:50 – 16:10  | **Andy King** (King’s College London)       | Understanding-informed bias mitigation for CMR segmentation                                                                 |
+| 16:10 – 16:30  | **Jessica Schrouff** (GSK)                  | Mind the graph when balancing data for fairness or robustness         |
+| 16:30          | **Enzo Ferrante / Ben Glocker**             | Closing remarks                                                       |
 
- 
+## Sponsors
+<div class="clearfix">
+	<img class="img2" src="/images/royalaceng.png" alt="Royal Academy of Engineering" style="float: left; padding:0px 10px 10px 10px">
+</div>
+
 ## Contacts
 
 Please direct any inquiries related to the symposium to <a href="mailto:eferrante@dc.uba.ar">eferrante@dc.uba.ar</a>.
