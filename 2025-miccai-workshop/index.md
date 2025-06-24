@@ -11,6 +11,7 @@ redirect_from: /2025-miccai-workshop/
  - Fairness & Medical Imaging Workshop at [MICCAI 2025](https://conferences.miccai.org/2025/en/) (South Korea)
  - Date: Sept 23, 2025
  - Location: Daejeon Convention Center
+ - **Paper submission deadline extended until June 30th!**
 
 ## Schedule 
 TBC
@@ -61,7 +62,7 @@ While the reviewers will have access to such supplementary material, <i>they are
 
 *All dates are [Anywhere on Earth](https://en.wikipedia.org/wiki/Anywhere_on_Earth).*
 
-Full Paper Deadline: **June 25, 2025**
+Full Paper Deadline: ~~June 25, 2025~~ **June 30th, 2025**
 
 Notification of Acceptance: **July 16, 2025**
 
