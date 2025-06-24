@@ -12,7 +12,7 @@ redirect_from: /2025-london-symposium/
  - June 30th 2025, 14:00 – 16:45 UTC+1 Time (British Summer Time)
  - Hybrid & free! 
  - For the in-person workshop, there will be refreshments for arrival and coffee break during the event.
-
+ - [Register using this form both for virtual or in-person participation!](https://forms.gle/ka21yDyngGycc4g27)
 
 ## Full Schedule
 *All times are in UTC+1 Time (British Summer Time)*
@@ -22,6 +22,8 @@ redirect_from: /2025-london-symposium/
 **Location:** Imperial College London, Huxley Building, Rooms 217/218 ([[directions](https://www.google.com/maps/place/Huxley+Building/@51.4989961,-0.181591,17z/data=!3m2!4b1!5s0x4876055c80e8df25:0x37148376e6b032c0!4m6!3m5!1s0x4876055c7df7c537:0x2541470e75df5fe0!8m2!3d51.4989961!4d-0.1790107!16s%2Fg%2F11bxvhf1hh?entry=tts&g_ep=EgoyMDI1MDYxNi4wIPu8ASoASAFQAw%3D%3D&skid=e1a53745-cac4-47ae-a723-c361b62333ec)])  
 **Time:** 14:00 – 16:45 UTC+1 Time (British Summer Time)  
 **Delivery mode:** Hybrid – Streamed as a webinar on Zoom (details to follow)
+
+**Registration form** (Required for both virtual or in person): [Click here](https://forms.gle/ka21yDyngGycc4g27)
 
 ---
 
