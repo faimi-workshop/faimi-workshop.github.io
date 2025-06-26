@@ -35,7 +35,7 @@ redirect_from: /2025-london-symposium/
 | 14:00          | **Enzo Ferrante / Ben Glocker**             | Opening remarks                                                       |
 | 14:00 – 14:20  | **Ira Ktena** (Google DeepMind)             | Interpreting model biases through different modalities: an HCI perspective                                                                 |
 | 14:20 – 14:40  | **Rodrigo Echeveste** (CONICET / UNL)       | On being fairly (un)certain, and how (not) to assess it                  |
-| 14:40 – 15:00  | *tbc*                                   | *tbc*                                                                 |
+| 14:40 – 15:00  | **Mélanie Roschewitz**  (Imperial College London)     |    Robust image representations with counterfactual contrastive learning                           |
 | 15:00 – 15:30  | —                                       | Coffee break                                                          |
 | 15:30 – 15:50  | **Charles Jones** (Imperial College London) | Understanding Causal and Statistical Dataset Biases in Medical Imaging |
 | 15:50 – 16:10  | **Andy King** (King’s College London)       | Understanding-informed bias mitigation for CMR segmentation                                                                 |
