@@ -13,6 +13,34 @@ redirect_from: /2025-miccai-workshop/
  - Location: Daejeon Convention Center
  - **Paper submission deadline extended until June 30th!**
 
+## FAIMI Keynote
+<div class="clearfix">
+	<img class="img2" src="/assets/speakers/tal.png" alt="Prof. Tal Arbel" width="150" style="float: left; padding:0px 10px 10px 10px">
+	<p style="text-align: justify">
+		<b>Prof. Tal Arbel</b> 
+  
+Tal Arbel is a Professor in the Department of Electrical and Computer Engineering, where she is the Director of the Probabilistic Vision Group and Medical Imaging Lab in the Centre for Intelligent Machines, McGill University. She is a Canada CIFAR AI Chair and Core Member of MILA - Quebec Artificial Intelligence Institute, a Fellow of the Canadian Academy of Engineering, and an Associate Member of the Goodman Cancer Research Centre. Prof. Arbel’s research focuses on development of probabilistic, deep learning methods in computer vision and medical image analysis, for a wide range of real-world applications, with a focus on neurological diseases. She is a recipient of the 2019 McGill Engineering Christophe Pierre Research Award. She regularly serves on the organizing team of major international conferences in computer vision and in medical image analysis (e.g.  MICCAI, MIDL, ICCV, CVPR). She is currently the Editor-in-Chief and co-founder of the arXiv overlay journal: Machine Learning for Biomedical Imaging (MELBA).
+	</p>
+</div>
+
+## GISTeR Keynote
+#### Advancing Fairness: Sex- and Gender-Aware AI for Equitable Neuroimaging
+<p style="text-align: justify">Artificial intelligence (AI) has rapidly advanced neuroimaging research, offering unprecedented precision in diagnosis, prognosis, and clinical decision-making. However, the overwhelming focus on algorithmic accuracy has often overlooked critical dimensions of fairness, particularly those related to sex and gender differences in brain structure, function, and disease manifestation. This talk explores how sex- and gender-aware design can enhance equity in AI-driven neuroimaging research, offer strategies for inclusive data, model transparency, and suggest ways to integrate ethical, clinical, and population-specific considerations beyond technical performance.
+In addition, we will discuss emerging evidences of sex-gender disparities in neuroimaging datasets and AI model outcomes, highlighting the risks of algorithmic bias that may exacerbate health inequities. Drawing from interdisciplinary research, the lecture introduces frameworks and best practices for embedding fairness and sex-gender specificity into the full neuroimaging AI pipeline—from data acquisition and annotation to model development, evaluation, and deployment. Special attention will be paid to inclusive data representation, transparent model reporting, and the need for regulatory and community engagement.
+By re-centering fairness as a core design principle, we aim to build neuroimaging AI systems that are not only accurate, but also equitable, explainable, and truly beneficial to diverse populations. We redefine neuroimaging intelligence by integrating fairness, sex and gender awareness into every step of the AI pipeline.</p>
+
+<div class="clearfix">
+	<img class="img2" src="/assets/speakers/LeeHW.jpg" alt="Prof. Hyang Woon Lee" width="150" style="float: left; padding:0px 10px 10px 10px">
+	<p style="text-align: justify">
+		<b>Prof. Hyang Woon Lee</b> 
+  
+Prof. Hyang Woon Lee is a distinguished neurologist and clinical neuroscientist specializing in chronic brain diseases like epilepsy, sleep, and cognitive disorders. As the director of the Department of Neurology at Ewha Womans University School of Medicine, her research focuses on developing multimodal brain imaging and EEG-based diagnostic methods to understand brain function, creating neuromodulation therapies, and pioneering AI-driven personalized medicine with a special interest in sex- and gender-specific brain science.
+	</p>
+</div>
+
+
+
+
 ## Schedule 
 TBC
 
