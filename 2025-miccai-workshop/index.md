@@ -44,6 +44,21 @@ Prof. Hyang Woon Lee is a distinguished neurologist and clinical neuroscientist 
 ## Schedule 
 TBC
 
+## FAIMI Horizon Award
+
+The FAIMI Horizon Award aims to provide financial support and highlight one talented early-career researcher attending the conference for the first time, with a special focus on individuals from diverse and underserved backgrounds.
+
+The award offers a full scholarship to attend the FAIMI Workshop, creating a valuable opportunity to present research, engage with the global community, and build lasting professional networks.
+
+<p style="text-align: center;"><b>Eligibility Criteria</b>:</p>
+
+To be eligible for the FAIMI Horizon Award, the first author of the submitted paper must meet all of the following:
+
+- The candidate must be a first-time attendee of the MICCAI conference.
+- The candidate must be an early-career researcher, defined as a current student (undergraduate, master’s, PhD, or medical student), within two years of completing their terminal degree (i.e., MICCAI Young Scientists), or within four years of completing their terminal degree (i.e., Early-Career Scientists).
+- The candidate should identify with one or more diverse or underserved backgrounds, such as being from an underrepresented gender or racial/ethnic group, having differing abilities, coming from a low- or lower-middle-income country, or residing in a country historically underrepresented at MICCAI. Candidates with other forms of social, cultural, or economic disadvantage are also encouraged to apply.
+
+><b>Please note:</b> The MICCAI Registration and Travel Grants are intended to support in-person participation in the conference. If a selected grantee is unable to attend in person, the award will be offered to the next eligible candidate.
 
 ## Call for Papers
 We invite the submission of papers for
