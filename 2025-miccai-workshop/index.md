@@ -44,6 +44,48 @@ Prof. Hyang Woon Lee is a distinguished neurologist and clinical neuroscientist 
 ## Schedule 
 TBC
 
+## Accepted Papers
+Chin-Wei Huang, et al.: *LTCXNet: Tackling Long-Tailed Multi-Label Classification and Racial Bias in Chest X-Ray Analysis*
+
+Abubakr Shafique, et al.: *How Fair Are Foundation Models? Exploring the Role of Covariate Bias in Histopathology*
+
+Akshit Achara, et al.: *Invisible Attributes, Visible Biases: Exploring Demographic Shortcuts in MRI-based Alzheimer's Disease Classification*
+
+Artur Paulo, et al.: *Assessing Annotator and Clinician Biases in an Open-Source Tool Used to Generate Head CT Segmentations for Deep Learning Training*
+
+Dishantkumar Sutariya, et al.: *meval: A Statistical Toolbox for Fine-Grained Model Performance Analysis*
+
+Emma Stanley, et al.: *Exploring the interplay of label bias with subgroup size and separability: A case study in mammographic density classification*
+
+Gelei Xu, et al.: *Fair Dermatological Disease Diagnosis through Auto-weighted Federated Learning and Performance-aware Personalization*
+
+Grzegorz Skorupko, et al.: *Fairness-Aware Data Augmentation for Cardiac MRI using Text-Conditioned Diffusion Models*
+
+Hartmut Häntze, et al.: *Sex-based Bias Inherent in the Dice Similarity Coefficient: A Model Independent Analysis for Multiple Anatomical Structures*
+
+Heejae Lee, et al.: *Identifying Gender-Specific Visual Bias Signals in Skin Lesion Classification*
+
+Joris Fournel, et al.: *The Cervix in Context: Bias Assessment in Preterm Birth Prediction*
+
+Leonor Fernandes, et al.: *Disentanglement and Assessment of Shortcuts on Ophthalmological Retinal Imaging Exams*
+
+Louisa Fay, et al.: *MIMM-X: Disentangeling Spurious Correlations for Medical Image Analysis*
+
+Partha Shah, et al.: *The Impact of Skin Tone Label Granularity on the Performance and Fairness of AI Based Dermatology Image Classification Models*
+
+Rajat Rasal, et al.: *Causal Representation Learning with Observational Grouping for CXR Classification*
+
+Regitze Sydendal, et al.: *Robustness and sex differences in skin cancer detection: logistic regression vs CNNs*
+
+Shengjia Chen, et al.: *Predicting Patient Self-reported Race From Skin Histological Images with Deep Learning*
+Théo Sourget, et al.: *Fairness and Robustness of CLIP-Based Models for Chest X-rays*
+
+Tiarna Lee, et al.: *Does a Rising Tide Lift All Boats? Bias Mitigation for AI-based CMR Segmentation*
+
+Utku Ozbulak, et al.: *Revisiting the Evaluation Bias Introduced by Frame Sampling Strategies in Surgical Video Segmentation*
+
+You-Qi Chang-Liao, et al.: *ShortCXR: Benchmarking Self-Supervised Learning Methods for Shortcut Mitigation in Chest X-Ray Interpretation*
+
 ## FAIMI Horizon Award
 
 The FAIMI Horizon Award aims to provide financial support and highlight one talented early-career researcher attending the conference for the first time, with a special focus on individuals from diverse and underserved backgrounds.
