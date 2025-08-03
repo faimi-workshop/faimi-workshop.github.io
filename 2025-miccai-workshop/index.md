@@ -45,13 +45,13 @@ Prof. Hyang Woon Lee is a distinguished neurologist and clinical neuroscientist 
 TBC
 
 ## Accepted Papers
-Chin-Wei Huang, et al.: *LTCXNet: Tackling Long-Tailed Multi-Label Classification and Racial Bias in Chest X-Ray Analysis*
-
 Abubakr Shafique, et al.: *How Fair Are Foundation Models? Exploring the Role of Covariate Bias in Histopathology*
 
 Akshit Achara, et al.: *Invisible Attributes, Visible Biases: Exploring Demographic Shortcuts in MRI-based Alzheimer's Disease Classification*
 
 Artur Paulo, et al.: *Assessing Annotator and Clinician Biases in an Open-Source Tool Used to Generate Head CT Segmentations for Deep Learning Training*
+
+Chin-Wei Huang, et al.: *LTCXNet: Tackling Long-Tailed Multi-Label Classification and Racial Bias in Chest X-Ray Analysis*
 
 Dishantkumar Sutariya, et al.: *meval: A Statistical Toolbox for Fine-Grained Model Performance Analysis*
 
@@ -78,6 +78,7 @@ Rajat Rasal, et al.: *Causal Representation Learning with Observational Grouping
 Regitze Sydendal, et al.: *Robustness and sex differences in skin cancer detection: logistic regression vs CNNs*
 
 Shengjia Chen, et al.: *Predicting Patient Self-reported Race From Skin Histological Images with Deep Learning*
+
 Théo Sourget, et al.: *Fairness and Robustness of CLIP-Based Models for Chest X-rays*
 
 Tiarna Lee, et al.: *Does a Rising Tide Lift All Boats? Bias Mitigation for AI-based CMR Segmentation*
