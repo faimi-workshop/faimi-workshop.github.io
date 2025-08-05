@@ -49,7 +49,7 @@ Abubakr Shafique, et al.: *How Fair Are Foundation Models? Exploring the Role of
 
 Akshit Achara, et al.: *Invisible Attributes, Visible Biases: Exploring Demographic Shortcuts in MRI-based Alzheimer's Disease Classification*
 
-Artur Paulo, et al.: *Assessing Annotator and Clinician Biases in an Open-Source Tool Used to Generate Head CT Segmentations for Deep Learning Training*
+Artur Paulo, et al.: *Assessing Annotator and Clinician Biases in an Open-Source-Based Tool Used to Generate Head CT Segmentations for Deep Learning Training*
 
 Chin-Wei Huang, et al.: *LTCXNet: Tackling Long-Tailed Multi-Label Classification and Racial Bias in Chest X-Ray Analysis*
 
@@ -67,7 +67,7 @@ Heejae Lee, et al.: *Identifying Gender-Specific Visual Bias Signals in Skin Les
 
 Joris Fournel, et al.: *The Cervix in Context: Bias Assessment in Preterm Birth Prediction*
 
-Leonor Fernandes, et al.: *Disentanglement and Assessment of Shortcuts on Ophthalmological Retinal Imaging Exams*
+Leonor Fernandes, et al.: *Disentanglement and Assessment of Shortcuts in Ophthalmological Retinal Imaging Exams*
 
 Louisa Fay, et al.: *MIMM-X: Disentangeling Spurious Correlations for Medical Image Analysis*
 
@@ -83,7 +83,7 @@ Théo Sourget, et al.: *Fairness and Robustness of CLIP-Based Models for Chest X
 
 Tiarna Lee, et al.: *Does a Rising Tide Lift All Boats? Bias Mitigation for AI-based CMR Segmentation*
 
-Utku Ozbulak, et al.: *Revisiting the Evaluation Bias Introduced by Frame Sampling Strategies in Surgical Video Segmentation*
+Utku Ozbulak, et al.: *Revisiting the Evaluation Bias Introduced by Frame Sampling Strategies in Surgical Video Segmentation Using SAM2*
 
 You-Qi Chang-Liao, et al.: *ShortCXR: Benchmarking Self-Supervised Learning Methods for Shortcut Mitigation in Chest X-Ray Interpretation*
 
