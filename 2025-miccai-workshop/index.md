@@ -39,9 +39,23 @@ Prof. Hyang Woon Lee is a distinguished neurologist and clinical neuroscientist 
 
 
 
-
 ## Schedule 
-TBC
+| Time | Speaker and Title |
+ |------|-------- |
+ |13:30 - 13:35 | Welcome | 
+ |13:35 - 14:20 | **Keynote speaker:** Prof. Tal Arbel | 
+ |14:20 - 14:35 | Hartmut Häntze, et al. Sex-based Bias Inherent in the Dice Similarity Coefficient: A Model Independent Analysis for Multiple Anatomical Structures | 
+ |14:35 - 14:50 | Utku Ozbulak, et al. Revisiting the Evaluation Bias Introduced by Frame Sampling Strategies in Surgical Video Segmentation | 
+ |14:50 - 15:05| Artur Paulo, et al. Assessing Annotator and Clinician Biases in an Open - Source Tool Used to Generate Head CT Segmentations for Deep Learning Training | 
+ |15:05 - 15:30 | Poster session | 
+ |15:30 - 16:00| Coffee Break + Poster session | 
+ |16:00 - 16:15| Emma A.M. Stanley, et al. Exploring the interplay of label bias with subgroup size and separability: A case study in mammographic density classification | 
+ |16:15 - 16:30| Gelei Xu, et al. Fair Dermatological Disease Diagnosis through Auto - weighted Federated Learning and Performance - aware Personalization | 
+ |16:30 - 16:45 | Louisa Fay, et al. MIMM-X: Disentangeling Spurious Correlations for Medical Image Analysis | 
+ |16:45 - 17:30 | **Keynote speaker:** Prof. Hyang Woon Lee  - Advancing Fairness: Sex- and Gender-Aware AI for Equitable Neuroimaging| 
+ |17:30 - 17:55 | Round table| 
+ |17:55 - 18:00 | Closing and Awards | 
+
 
 ## Accepted Papers
 Abubakr Shafique, et al.: *How Fair Are Foundation Models? Exploring the Role of Covariate Bias in Histopathology*
