@@ -37,9 +37,8 @@ Prof. Hyang Woon Lee is a distinguished neurologist and clinical neuroscientist 
 	</p>
 </div>
 
+## Schedule
 
-
-## Schedule 
 | Time | Speaker and Title |
  |------|-------- |
  |13:30 - 13:35 | Welcome | 
