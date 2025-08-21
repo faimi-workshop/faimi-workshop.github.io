@@ -35,6 +35,9 @@ Through expert-led lectures and hands-on demonstrations, participants will explo
 **Esther Puyol-Antón**, HeartFlow and King's College London  
 **Melanie Ganz-Benjaminsen**, University of Copenhagen & Neurobiology Research Unit, Rigshospitalet  
 **Veronika Cheplygina**, IT University Copenhagen  
+**Tareen Dawood**, DTU Compute, Technical University of Denmark  
+**Joris Fournel**, DTU Compute, Technical University of Denmark  
+**Miguel Lopez Perez**, DTU Compute, Technical University of Denmark  
 
 ## Contact
 
