@@ -10,7 +10,7 @@ redirect_from: /2025-miccai-tutorial/
 
 ## TL;DR
  - Fairness & Medical Imaging Tutorial at [MICCAI 2025](https://conferences.miccai.org/2025/en/) (South Korea)
- - Date: Sept 23, 2025
+ - Date: Sept 23, 2025. Room: DCC1-1F-111
  - Location: Daejeon Convention Center
 
 ## Scope
@@ -18,8 +18,12 @@ As AI transforms healthcare, ensuring fairness in medical imaging is crucial to 
 Through expert-led lectures and hands-on demonstrations, participants will explore real-world case studies, fairness evaluation techniques, and tools for bias assessment. By the end, attendees will be equipped to integrate fairness principles into their machine learning workflows, fostering more equitable AI in healthcare.
 
 
-## Schedule 
-TDC
+## Schedule
+| Time | Speaker and Title |
+ |------|-------- |
+ |08:00 - 10:00 | Lecture on Fairness of AI in Medical Imaging | 
+ |10:00 - 10:30| Coffee Break | 
+ |10:30 - 12:30| Hands-on session on Fairness of AI in Medical Imaging  | 
 
 ## Organizers
 
