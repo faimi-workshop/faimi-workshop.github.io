@@ -19,11 +19,12 @@ Through expert-led lectures and hands-on demonstrations, participants will explo
 
 
 ## Schedule
+
 | Time | Speaker and Title |
- |------|-------- |
- |08:00 - 10:00 | Lecture on Fairness of AI in Medical Imaging | 
- |10:00 - 10:30| Coffee Break | 
- |10:30 - 12:30| Hands-on session on Fairness of AI in Medical Imaging  | 
+|:-----|:------------------|
+| 08:00 - 10:00 | Lecture on Fairness of AI in Medical Imaging |
+| 10:00 - 10:30| Coffee Break |
+| 10:30 - 12:30| Hands-on session on Fairness of AI in Medical Imaging |
 
 ## Organizers
 
