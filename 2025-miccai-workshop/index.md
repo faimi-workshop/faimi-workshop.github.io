@@ -16,8 +16,8 @@ redirect_from: /2025-miccai-workshop/
 <div class="clearfix">
 	<img class="img2" src="/assets/speakers/tal.png" alt="Prof. Tal Arbel" width="150" style="float: left; padding:0px 10px 10px 10px">
 	<p style="text-align: justify">
-		<b>Prof. Tal Arbel</b> 
-  
+		<b>Prof. Tal Arbel</b> </p>
+  <p style="text-align: justify">
 Tal Arbel is a Professor in the Department of Electrical and Computer Engineering, where she is the Director of the Probabilistic Vision Group and Medical Imaging Lab in the Centre for Intelligent Machines, McGill University. She is a Canada CIFAR AI Chair and Core Member of MILA - Quebec Artificial Intelligence Institute, a Fellow of the Canadian Academy of Engineering, and an Associate Member of the Goodman Cancer Research Centre. Prof. Arbel’s research focuses on development of probabilistic, deep learning methods in computer vision and medical image analysis, for a wide range of real-world applications, with a focus on neurological diseases. She is a recipient of the 2019 McGill Engineering Christophe Pierre Research Award. She regularly serves on the organizing team of major international conferences in computer vision and in medical image analysis (e.g.  MICCAI, MIDL, ICCV, CVPR). She is currently the Editor-in-Chief and co-founder of the arXiv overlay journal: Machine Learning for Biomedical Imaging (MELBA).
 	</p>
 </div>
@@ -31,9 +31,9 @@ By re-centering fairness as a core design principle, we aim to build neuroimagin
 <div class="clearfix">
 	<img class="img2" src="/assets/speakers/LeeHW.jpg" alt="Prof. Hyang Woon Lee" width="150" style="float: left; padding:0px 10px 10px 10px">
 	<p style="text-align: justify">
-		<b>Prof. Hyang Woon Lee</b> 
-  
-Prof. Hyang Woon Lee is a distinguished neurologist and clinical neuroscientist specializing in chronic brain diseases like epilepsy, sleep, and cognitive disorders. As the director of the Department of Neurology at Ewha Womans University School of Medicine, her research focuses on developing multimodal brain imaging and EEG-based diagnostic methods to understand brain function, creating neuromodulation therapies, and pioneering AI-driven personalized medicine with a special interest in sex- and gender-specific brain science.
+		<b>Prof. Hyang Woon Lee</b> </p>
+  <p style="text-align: justify">
+Hyang Woon Lee is a distinguished neurologist and clinical neuroscientist specializing in chronic brain diseases like epilepsy, sleep, and cognitive disorders. As the director of the Department of Neurology at Ewha Womans University School of Medicine, her research focuses on developing multimodal brain imaging and EEG-based diagnostic methods to understand brain function, creating neuromodulation therapies, and pioneering AI-driven personalized medicine with a special interest in sex- and gender-specific brain science.
 	</p>
 </div>
 
