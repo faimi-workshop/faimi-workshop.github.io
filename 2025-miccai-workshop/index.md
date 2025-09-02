@@ -10,7 +10,7 @@ redirect_from: /2025-miccai-workshop/
 ## TL;DR
  - Fairness & Medical Imaging Workshop at [MICCAI 2025](https://conferences.miccai.org/2025/en/) (South Korea)
  - Date: Sept 23, 2025. Room: DCC1-1F-111
- - Location: Daejeon Convention Center
+ - Location: Daejeon Convention Center (_in person only_)
 
 ## FAIMI Keynote
 <div class="clearfix">
