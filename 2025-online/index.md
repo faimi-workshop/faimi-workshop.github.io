@@ -12,7 +12,7 @@ redirect_from: /2025-online/
  - Nov 25th, 2025, 13:30-17:00 GMT/UTC
  - Fully virtual & free! 
  - Also see [our MICCAI 2025 workshop on the same subject](/2025-miccai-workshop/) and [last year's iteration of this event](/2024-online/)
- - [Recordings of all talks](https://www.youtube.com/watch?v=wxqrGkNNzH0&list=PL043hPrfrJaPgPG5N93Tx35LDXDoRMQTc) are available
+ - Recordings of all talks will be made available
 
 
 ## Keynote Speaker
