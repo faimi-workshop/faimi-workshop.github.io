@@ -39,7 +39,7 @@ Rather, we list a few key references for specific areas of fairness research tha
 - Ganz et al (2021), [Assessing Bias in Medical AI](https://www.cse.cuhk.edu.hk/~qdou/public/IMLH2021_files/64_CameraReady_ICML_2021_Interpretable_Machine_Learning_in_Healthcare_workshop.pdf), Workshop on Interpretable ML in Healthcare at ICML.
 - Ricci Lara et al (2022), [Addressing Fairness in Artificial Intelligence for Medical Imaging](https://doi.org/10.1038/s41467-022-32186-3), Nature Communications. 
 - Petersen et al (2023), [The Path Toward Equal Performance in Medical Machine Learning](https://doi.org/10.1016/j.patter.2023.100790), Patterns.
-- McCradden et al (2025), [What's fair is… fair? Presenting JustEFAB, an ethical framework for operationalizing medical ethics and social justice in the integration of clinical machine learning: JustEFAB](https://doi.org/10.1145/3593013.3594096), FAccT.
+- McCradden et al (2023), [What's fair is… fair? Presenting JustEFAB, an ethical framework for operationalizing medical ethics and social justice in the integration of clinical machine learning: JustEFAB](https://doi.org/10.1145/3593013.3594096), FAccT.
 
 ### Shortcut learning, models recognizing sensitive patient attributes, and fairness in medical AI
 - Geirhos et al (2020), [Shortcut Learning in Deep Neural Networks](https://doi.org/10.1038/s42256-020-00257-z), Nature Machine Intelligence. *General overview of shortcut learning in deep neural networks, not medicine-specific.*
