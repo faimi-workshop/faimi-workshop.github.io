@@ -22,6 +22,12 @@ Tal Arbel is a Professor in the Department of Electrical and Computer Engineerin
 	</p>
 </div>
 
+#### Towards Equitable Image-Based Personalized Medicine: Causality, Confidence, and Bias Mitigation
+In current clinical practice, treatment decisions are typically guided by broad demographic factors and standardized clinical markers—factors that may not fully capture the unique characteristics of individual patients.
+In this talk, I will explore how causal inference for personalized medicine, informed by medical images and patient demographics, can help make disease management more equitable by tailoring treatment recommendations to each patient’s unique profile. I will show how uncertainty-aware causal models can communicate confidence in deep learning predictions, improving the accuracy, fairness, and safety of image-based personalized medicine. The work is grounded in large-scale MRI data from randomized controlled trials for neurological disease treatments, ensuring clinical relevance and robustness.
+I will also highlight the transformative potential of Vision-Language Foundation Models to provide patient-specific, interpretable explanations for model predictions—tools that can expose and mitigate hidden biases arising from spurious correlations. Finally, I will present recent strategies for exposing and correcting calibration biases across population subgroups in multimodal large language models (LLMs), a crucial step toward achieving equitable outcomes.
+
+
 ## GISTeR Keynote
 #### Advancing Fairness: Sex- and Gender-Aware AI for Equitable Neuroimaging
 <p style="text-align: justify">Artificial intelligence (AI) has rapidly advanced neuroimaging research, offering unprecedented precision in diagnosis, prognosis, and clinical decision-making. However, the overwhelming focus on algorithmic accuracy has often overlooked critical dimensions of fairness, particularly those related to sex and gender differences in brain structure, function, and disease manifestation. This talk explores how sex- and gender-aware design can enhance equity in AI-driven neuroimaging research, offer strategies for inclusive data, model transparency, and suggest ways to integrate ethical, clinical, and population-specific considerations beyond technical performance.
