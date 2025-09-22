@@ -29,11 +29,6 @@ I will also highlight the transformative potential of Vision-Language Foundation
 
 
 ## GISTeR Keynote
-#### Advancing Fairness: Sex- and Gender-Aware AI for Equitable Neuroimaging
-<p style="text-align: justify">Artificial intelligence (AI) has rapidly advanced neuroimaging research, offering unprecedented precision in diagnosis, prognosis, and clinical decision-making. However, the overwhelming focus on algorithmic accuracy has often overlooked critical dimensions of fairness, particularly those related to sex and gender differences in brain structure, function, and disease manifestation. This talk explores how sex- and gender-aware design can enhance equity in AI-driven neuroimaging research, offer strategies for inclusive data, model transparency, and suggest ways to integrate ethical, clinical, and population-specific considerations beyond technical performance.
-In addition, we will discuss emerging evidences of sex-gender disparities in neuroimaging datasets and AI model outcomes, highlighting the risks of algorithmic bias that may exacerbate health inequities. Drawing from interdisciplinary research, the lecture introduces frameworks and best practices for embedding fairness and sex-gender specificity into the full neuroimaging AI pipeline—from data acquisition and annotation to model development, evaluation, and deployment. Special attention will be paid to inclusive data representation, transparent model reporting, and the need for regulatory and community engagement.
-By re-centering fairness as a core design principle, we aim to build neuroimaging AI systems that are not only accurate, but also equitable, explainable, and truly beneficial to diverse populations. We redefine neuroimaging intelligence by integrating fairness, sex and gender awareness into every step of the AI pipeline.</p>
-
 <div class="clearfix">
 	<img class="img2" src="/assets/speakers/LeeHW.jpg" alt="Prof. Hyang Woon Lee" width="150" style="float: left; padding:0px 10px 10px 10px">
 	<p style="text-align: justify">
@@ -43,12 +38,17 @@ Hyang Woon Lee is a distinguished neurologist and clinical neuroscientist specia
 	</p>
 </div>
 
+#### Advancing Fairness: Sex- and Gender-Aware AI for Equitable Neuroimaging
+<p style="text-align: justify">Artificial intelligence (AI) has rapidly advanced neuroimaging research, offering unprecedented precision in diagnosis, prognosis, and clinical decision-making. However, the overwhelming focus on algorithmic accuracy has often overlooked critical dimensions of fairness, particularly those related to sex and gender differences in brain structure, function, and disease manifestation. This talk explores how sex- and gender-aware design can enhance equity in AI-driven neuroimaging research, offer strategies for inclusive data, model transparency, and suggest ways to integrate ethical, clinical, and population-specific considerations beyond technical performance.
+In addition, we will discuss emerging evidences of sex-gender disparities in neuroimaging datasets and AI model outcomes, highlighting the risks of algorithmic bias that may exacerbate health inequities. Drawing from interdisciplinary research, the lecture introduces frameworks and best practices for embedding fairness and sex-gender specificity into the full neuroimaging AI pipeline—from data acquisition and annotation to model development, evaluation, and deployment. Special attention will be paid to inclusive data representation, transparent model reporting, and the need for regulatory and community engagement.
+By re-centering fairness as a core design principle, we aim to build neuroimaging AI systems that are not only accurate, but also equitable, explainable, and truly beneficial to diverse populations. We redefine neuroimaging intelligence by integrating fairness, sex and gender awareness into every step of the AI pipeline.</p>
+
 ## Schedule
 
 | Time | Speaker and Title |
  |------|-------- |
  |13:30 - 13:35 | Welcome | 
- |13:35 - 14:20 | **Keynote speaker:** Prof. Tal Arbel | 
+ |13:35 - 14:20 | **Keynote speaker:** Prof. Tal Arbel - Towards Equitable Image-Based Personalized Medicine: Causality, Confidence, and Bias Mitigation| 
  |14:20 - 14:35 | Hartmut Häntze, et al. Sex-based Bias Inherent in the Dice Similarity Coefficient: A Model Independent Analysis for Multiple Anatomical Structures | 
  |14:35 - 14:50 | Utku Ozbulak, et al. Revisiting the Evaluation Bias Introduced by Frame Sampling Strategies in Surgical Video Segmentation | 
  |14:50 - 15:05| Artur Paulo, et al. Assessing Annotator and Clinician Biases in an Open - Source Tool Used to Generate Head CT Segmentations for Deep Learning Training | 
