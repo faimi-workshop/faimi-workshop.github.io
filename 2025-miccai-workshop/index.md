@@ -105,6 +105,13 @@ Utku Ozbulak, et al.: *Revisiting the Evaluation Bias Introduced by Frame Sampli
 
 You-Qi Chang-Liao, et al.: *ShortCXR: Benchmarking Self-Supervised Learning Methods for Shortcut Mitigation in Chest X-Ray Interpretation*
 
+## Proceedings
+
+<a href="https://link.springer.com/book/10.1007/978-3-032-05870-6">
+<img class="img2" src="/images/proceedings2025.png" alt="FAIMI 2025 Proceedings" style="float: center; padding:0px 10px 10px 10px">
+</a>
+You can access the Proceedings of our FAIMI 2025 workshop at MICCAI [here](https://link.springer.com/book/10.1007/978-3-032-05870-6)
+
 ## FAIMI Horizon Award
 
 The FAIMI Horizon Award aims to provide financial support and highlight one talented early-career researcher attending the conference for the first time, with a special focus on individuals from diverse and underserved backgrounds.
