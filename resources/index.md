@@ -43,6 +43,7 @@ Rather, we list a few key references for specific areas of fairness research tha
 
 ### Investigations into the causes of bias
 - Glocker et al (2023), [Algorithmic Encoding of Protected Characteristics in Chest X-ray Disease Detection Models](https://doi.org/10.1016/j.ebiom.2023.104467), eBiomedicine.
+- Stanley et al (2024), [Where, why, and how is bias learned in medical image analysis models? A study of bias encoding within convolutional networks using synthetic data](https://doi.org/10.1016/j.ebiom.2024.105501), eBiomedicine.
 - Olesen et al (2025), [Slicing Through Bias: Explaining Performance Gaps in Medical Image Analysis Using Slice Discovery Methods](https://doi.org/10.1007/978-3-031-72787-0_1) Proceedings MICCAI FAIMI.
 - Lee et al (2025), [An Investigation Into the Causes of Race Bias in AI-based Cine CMR Segmentation](https://doi.org/10.1093/ehjdh/ztaf008), EHJ Digital Health.
 
