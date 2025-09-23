@@ -41,6 +41,11 @@ Rather, we list a few key references for specific areas of fairness research tha
 - Petersen et al (2023), [The Path Toward Equal Performance in Medical Machine Learning](https://doi.org/10.1016/j.patter.2023.100790), Patterns.
 - McCradden et al (2023), [What's fair is… fair? Presenting JustEFAB, an ethical framework for operationalizing medical ethics and social justice in the integration of clinical machine learning: JustEFAB](https://doi.org/10.1145/3593013.3594096), FAccT.
 
+### Investigations into the causes of bias
+- Glocker et al (2023), [Algorithmic Encoding of Protected Characteristics in Chest X-ray Disease Detection Models](https://doi.org/10.1016/j.ebiom.2023.104467), eBiomedicine.
+- Olesen et al (2025), [Slicing Through Bias: Explaining Performance Gaps in Medical Image Analysis Using Slice Discovery Methods](https://doi.org/10.1007/978-3-031-72787-0_1) Proceedings MICCAI FAIMI.
+- Lee et al (2025), [An Investigation Into the Causes of Race Bias in AI-based Cine CMR Segmentation](https://doi.org/10.1093/ehjdh/ztaf008), EHJ Digital Health.
+
 ### Shortcut learning, models recognizing sensitive patient attributes, and fairness in medical AI
 - Geirhos et al (2020), [Shortcut Learning in Deep Neural Networks](https://doi.org/10.1038/s42256-020-00257-z), Nature Machine Intelligence. *General overview of shortcut learning in deep neural networks, not medicine-specific.*
 - Yi et al (2021), [Radiology “Forensics”: Determination of Age and Sex from Chest Radiographs Using Deep Learning](https://doi.org/10.1007/s10140-021-01953-y), Emergency Radiology, and Gichoya et al (2022), [AI Recognition of Patient Race in Medical Imaging: A Modelling Study](https://doi.org/10.1016/S2589-7500(22)00063-2), Lancet Digital Health. *AI recognition of patient age, sex, and race from chest x-rays, which raises the possibility of bias in AI models trained using such images.*
