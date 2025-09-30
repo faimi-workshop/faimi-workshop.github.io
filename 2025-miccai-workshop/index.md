@@ -112,6 +112,7 @@ You-Qi Chang-Liao, et al.: *ShortCXR: Benchmarking Self-Supervised Learning Meth
 </a>
 You can access the Proceedings of our FAIMI 2025 workshop at MICCAI [here](https://link.springer.com/book/10.1007/978-3-032-05870-6)
 
+
 ## Awards MICCAI FAIMI 2025
 Congratulations to <b>Utku Ozbulak</b>  from Ghent University Global Campus and <b>Louisa Fay</b>  from University Hospital of Tübingen for the <b>Best Oral Presentation Award</b> 
 Congratulations to <b>Partha Shah</b>  from King’s College London, <b>You-Qi Chang-Liao</b>  from National Tsing Hua University, <b>Dishantkumar Sutariya</b>  from Fraunhofer Institute for Digital Medicine MEVIS, <b>Théo Sourget</b>  from Université Paris-Saclay, <b>Heejae Lee</b>  from Yonsei University Wonju College of Medicine, and <b>Abubakr Shafique</b>  from Toronto Metropolitan University for the <b>Best Poster Presentation Award</b> 
@@ -119,17 +120,19 @@ Congratulations to <b>Partha Shah</b>  from King’s College London, <b>You-Qi C
 ## Awards MICCAI FAIMI 2025
 Congratulations to <b>Utku Ozbulak</b> from  Ghent University Global Campus and <b>Louisa Fay</b> from  University Hospital of Tübingen for the best oral presenter award. Congratulations to <b>Partha Shah</b> from King’s College London, to <b> You-Qi Chang-Liao</b> from National Tsing Hua University,  <b>Dishantkumar Sutariya</b> from Fraunhofer Institute for Digital Medicine MEVIS,  <b>Théo Sourget</b> from Universit´e Paris-Saclay, <b>Heejae Lee</b> from Yonsei University Wonju College of Medicine, <b>Abubakr Shafique</b> from Toronto Metropolitan University for the best poster presenter award.
 
+<div class="clearfix">
+	<img class="img2" src="/images/FAIMI_2025-Best-oral-Utku.png" alt="MICCAI FAIMI 2025 Best Oral" width="300" style="float: left; padding:0px 10px 10px 10px">
+	<img class="img2" src="/images/FAIMI_2025-Best-oral-Louisa.png" alt="MICCAI FAIMI 2025 Best Oral" width="300" style="float: left; padding:0px 10px 10px 10px">
+	<img class="img2" src="/images/FAIMI_2025-Best-Poster-You.png" alt="MICCAI FAIMI 2025 Best Poster" width="300" style="float: left; padding:0px 10px 10px 10px">
+	<img class="img2" src="/images/FAIMI_2025-Best-Poster-Theo.png" alt="MICCAI FAIMI 2025 Best Poster" width="300" style="float: left; padding:0px 10px 10px 10px">
+	<img class="img2" src="/images/FAIMI_2025-Best-Poster-Dishantkumar.png" alt="MICCAI FAIMI 2025 Best Poster" width="300" style="float: left; padding:0px 10px 10px 10px">
+	<img class="img2" src="/images/FAIMI_2025-Best-Poster-Partha.png" alt="MICCAI FAIMI 2025 Best Poster" width="300" style="float: left; padding:0px 10px 10px 10px">
+	<img class="img2" src="/images/FAIMI_2025-Best-Poster-Heejae.png" alt="MICCAI FAIMI 2025 Best Poster" width="300" style="float: left; padding:0px 10px 10px 10px">
+	<img class="img2" src="/images/FAIMI_2025-Best-Poster-Abubakr.png" alt="MICCAI FAIMI 2025 Best Poster" width="300" style="float: left; padding:0px 10px 10px 10px">
+</div>
 
 <div class="clearfix">
-	<img class="img2" src="/images/FAIMI_2025-Best-oral-Utku Ozbulak.png" alt="MICCAI FAIMI 2025 Best Oral" width="300" style="float: left; padding:0px 10px 10px 10px">
-	<img class="img2" src="/images/FAIMI_2025-Best-oral-Louisa.png" alt="MICCAI FAIMI 2025 Best Oral" width="300" style="float: left; padding:0px 10px 10px 10px">
-	<img class="img2" src="/images/FAIMI_2024-Best-Poster-You" alt="MICCAI FAIMI 2024 Best Poster" width="300" style="float: left; padding:0px 10px 10px 10px">
-	<img class="img2" src="/images/FAIMI_2024-Best-Poster-Theo" alt="MICCAI FAIMI 2024 Best Poster" width="300" style="float: left; padding:0px 10px 10px 10px">
-	<img class="img2" src="/images/FAIMI_2024-Best-Poster-Dishantkumar" alt="MICCAI FAIMI 2024 Best Poster" width="300" style="float: left; padding:0px 10px 10px 10px">
-	<img class="img2" src="/images/FAIMI_2024-Best-Poster-Partha" alt="MICCAI FAIMI 2024 Best Poster" width="300" style="float: left; padding:0px 10px 10px 10px">
-	<img class="img2" src="/images/FAIMI_2024-Best-Poster-Heejae" alt="MICCAI FAIMI 2024 Best Poster" width="300" style="float: left; padding:0px 10px 10px 10px">
-	<img class="img2" src="/images/FAIMI_2024-Best-Poster-Abubak" alt="MICCAI FAIMI 2024 Best Poster" width="300" style="float: left; padding:0px 10px 10px 10px">
-	
+	<img class="img2" src="/images/Photo_FAIMI-GISTeR.jpg" alt="MICCAI FAIMI 2025 Awards" width="600" style="float: left; padding:0px 10px 10px 10px">
 </div>
 
 
