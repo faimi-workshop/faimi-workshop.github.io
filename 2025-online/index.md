@@ -9,7 +9,7 @@ redirect_from: /2025-online/
 
 ## TL;DR
  - Fairness & Medical Imaging-based speakers and discussions
- - Nov 25th, 2025, 13:30-17:00 GMT/UTC
+ - Nov 25th, 2025, 14:00-17:00 GMT/UTC
  - Fully virtual & free! Register [here](https://docs.google.com/forms/d/e/1FAIpQLSczfMnYFb2Cijtx3xfnbaEFbxEaY3K0yA-Plg-jYUg1_RdmNQ/viewform?usp=dialog)
  - Also see [our MICCAI 2025 workshop on the same subject](/2025-miccai-workshop/) and [last year's iteration of this event](/2024-online/)
  - Recordings of all talks will be made available
