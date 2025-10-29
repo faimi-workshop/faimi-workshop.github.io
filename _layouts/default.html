@@ -17,24 +17,108 @@
   </head>
   
   <body>
+
     <section class="page-header">
       <h1 class="project-name">{{ page.title | default: site.title }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description }}</h2>
 
-      <a href="/" class="btn">FAIMI Home</a>
-      <a href="/2025-online/" class="btn">2025 Online Workshop</a>	
-      <a href="/2025-london-symposium/" class="btn">2025 London Symposium</a>
-      <a href="/2025-miccai-workshop/" class="btn">2025 MICCAI Workshop</a>
-      <a href="/2025-miccai-tutorial" class="btn">2025 MICCAI tutorial</a>
-      <a href="/2024-melba/" class="btn">MELBA Special Issue</a>	
-      <a href="/2024-online/" class="btn">2024 Online Workshop</a>	
-      <a href="/2024-miccai/" class="btn">2024 MICCAI Workshop</a>
-      <a href="/2024-isbi/" class="btn">2024 ISBI Tutorial</a>
-      <a href="/2023-online/" class="btn">2023 Online Workshop</a>	    
-      <a href="/2023-miccai/" class="btn">2023 MICCAI Workshop</a>
-      <a href="/2022/" class="btn">2022 Online Workshop</a>
-      <a href="/resources/" class="btn">Resources</a>
-      <a href="/newsletter/" class="btn">Newsletter</a>
+      <div class="dropdown" style="display: inline-block; position: relative; margin-right: 15px;">
+        <button class="btn dropdown-toggle" type="button" onclick="toggleDropdown(event, 'upcomingDropdown')"
+                style="background-color: #28a745; color: white; border: 1px solid #28a745; padding: 10px 15px; border-radius: 5px; font-weight: bold; cursor: pointer;">
+          ✨ Upcoming Events
+        </button>
+        
+        <div class="dropdown-menu" id="upcomingDropdown" 
+            style="display: none; 
+                    position: absolute; 
+                    top: 100%; 
+                    left: 0;
+                    z-index: 100; 
+                    min-width: 250px;
+                    background-color: #f8f9fa; 
+                    border: 1px solid #dee2e6; 
+                    box-shadow: 0 4px 8px rgba(0,0,0,0.1); 
+                    padding: 10px; 
+                    border-radius: 5px;
+                    text-align: left;">
+          
+          <strong style="display: block; padding: 5px 0; color: #343a40; border-bottom: 1px solid #eee;">Current Events</strong>
+          <a href="/2025-online/" class="dropdown-item" style="display: block; padding: 5px 10px; color: #007bff; text-decoration: none;" onmouseover="this.style.backgroundColor='#e9ecef';" onmouseout="this.style.backgroundColor='transparent';">2025 Online Workshop</a> 
+
+        </div>
+      </div>
+
+
+      <a href="/" class="btn" style="padding: 10px 15px; margin-right: 15px; border-radius: 5px; text-decoration: none;">FAIMI Home</a>
+      <a href="/resources/" class="btn" style="padding: 10px 15px; margin-right: 15px; border-radius: 5px; text-decoration: none;">Resources</a>
+      <a href="/newsletter/" class="btn" style="padding: 10px 15px; margin-right: 15px; border-radius: 5px; text-decoration: none;">Newsletter</a>
+      <a href="/2024-melba/" class="btn" style="padding: 10px 15px; margin-right: 15px; border-radius: 5px; text-decoration: none;">MELBA Special Issue</a>  
+
+      <div class="dropdown" style="display: inline-block; position: relative;">
+        <button class="btn dropdown-toggle" type="button" onclick="toggleDropdown(event, 'pastDropdown')"
+                style="background-color: #6c757d; color: white; border: 1px solid #6c757d; padding: 10px 15px; border-radius: 5px; font-weight: bold; cursor: pointer;">
+          📅 Past Events
+        </button>
+        
+        <div class="dropdown-menu" id="pastDropdown" 
+            style="display: none; 
+                    position: absolute; 
+                    top: 100%; 
+                    left: 0;
+                    z-index: 100; 
+                    min-width: 250px;
+                    background-color: #f8f9fa; 
+                    border: 1px solid #dee2e6; 
+                    box-shadow: 0 4px 8px rgba(0,0,0,0.1); 
+                    padding: 10px; 
+                    border-radius: 5px;
+                    text-align: left;">
+          
+          <strong style="display: block; margin-top: 5px; padding: 5px 0; color: #343a40; border-bottom: 1px solid #eee;">2025 Events</strong>
+          <a href="/2025-london-symposium/" class="dropdown-item" style="display: block; padding: 5px 10px; color: #007bff; text-decoration: none;" onmouseover="this.style.backgroundColor='#e9ecef';" onmouseout="this.style.backgroundColor='transparent';">2025 London Symposium</a>
+          <a href="/2025-miccai-workshop/" class="dropdown-item" style="display: block; padding: 5px 10px; color: #007bff; text-decoration: none;" onmouseover="this.style.backgroundColor='#e9ecef';" onmouseout="this.style.backgroundColor='transparent';">2025 MICCAI Workshop</a>
+          <a href="/2025-miccai-tutorial" class="dropdown-item" style="display: block; padding: 5px 10px; color: #007bff; text-decoration: none;" onmouseover="this.style.backgroundColor='#e9ecef';" onmouseout="this.style.backgroundColor='transparent';">2025 MICCAI Tutorial</a>
+
+          <strong style="display: block; margin-top: 10px; padding: 5px 0; color: #343a40; border-bottom: 1px solid #eee;">2024 Events</strong>
+          <a href="/2024-online/" class="dropdown-item" style="display: block; padding: 5px 10px; color: #007bff; text-decoration: none;" onmouseover="this.style.backgroundColor='#e9ecef';" onmouseout="this.style.backgroundColor='transparent';">2024 Online Workshop</a>  
+          <a href="/2024-miccai/" class="dropdown-item" style="display: block; padding: 5px 10px; color: #007bff; text-decoration: none;" onmouseover="this.style.backgroundColor='#e9ecef';" onmouseout="this.style.backgroundColor='transparent';">2024 MICCAI Workshop</a>
+          <a href="/2024-isbi/" class="dropdown-item" style="display: block; padding: 5px 10px; color: #007bff; text-decoration: none;" onmouseover="this.style.backgroundColor='#e9ecef';" onmouseout="this.style.backgroundColor='transparent';">2024 ISBI Tutorial</a>
+          
+          <strong style="display: block; margin-top: 10px; padding: 5px 0; color: #343a40; border-bottom: 1px solid #eee;">Older Events</strong>
+          <a href="/2023-online/" class="dropdown-item" style="display: block; padding: 5px 10px; color: #007bff; text-decoration: none;" onmouseover="this.style.backgroundColor='#e9ecef';" onmouseout="this.style.backgroundColor='transparent';">2023 Online Workshop</a>      
+          <a href="/2023-miccai/" class="dropdown-item" style="display: block; padding: 5px 10px; color: #007bff; text-decoration: none;" onmouseover="this.style.backgroundColor='#e9ecef';" onmouseout="this.style.backgroundColor='transparent';">2023 MICCAI Workshop</a>
+          <a href="/2022/" class="dropdown-item" style="display: block; padding: 5px 10px; color: #007bff; text-decoration: none;" onmouseover="this.style.backgroundColor='#e9ecef';" onmouseout="this.style.backgroundColor='transparent';">2022 Online Workshop</a>
+
+        </div>
+      </div>
+
+      <script>
+        // Updated JavaScript function to handle multiple dropdowns
+        function toggleDropdown(event, dropdownId) {
+          event.preventDefault(); // Prevent default button action
+          var targetDropdown = document.getElementById(dropdownId);
+          
+          // Close all other dropdowns
+          var allDropdowns = document.querySelectorAll('.dropdown-menu');
+          allDropdowns.forEach(function(dropdown) {
+            if (dropdown.id !== dropdownId) {
+              dropdown.style.display = 'none';
+            }
+          });
+
+          // Toggle the target dropdown
+          targetDropdown.style.display = targetDropdown.style.display === "block" ? "none" : "block";
+
+          // Close the dropdown if the user clicks outside of it
+          document.addEventListener('click', function(e) {
+            // Only attach once and check if the click target is inside a dropdown button/menu
+            if (!e.target.closest('.dropdown')) {
+              allDropdowns.forEach(d => d.style.display = 'none');
+            }
+          }, { once: true });
+        }
+      </script>
+
     </section>
 
     <section class="main-content">
