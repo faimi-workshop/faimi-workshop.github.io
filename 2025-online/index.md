@@ -7,12 +7,27 @@ weight: -1
 redirect_from: /2025-online/
 ---
 
-## TL;DR
- - Fairness & Medical Imaging-based speakers and discussions
- - Nov 25th, 2025, 14:00-17:00 GMT/UTC
- - Fully virtual & free! Register [here](https://docs.google.com/forms/d/e/1FAIpQLSczfMnYFb2Cijtx3xfnbaEFbxEaY3K0yA-Plg-jYUg1_RdmNQ/viewform?usp=dialog)
- - Also see [our MICCAI 2025 workshop on the same subject](/2025-miccai-workshop/) and [last year's iteration of this event](/2024-online/)
- - Recordings of all talks will be made available
+
+
+<h2 style="margin-top: 30px; margin-bottom: 15px; border-bottom: 2px solid #ddd; padding-bottom: 5px;">TL;DR 🚀</h2>
+<div style="background-color: #f7f9fc; border: 1px solid #e0e6ed; padding: 15px; border-radius: 5px; margin-bottom: 25px;">
+    <ul style="list-style-type: none; padding-left: 0; margin-bottom: 0;">
+        <li style="margin-bottom: 5px;"><b>Focus:</b> Fairness & Medical Imaging-based speakers and discussions</li>
+        <li style="margin-bottom: 5px;"><b>Date/Time:</b> Nov 25th, 2025, 14:00-17:00 GMT/UTC</li>
+        <li style="margin-bottom: 5px;"><b>Cost:</b> Fully virtual & free!</li>
+        <li style="margin-bottom: 5px;"><b>Related:</b> Also see <a href="/2025-miccai-workshop/" style="color: #007bff; text-decoration: none;">our MICCAI 2025 workshop</a> and <a href="/2024-online/" style="color: #007bff; text-decoration: none;">last year's iteration</a></li>
+        <li><b>Post-Event:</b> Recordings of all talks will be made available</li>
+    </ul>
+</div>
+
+<div style="text-align: center; margin-bottom: 40px;">
+    <a href="https://docs.google.com/forms/d/e/1FAIpQLSczfMnYFb2Cijtx3xfnbaEFbxEaY3K0yA-Plg-jYUg1_RdmNQ/viewform?usp=dialog" 
+       style="display: inline-block; padding: 15px 30px; background-color: #ff4500; color: white; 
+              text-decoration: none; border-radius: 8px; font-size: 1.2em; font-weight: bold; 
+              box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: background-color 0.3s;">
+        Click Here to Register Now!
+    </a>
+</div>
 
 ## Keynote Speaker
 <div class="clearfix">
@@ -26,6 +41,16 @@ redirect_from: /2025-online/
 	</p>
 </div>
 
+
+## 🗣️ Panelists & Speakers
+
+We are excited to feature the following distinguished experts:
+
+* **Alceu Bisotto**, University of Bern, Switzerland
+* **Mauricio Reyes**, University of Bern, Switzerland
+* **Elodie Germani**, Laboratoire Traitement du Signal et de l’Image (LTSI), France
+* **Louisa Fay**, University of Tubingen, Germany
+* **Ghada Zamzmi**, HeartFlow, USA
 
 ## Full Schedule
 *TBC*
