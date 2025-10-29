@@ -17,6 +17,34 @@ redirect_from: /2025-miccai-tutorial/
 As AI transforms healthcare, ensuring fairness in medical imaging is crucial to prevent health disparities. This tutorial provides a comprehensive introduction to algorithmic fairness, covering key concepts, sources of bias, and practical mitigation strategies.
 Through expert-led lectures and hands-on demonstrations, participants will explore real-world case studies, fairness evaluation techniques, and tools for bias assessment. By the end, attendees will be equipped to integrate fairness principles into their machine learning workflows, fostering more equitable AI in healthcare.
 
+## Resources
+
+<!-- * **Presentation Slides:** [Slides](/assets/FAIMI_Tutorial_2025/slides.pdf)
+* **Detailed Notes:** [Notes](/assets/FAIMI_Tutorial_2025/slides_notes.pdf)
+* **Jupyter Notebook:** [Notebook](/assets/FAIMI_Tutorial_2025/classification_fitzpatrick.ipynb) -->
+
+<div style="margin-top: 20px; margin-bottom: 20px;">
+    <a href="/assets/FAIMI_Tutorial_2025/slides.pdf" 
+       style="display: inline-block; padding: 10px 15px; margin-right: 15px; margin-bottom: 10px; 
+              background-color: #007bff; color: white; text-decoration: none; 
+              border-radius: 5px; font-weight: bold; transition: background-color 0.3s;">
+        <span style="font-size: 1.2em;">📄</span> Slides (PDF)
+    </a>
+
+    <a href="/assets/FAIMI_Tutorial_2025/slides_notes.pdf" 
+       style="display: inline-block; padding: 10px 15px; margin-right: 15px; margin-bottom: 10px;
+              background-color: #6c757d; color: white; text-decoration: none; 
+              border-radius: 5px; font-weight: bold; transition: background-color 0.3s;">
+        <span style="font-size: 1.2em;">📝</span> Detailed Notes (PDF)
+    </a>
+
+    <a href="/assets/FAIMI_Tutorial_2025/classification_fitzpatrick.ipynb" 
+       style="display: inline-block; padding: 10px 15px; margin-bottom: 10px;
+              background-color: #17a2b8; color: white; text-decoration: none; 
+              border-radius: 5px; font-weight: bold; transition: background-color 0.3s;">
+        <span style="font-size: 1.2em;">💻</span> Jupyter Notebook (.ipynb)
+    </a>
+</div>
 
 ## Schedule
 
