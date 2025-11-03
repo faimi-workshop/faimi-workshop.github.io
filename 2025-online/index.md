@@ -41,19 +41,15 @@ redirect_from: /2025-online/
 	</p>
 </div>
 
-
-## 🗣️ Panelists & Speakers
-
-We are excited to feature the following distinguished experts:
-
-* **Alceu Bisotto**, University of Bern, Switzerland
-* **Mauricio Reyes**, University of Bern, Switzerland
-* **Elodie Germani**, Laboratoire Traitement du Signal et de l’Image (LTSI), France
-* **Louisa Fay**, University of Tubingen, Germany
-* **Ghada Zamzmi**, HeartFlow, USA
-
 ## Full Schedule
-*TBC*
+
+> All times are GMT/UTC on Nov 25, 2025.
+
+- **15:15** — *Alceu Bisotto* (University of Bern, Switzerland): **Subgroup Performance Analysis in Hidden Stratifications**
+- **15:30** — *Abubakr Shafique* (Toronto Metropolitan University, Canada): **How Fair Are Foundation Models? Exploring the Role of Covariate Bias in Histopathology**
+- **15:45** — *Louisa Fay* (University Hospital of Tuebingen): **MIMM-X: Disentangling Spurious Correlations for Medical Image Analysis**
+- **16:00** — *Elodie Germani* (Laboratoire Traitement du Signal et de l’Image (LTSI), France): **Bias and Generalizability of Foundation Models across Datasets in Breast Mammography**
+- **16:15** — *Mauricio Reyes* (University of Bern, Switzerland): **On the Interplay of Human-AI Alignment, Fairness, and Performance Trade-offs in Medical Imaging**
 
 
  
