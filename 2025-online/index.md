@@ -43,13 +43,84 @@ redirect_from: /2025-online/
 
 ## Full Schedule
 
-> All times are GMT/UTC on Nov 25, 2025.
+<p><em>All times are GMT/UTC on <strong>November 25, 2025</strong>.</em></p>
 
-- **15:15** — *Alceu Bisotto* (University of Bern, Switzerland): **Subgroup Performance Analysis in Hidden Stratifications**
-- **15:30** — *Abubakr Shafique* (Toronto Metropolitan University, Canada): **How Fair Are Foundation Models? Exploring the Role of Covariate Bias in Histopathology**
-- **15:45** — *Louisa Fay* (University Hospital of Tuebingen): **MIMM-X: Disentangling Spurious Correlations for Medical Image Analysis**
-- **16:00** — *Elodie Germani* (Laboratoire Traitement du Signal et de l’Image (LTSI), France): **Bias and Generalizability of Foundation Models across Datasets in Breast Mammography**
-- **16:15** — *Mauricio Reyes* (University of Bern, Switzerland): **On the Interplay of Human-AI Alignment, Fairness, and Performance Trade-offs in Medical Imaging**
+<style>
+  /* Schedule (scoped to this page) */
+  .agenda {margin: 16px 0 32px 0; border-left: 3px solid #e6e9ef;}
+  .agenda .block {position: relative; padding: 14px 16px 14px 20px; margin-left: 14px;}
+  /* Default: no marker; only timed items get one */
+  .agenda .block::before {content: none;}
+  .agenda .block.has-marker::before {
+    content: ""; position: absolute; left: -20px; top: 18px;
+    width: 10px; height: 10px; background: #fff; border: 3px solid #ff6a3d; border-radius: 50%;
+  }
+  .agenda .time {
+    display: inline-block; min-width: 72px; font-weight: 700;
+    background: #f7f9fc; border: 1px solid #e0e6ed; padding: 4px 8px; border-radius: 6px;
+    text-align: center; margin-right: 8px;
+  }
+  .agenda .title {margin: 6px 0 0 0;}
+  .agenda .session {
+    background: #f3f5f9; border: 1px solid #e0e6ed; border-left: 4px solid #4a6cf7;
+    border-radius: 6px; padding: 10px 12px; font-weight: 700; color: #24324b;
+  }
+  .agenda .sublist {margin: 8px 0 0 0; padding-left: 18px;}
+  .agenda .sublist li {margin: 6px 0;}
+  .agenda .talk-title {font-weight: 600;}
+  @media (max-width: 640px) {
+    .agenda .time {min-width: auto;}
+  }
+</style>
+
+<div class="agenda">
+
+  <div class="block has-marker">
+    <span class="time">14:00</span>
+    <div class="title"><strong>Opening Remarks</strong></div>
+  </div>
+
+  <div class="block">
+    <div class="session">SESSION 1</div>
+  </div>
+
+  <div class="block has-marker">
+    <span class="time">14:10</span>
+    <div class="title"><strong>Keynote:</strong> <em>Leo Celi</em> (MIT, USA)</div>
+  </div>
+
+  <div class="block has-marker">
+    <span class="time">15:00</span>
+    <div class="title"><strong>Break</strong></div>
+  </div>
+
+  <div class="block">
+    <div class="session">SESSION 2</div>
+  </div>
+
+  <div class="block has-marker">
+    <span class="time">15:15</span>
+    <div class="title"><strong>Invited Talks</strong> <span style="opacity:.8;">(15 mins each)</span></div>
+    <ul class="sublist">
+      <li><span class="talk-title">Alceu Bisotto</span> (University of Bern, Switzerland): <em>Subgroup Performance Analysis in Hidden Stratifications</em></li>
+      <li><span class="talk-title">Abubakr Shafique</span> (Toronto Metropolitan University, Canada): <em>How Fair Are Foundation Models? Exploring the Role of Covariate Bias in Histopathology</em></li>
+      <li><span class="talk-title">Louisa Fay</span> (University Hospital of Tuebingen): <em>MIMM-X: Disentangling Spurious Correlations for Medical Image Analysis</em></li>
+      <li><span class="talk-title">Elodie Germani</span> (Laboratoire Traitement du Signal et de l’Image (LTSI), France): <em>Bias and Generalizability of Foundation Models across Datasets in Breast Mammography</em></li>
+      <li><span class="talk-title">Mauricio Reyes</span> (University of Bern, Switzerland): <em>On the Interplay of Human-AI Alignment, Fairness, and Performance Trade-offs in Medical Imaging</em></li>
+    </ul>
+  </div>
+
+  <div class="block has-marker">
+    <span class="time">16:30</span>
+    <div class="title"><strong>Panel Discussion:</strong> <em>Leo Celi, Ghada Zamzmi, and FAIMI organisers</em></div>
+  </div>
+
+  <div class="block has-marker">
+    <span class="time">17:00</span>
+    <div class="title"><strong>Closing Remarks</strong></div>
+  </div>
+
+</div>
 
 
  
