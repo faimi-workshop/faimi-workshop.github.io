@@ -114,6 +114,7 @@ Rather, we list a few key references for specific areas of fairness research tha
 - Bencevic et al (2024), [Understanding Skin Color Bias in Deep Learning-based Skin Lesion Segmentation](https://doi.org/10.1016/j.cmpb.2024.108044), Computer Methods and Programs in Biomedicine.
 - Siddiqui et al (2024),  [Fair AI-powered Orthopedic Image Segmentation: Addressing Bias and Promoting Equitable Healthcare](https://doi.org/10.1038/s41598-024-66873-6), Scientific Reports.
 - Lee et al (2025), [An Investigation Into the Causes of Race Bias in AI-based Cine CMR Segmentation](https://doi.org/10.1093/ehjdh/ztaf008), EHJ Digital Health.
+- Alqarni et al (2025), [An Investigation of Race Bias in Deep Learning-based Segmentation of Prostate MRI Images](https://doi.org/10.1038/s41598-025-26189-5), Scientific Reports.
 
 ### Miscellaneous
 - Simoiu et al (2017), [The Problem of Infra-Marginality in Outcome Tests for Discrimination](https://dx.doi.org/10.2139/ssrn.2811449), The Annals of Applied Statistics, and Kearns et al (2018), [Preventing Fairness Gerrymandering: Auditing and Learning for Subgroup Fairness](https://proceedings.mlr.press/v80/kearns18a.html), ICML: *Fairness with respect to one protected attribute can hide aggravated unfairness with respect to another (a.k.a. inframarginality / fairness gerrymandering / subgroup fairness).*
