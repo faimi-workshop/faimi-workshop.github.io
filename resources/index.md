@@ -78,7 +78,7 @@ Rather, we list a few key references for specific areas of fairness research tha
 - Daneshjou et al (2022), [Disparities in Dermatology AI Performance on a Diverse, Curated Clinical Image Set](https://doi.org/10.1126/sciadv.abq6147), Science Advances.
 - Pakzad et al (2022), [CIRCLe: Color Invariant Representation Learning for Unbiased Classification of Skin Lesions](https://doi.org/10.1007/978-3-031-25069-9_14), ECCV Workshop on Skin Image Analysis.
 - Bencevic et al (2024), [Understanding skin color bias in deep learning-based skin lesion segmentation](https://doi.org/10.1016/j.cmpb.2024.108044), Computer Methods and Programs in Biomedicine.
-- Xu et al (2023), [FairAdaBN: Mitigating Unfairness with Adaptive Batch Normalization and Its Application to Dermatological Disease Classification](https://doi.org/10.1007/978-3-031-43895-0_29), MICCAI.
+- Xu et al (2026), [Rethinking Fairness in Medical Imaging: Maximizing Group-Specific Performance with Application to Skin Disease Diagnosis](https://doi.org/10.1016/j.media.2026.103950), Medical Image Analysis.
 
 #### AI fairness for brain MRI:
 - Petersen et al (2022), [Feature Robustness and Sex Differences in Medical Imaging: A Case Study in MRI-Based Alzheimer’s Disease Detection](https://doi.org/10.1007/978-3-031-16431-6_9), MICCAI.
