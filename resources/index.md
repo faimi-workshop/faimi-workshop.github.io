@@ -47,6 +47,12 @@ Rather, we list a few key references for specific areas of fairness research tha
 - Olesen et al (2025), [Slicing Through Bias: Explaining Performance Gaps in Medical Image Analysis Using Slice Discovery Methods](https://doi.org/10.1007/978-3-031-72787-0_1) Proceedings MICCAI FAIMI.
 - Lee et al (2025), [An Investigation Into the Causes of Race Bias in AI-based Cine CMR Segmentation](https://doi.org/10.1093/ehjdh/ztaf008), EHJ Digital Health.
 
+### Bias mitigation
+- Puyol-Antón et al (2021), [Fairness in Cardiac MR Image Analysis: An Investigation of Bias Due to Data Imbalance in Deep Learning Based Segmentation](https://doi.org/10.1007/978-3-030-87199-4_39), MICCAI. *Evaluates bias mitigation methods for addressing race bias in cardiac MR segmentation.*
+- Zhang et al (2022), [Improving the Fairness of Chest X-ray Classifiers](https://proceedings.mlr.press/v174/zhang22a.html), CHIL. *Comparison of multiple approaches for addressing bias in chest X-ray classification and evaluation using different definitions of fairness.*
+- Zong et al (2023), [MEDFAIR: Benchmarking Fairness for Medical Imaging](https://doi.org/10.48550/arXiv.2210.01725), ICLR. *Comparison of many standard fairness methods on ten medical image datasets, spanning chest x-rays, brain MRIs, retinal fundus images, dermatoscopic images, heart CT, lung CT, and SD-OCT.*
+- Lee et al (2026), [Understanding-informed Bias Mitigation for Fair CMR Segmentation](https://doi.org/10.59275/j.melba.2025-6747), MELBA. *Use insight from bias cause analysis to remove bias-inducing features.*
+
 ### Shortcut learning, models recognizing sensitive patient attributes, and fairness in medical AI
 - Geirhos et al (2020), [Shortcut Learning in Deep Neural Networks](https://doi.org/10.1038/s42256-020-00257-z), Nature Machine Intelligence. *General overview of shortcut learning in deep neural networks, not medicine-specific.*
 - Yi et al (2021), [Radiology “Forensics”: Determination of Age and Sex from Chest Radiographs Using Deep Learning](https://doi.org/10.1007/s10140-021-01953-y), Emergency Radiology, and Gichoya et al (2022), [AI Recognition of Patient Race in Medical Imaging: A Modelling Study](https://doi.org/10.1016/S2589-7500(22)00063-2), Lancet Digital Health. *AI recognition of patient age, sex, and race from chest x-rays, which raises the possibility of bias in AI models trained using such images.*
@@ -58,8 +64,7 @@ Rather, we list a few key references for specific areas of fairness research tha
 ### Quantitative comparisons
 - Zhang et al (2022), [Improving the Fairness of Chest X-ray Classifiers](https://proceedings.mlr.press/v174/zhang22a.html), CHIL. *Comparison of multiple approaches for addressing bias in chest X-ray classification and evaluation using different definitions of fairness.*
 - Lee et al (2023), [An Investigation Into the Impact of Deep Learning Model Choice on Sex and Race Bias in Cardiac MR Segmentation](https://doi.org/10.1007/978-3-031-45249-9_21), MICCAI FAIMI workshop. *Comparison of bias characteristics of different deep learning models including CNNs and a vision transformer.*
-- Zong et al (2023), [MEDFAIR: Benchmarking Fairness for Medical Imaging](https://doi.org/10.48550/arXiv.2210.01725), ICLR.  
-*Comparison of many standard fairness methods on ten medical image datasets, spanning chest x-rays, brain MRIs, retinal fundus images, dermatoscopic images, heart CT, lung CT, and SD-OCT.*
+- Zong et al (2023), [MEDFAIR: Benchmarking Fairness for Medical Imaging](https://doi.org/10.48550/arXiv.2210.01725), ICLR. *Comparison of many standard fairness methods on ten medical image datasets, spanning chest x-rays, brain MRIs, retinal fundus images, dermatoscopic images, heart CT, lung CT, and SD-OCT.*
 
 ### Applied AI fairness research in medical imaging
 #### AI fairness for chest x-rays
@@ -92,6 +97,7 @@ Rather, we list a few key references for specific areas of fairness research tha
 - Lee et al (2022), [A Systematic Study of Race and Sex Bias in CNN-Based Cardiac MR Segmentation](https://doi.org/10.1007/978-3-031-23443-9_22), MICCAI Workshop on Statistical Atlases and Computational Models of the Heart.
 - Lee et al (2023), [An Investigation Into the Impact of Deep Learning Model Choice on Sex and Race Bias in Cardiac MR Segmentation](https://doi.org/10.1007/978-3-031-45249-9_21), MICCAI FAIMI workshop.
 - Lee et al (2025), [An Investigation Into the Causes of Race Bias in AI-based Cine CMR Segmentation](https://doi.org/10.1093/ehjdh/ztaf008), EHJ Digital Health.
+- Lee et al (2026), [Understanding-informed Bias Mitigation for Fair CMR Segmentation](https://doi.org/10.59275/j.melba.2025-6747), MELBA.
 
 #### AI fairness for ophthalmology:
 - Burlina et al (2021), [Addressing Artificial Intelligence Bias in Retinal Diagnostics](https://doi.org/10.1167/tvst.10.2.13), Translational Vision Science & Technology.
@@ -115,6 +121,7 @@ Rather, we list a few key references for specific areas of fairness research tha
 - Siddiqui et al (2024),  [Fair AI-powered Orthopedic Image Segmentation: Addressing Bias and Promoting Equitable Healthcare](https://doi.org/10.1038/s41598-024-66873-6), Scientific Reports.
 - Lee et al (2025), [An Investigation Into the Causes of Race Bias in AI-based Cine CMR Segmentation](https://doi.org/10.1093/ehjdh/ztaf008), EHJ Digital Health.
 - Alqarni et al (2025), [An Investigation of Race Bias in Deep Learning-based Segmentation of Prostate MRI Images](https://doi.org/10.1038/s41598-025-26189-5), Scientific Reports.
+- Lee et al (2026), [Understanding-informed Bias Mitigation for Fair CMR Segmentation](https://doi.org/10.59275/j.melba.2025-6747), MELBA.
 
 ### Miscellaneous
 - Simoiu et al (2017), [The Problem of Infra-Marginality in Outcome Tests for Discrimination](https://dx.doi.org/10.2139/ssrn.2811449), The Annals of Applied Statistics, and Kearns et al (2018), [Preventing Fairness Gerrymandering: Auditing and Learning for Subgroup Fairness](https://proceedings.mlr.press/v80/kearns18a.html), ICML: *Fairness with respect to one protected attribute can hide aggravated unfairness with respect to another (a.k.a. inframarginality / fairness gerrymandering / subgroup fairness).*
