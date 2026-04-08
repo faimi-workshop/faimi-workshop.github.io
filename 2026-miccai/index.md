@@ -8,9 +8,22 @@ redirect_from: /2026-miccai/
 ---
 
 ## TL;DR
- - Fairness & Medical Imaging Workshop at [MICCAI 2026](https://conferences.miccai.org/2026/en/) (Abu Dhabi)
+ - Joint FAIMI, BRIDGE, and EPIMI workshop at [MICCAI 2026](https://conferences.miccai.org/2026/en/) (Abu Dhabi)
  - Date: TBC
  - Location: ADNEC Centre Abu Dhabi (_in person only_)
+ - Full joint organizer list will be posted here as soon as it is finalized
+
+## Workshop Overview
+
+FAIMI has again been selected to host a workshop at MICCAI 2026. This year, the workshop is being organized jointly with **BRIDGE** (Regulatory Evaluation) and **EPIMI** (Ethics & Philosophy).
+
+The joint workshop brings together three connected perspectives needed for trustworthy medical AI:
+
+- **FAIMI:** fairness, bias identification, and bias mitigation in medical imaging AI
+- **BRIDGE:** regulatory science and evaluation for emerging AI paradigms
+- **EPIMI:** ethical and philosophical analysis of new challenges in medical imaging AI
+
+At present, the organizer list below reflects the **FAIMI team coordinating this page and the FAIMI-led workshop activities**. The full combined **FAIMI + BRIDGE + EPIMI** organizer list will be added here once confirmed.
 
 
 
@@ -85,7 +98,7 @@ To be eligible for the FAIMI Horizon Award, the first author of the submitted pa
 
 ><b>Please note:</b> The MICCAI Registration and Travel Grants are intended to support in-person participation in the conference. If a selected grantee is unable to attend in person, the award will be offered to the next eligible candidate.
 
-## Organizers
+## Current FAIMI Organizers
 
 **Aasa Feragen**, DTU Compute, Technical University of Denmark  
 **Andrew King**, King's College London  
@@ -95,11 +108,11 @@ To be eligible for the FAIMI Horizon Award, the first author of the submitted pa
 **Esther Puyol-Antón**, HeartFlow and King's College London  
 **Melanie Ganz-Benjaminsen**, University of Copenhagen & Neurobiology Research Unit, Rigshospitalet  
 **Veronika Cheplygina**, IT University Copenhagen  
-**Louisa Fay**, Stanford University
-**Emma Stanley**, Imperial College London
-**Gelei Xu**, University of Notre Dame
+**Louisa Fay**, Stanford University  
+**Emma Stanley**, Imperial College London  
+**Gelei Xu**, University of Notre Dame  
 **Christopher Thomas Boland**, DTU Compute, Technical University of Denmark  
-*Tareen Dawood**, DTU Compute, Technical University of Denmark  
+**Tareen Dawood**, DTU Compute, Technical University of Denmark  
 
 ## Contact
 
