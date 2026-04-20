@@ -8,9 +8,9 @@ redirect_from: /2026-miccai/
 ---
 
 ## TL;DR
- - Joint FAIMI, BRIDGE, and EPIMI workshop at [MICCAI 2026](https://conferences.miccai.org/2026/en/) (Abu Dhabi)
+ - Joint FAIMI, BRIDGE, and EPIMI workshop at [MICCAI 2026](https://conferences.miccai.org/2026/en/) (Strasbourg, France)
  - Date: TBC
- - Location: ADNEC Centre Abu Dhabi (_in person only_)
+ - Location: TBC (_in person only_)
  - Full joint organizer list will be posted here as soon as it is finalized
 
 ## Workshop Overview
@@ -79,7 +79,7 @@ Notification of Acceptance: **July 31, 2026**
 
 Camera-ready Version: **August 15, 2026**
 
-Workshop: **October 4 or October 8, 2026**
+Workshop: **September 27 or October 1, 2026**
 
 
 ## FAIMI Horizon Award
