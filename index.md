@@ -46,7 +46,7 @@ In a series of interdisciplinary events, our aim is to advance the discourse aro
 [Emma Stanley](https://www.linkedin.com/in/emmastanley16/), Imperial College London, Canada. YouTube channel coordinator and MICCAI 2026 Workshop coordinator
 [Akshit Achara](https://www.kcl.ac.uk/people/akshit-achara), King's College London, UK. Website coordinator  
 [Louisa Fay](https://www.linkedin.com/in/louisa-fay-726393167/), Stanford University. MICCAI 2026 Workshop coordinator  
-[Gelei Xu](https://gracellgg.github.io/), University of Notre Dame. . MICCAI 2026 Workshop coordinator 
+[Gelei Xu](https://gracellgg.github.io/), University of Notre Dame. MICCAI 2026 Workshop coordinator 
 [Christopher Thomas Boland](https://www.linkedin.com/in/christopher-boland/), DTU Compute, Technical University of Denmark. MICCAI 2026 Workshop coordinator 
 
 Please direct any inquiries related to this initiative to <a href="mailto:faimi-organizers@googlegroups.com">faimi-organizers@googlegroups.com</a>.
