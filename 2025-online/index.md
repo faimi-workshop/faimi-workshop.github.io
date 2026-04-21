@@ -1,6 +1,6 @@
 ---
 title: Fairness of AI in Medical Imaging
-description: "Free virtual workshop, Nov 25th 2025"
+description: "Virtual workshop held Nov 25th 2025"
 layout: default
 permalink: /2025-online/index.html
 weight: -1
@@ -16,17 +16,118 @@ redirect_from: /2025-online/
         <li style="margin-bottom: 5px;"><b>Date/Time:</b> Nov 25th, 2025, 14:00-17:00 GMT/UTC</li>
         <li style="margin-bottom: 5px;"><b>Cost:</b> Fully virtual & free!</li>
         <li style="margin-bottom: 5px;"><b>Related:</b> Also see <a href="/2025-miccai-workshop/" style="color: #007bff; text-decoration: none;">our MICCAI 2025 workshop</a> and <a href="/2024-online/" style="color: #007bff; text-decoration: none;">last year's iteration</a></li>
-        <li><b>Post-Event:</b> Recordings of all talks will be made available</li>
+        <li><b>Post-Event:</b> <a href="https://www.youtube.com/playlist?list=PL043hPrfrJaN9mzdzwofDO4jdgDGSm2rf" style="color: #007bff; text-decoration: none;">Recordings of all talks are now available</a></li>
     </ul>
 </div>
 
-<div style="text-align: center; margin-bottom: 40px;">
-    <a href="https://docs.google.com/forms/d/e/1FAIpQLSczfMnYFb2Cijtx3xfnbaEFbxEaY3K0yA-Plg-jYUg1_RdmNQ/viewform?usp=dialog" 
-       style="display: inline-block; padding: 15px 30px; background-color: #ff4500; color: white; 
-              text-decoration: none; border-radius: 8px; font-size: 1.2em; font-weight: bold; 
-              box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: background-color 0.3s;">
-        Click Here to Register Now!
-    </a>
+## Recordings
+
+<p>
+  The full workshop playlist is available on YouTube:
+  <a href="https://www.youtube.com/playlist?list=PL043hPrfrJaN9mzdzwofDO4jdgDGSm2rf">MICCAI 2025 Online Workshop recordings</a>.
+</p>
+
+<style>
+  .recordings-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+    gap: 18px;
+    margin: 20px 0 30px 0;
+  }
+  .recording-card {
+    display: block;
+    text-decoration: none;
+    color: inherit;
+    background: #f7f9fc;
+    border: 1px solid #e0e6ed;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 6px 18px rgba(0, 0, 0, 0.06);
+  }
+  .recording-card img {
+    width: 100%;
+    display: block;
+  }
+  .recording-card .body {
+    padding: 14px;
+  }
+  .recording-card h4 {
+    margin: 0 0 8px 0;
+    font-size: 1rem;
+    line-height: 1.35;
+  }
+  .recording-card p {
+    margin: 0;
+    color: #4b5563;
+    font-size: 0.95rem;
+    line-height: 1.45;
+  }
+</style>
+
+<div class="recordings-grid">
+  <a class="recording-card" href="https://www.youtube.com/watch?v=4yGSuu34knc">
+    <img src="https://i1.ytimg.com/vi/4yGSuu34knc/hqdefault.jpg" alt="Opening Remarks video thumbnail">
+    <div class="body">
+      <h4>Opening Remarks</h4>
+      <p>Enzo Ferrante introduces the 2025 FAIMI online workshop.</p>
+    </div>
+  </a>
+
+  <a class="recording-card" href="https://www.youtube.com/watch?v=04fsQoxKY08">
+    <img src="https://i1.ytimg.com/vi/04fsQoxKY08/hqdefault.jpg" alt="Learning in the Age of AI video thumbnail">
+    <div class="body">
+      <h4>Learning in the Age of AI</h4>
+      <p>Leo Anthony Celi delivers the workshop keynote.</p>
+    </div>
+  </a>
+
+  <a class="recording-card" href="https://www.youtube.com/watch?v=uR2LbUhSmg0">
+    <img src="https://i2.ytimg.com/vi/uR2LbUhSmg0/hqdefault.jpg" alt="Subgroup Performance Analysis in Hidden Stratifications video thumbnail">
+    <div class="body">
+      <h4>Subgroup Performance Analysis in Hidden Stratifications</h4>
+      <p>Alceu Bissoto discusses subgroup performance analysis in hidden stratifications.</p>
+    </div>
+  </a>
+
+  <a class="recording-card" href="https://www.youtube.com/watch?v=bhzRCT0BQPU">
+    <img src="https://i3.ytimg.com/vi/bhzRCT0BQPU/hqdefault.jpg" alt="How Fair Are Foundation Models video thumbnail">
+    <div class="body">
+      <h4>How Fair Are Foundation Models?</h4>
+      <p>Abubakr Shafique explores covariate bias in histopathology foundation models.</p>
+    </div>
+  </a>
+
+  <a class="recording-card" href="https://www.youtube.com/watch?v=rYvNiNVuLeg">
+    <img src="https://i3.ytimg.com/vi/rYvNiNVuLeg/hqdefault.jpg" alt="MIMM-X video thumbnail">
+    <div class="body">
+      <h4>MIMM-X: Disentangling Spurious Correlations</h4>
+      <p>Louisa Fay presents award-winning work on spurious correlations in medical image analysis.</p>
+    </div>
+  </a>
+
+  <a class="recording-card" href="https://www.youtube.com/watch?v=xtPgVpGzGp8">
+    <img src="https://i1.ytimg.com/vi/xtPgVpGzGp8/hqdefault.jpg" alt="Bias and Generalizability of Foundation Models video thumbnail">
+    <div class="body">
+      <h4>Bias and Generalizability of Foundation Models</h4>
+      <p>Elodie Germani examines breast mammography foundation models across datasets.</p>
+    </div>
+  </a>
+
+  <a class="recording-card" href="https://www.youtube.com/watch?v=KmRjegbtCAk">
+    <img src="https://i4.ytimg.com/vi/KmRjegbtCAk/hqdefault.jpg" alt="Human-AI Alignment and Fairness video thumbnail">
+    <div class="body">
+      <h4>Human-AI Alignment, Fairness, and Trade-offs</h4>
+      <p>Mauricio Reyes covers fairness and performance trade-offs in medical imaging.</p>
+    </div>
+  </a>
+
+  <a class="recording-card" href="https://www.youtube.com/watch?v=YFFW_qEleq8">
+    <img src="https://i2.ytimg.com/vi/YFFW_qEleq8/hqdefault.jpg" alt="Panel Discussion video thumbnail">
+    <div class="body">
+      <h4>Panel Discussion</h4>
+      <p>Ben Glocker moderates a discussion with Leo Celi, Ghada Zamzmi, and Eike Petersen.</p>
+    </div>
+  </a>
 </div>
 
 ## Keynote Speaker
