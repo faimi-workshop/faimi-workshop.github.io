@@ -99,7 +99,7 @@ To be eligible for the FAIMI Horizon Award, the first author of the submitted pa
 **Emma Stanley**, Imperial College London
 **Gelei Xu**, University of Notre Dame
 **Christopher Thomas Boland**, DTU Compute, Technical University of Denmark  
-*Tareen Dawood**, DTU Compute, Technical University of Denmark  
+**Tareen Dawood**, DTU Compute, Technical University of Denmark  
 
 ## Contact
 
