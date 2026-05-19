@@ -9,8 +9,9 @@ redirect_from: /2026-miccai/
 
 ## TL;DR
  - Joint FAIMI, BRIDGE, and EPIMI workshop at [MICCAI 2026](https://conferences.miccai.org/2026/en/) (Strasbourg, France)
- - Date: TBC
- - Location: TBC (_in person only_)
+ - Date: Sept 27, 2026
+ - Location: Strasbourg, France (_in person only_)
+ - Submission platform: [OpenReview](https://openreview.net/group?id=MICCAI.org/2026/Workshop/FAIMI-BRIDGE-EPIMI)
  - Full joint organizer list will be posted here as soon as it is finalized
 
 ## Workshop Overview
@@ -32,6 +33,10 @@ We invite the submission of papers for
 
 <p style="text-align: center;"><b>FAIMI: The MICCAI 2026 Workshop on Fairness of AI in Medical Imaging</b>.</p>
 
+<p style="text-align: center; margin: 1.5rem 0;">
+  <a href="https://openreview.net/group?id=MICCAI.org/2026/Workshop/FAIMI-BRIDGE-EPIMI" style="display: inline-block; padding: 0.8rem 1.2rem; color: #ffffff; background-color: #2E73B8; border-radius: 5px; font-weight: bold; text-decoration: none;">Submit via OpenReview</a>
+</p>
+
 <p style="text-align: justify">Over the past several years, research on fairness, equity, and accountability in the context of machine learning has extensively demonstrated ethical risks in the deployment of machine learning systems in critical infrastructure, such as medical imaging.
 The FAIMI workshop aims to encourage and emphasize research on and discussion of fairness of AI within the medical imaging domain.
 We therefore invite the submission of papers, which will be selected for oral or poster presentation at the workshop. 
@@ -49,7 +54,7 @@ Topics include but are not limited to:</p>
 <p style="text-align: justify">The workshop proceedings will be published in the MICCAI workshops volumes of the Springer Lecture Notes Computer Science (LNCS) series. 
 Papers should be <i>anonymized</i> and at most 8 pages plus at most 2 extra pages of references using the <a href="https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines">LNCS format</a>. 
 The review process is conducted in a double-blind manner, following MICCAI standards. 
-Submissions are made in <a href="https://cmt3.research.microsoft.com/FAIMI2026">CMT</a>. 
+Submissions are made via <a href="https://openreview.net/group?id=MICCAI.org/2026/Workshop/FAIMI-BRIDGE-EPIMI"><b>OpenReview</b></a>. 
 </p>
 
 <p style="text-align: justify">
@@ -79,7 +84,7 @@ Notification of Acceptance: **July 31, 2026**
 
 Camera-ready Version: **August 15, 2026**
 
-Workshop: **September 27 or October 1, 2026**
+Workshop: **Sept 27, 2026**
 
 
 ## FAIMI Horizon Award
