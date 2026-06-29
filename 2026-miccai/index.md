@@ -9,8 +9,8 @@ redirect_from: /2026-miccai/
 
 ## TL;DR
  - Joint FAIMI, BRIDGE, and EPIMI workshop at [MICCAI 2026](https://conferences.miccai.org/2026/en/) (Strasbourg, France)
- - Date: Sept 27, 2026
- - Location: Strasbourg, France (_in person only_)
+ - Date: Sunday, September 27, 2026, 8:00-18:00
+ - Location: Dome 5 at Etoile (Floor U), Strasbourg, France (_in person only_)
  - Submission platform: [OpenReview](https://openreview.net/group?id=MICCAI.org/2026/Workshop/FAIMI-BRIDGE-EPIMI)
  - Full joint organizer list will be posted here as soon as it is finalized
 
@@ -78,13 +78,13 @@ While the reviewers will have access to such supplementary material, <i>they are
 
 *All times are 23:59 Pacific Time*
 
-Full Paper Deadline: **July 1, 2026**
+Full Paper Deadline: **July 6, 2026**
 
 Notification of Acceptance: **July 31, 2026**
 
 Camera-ready Version: **August 15, 2026**
 
-Workshop: **Sept 27, 2026**
+Workshop: **Sunday, September 27, 2026, 8:00-18:00, Room: Dome 5 at Etoile (Floor U)**
 
 
 ## FAIMI Horizon Award
