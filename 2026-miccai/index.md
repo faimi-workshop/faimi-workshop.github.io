@@ -26,6 +26,73 @@ The joint workshop brings together three connected perspectives needed for trust
 
 At present, the organizer list below reflects the **FAIMI team coordinating this page and the FAIMI-led workshop activities**. The full combined **FAIMI + BRIDGE + EPIMI** organizer list will be added here once confirmed.
 
+## Tentative Schedule
+
+<p class="schedule-note"><strong>Preliminary programme</strong> &mdash; session details and timings are subject to change.</p>
+
+<style>
+  .workshop-schedule {
+    width: 100%; margin: 1rem 0 2.25rem; overflow: hidden;
+    border: 1px solid #dce4ec; border-radius: 12px;
+    border-collapse: separate; border-spacing: 0;
+    box-shadow: 0 8px 24px rgba(36, 50, 75, 0.08);
+  }
+  .workshop-schedule th {
+    padding: 0.9rem 1.1rem; background: #2e73b8; color: #fff;
+    font-size: 0.8rem; letter-spacing: 0.06em; text-align: left; text-transform: uppercase;
+  }
+  .workshop-schedule th:first-child { width: 175px; }
+  .workshop-schedule td {
+    padding: 1rem 1.1rem; border-bottom: 1px solid #e7edf3;
+    color: #354052; vertical-align: top;
+  }
+  .workshop-schedule tr:last-child td { border-bottom: 0; }
+  .workshop-schedule tbody tr:nth-child(even) { background: #f7faff; }
+  .workshop-schedule tbody tr:hover { background: #eef6ff; }
+  .workshop-schedule .schedule-time {
+    color: #2e73b8; font-weight: 700; white-space: nowrap;
+  }
+  .workshop-schedule .schedule-title { color: #24324b; font-weight: 700; }
+  .workshop-schedule .schedule-detail { display: block; margin-top: 0.2rem; color: #606c71; }
+  .workshop-schedule .schedule-break td { background: #fff8ec; }
+  .workshop-schedule .schedule-keynote td { background: #f1f7ff; }
+  .schedule-note {
+    margin: 0.5rem 0 1rem; padding: 0.75rem 1rem;
+    border-left: 4px solid #f0a43c; border-radius: 0 6px 6px 0; background: #fff8ec;
+  }
+  @media (max-width: 640px) {
+    .workshop-schedule, .workshop-schedule tbody, .workshop-schedule tr, .workshop-schedule td { display: block; }
+    .workshop-schedule { border: 0; border-radius: 0; box-shadow: none; }
+    .workshop-schedule thead { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); }
+    .workshop-schedule tr {
+      margin-bottom: 0.75rem; overflow: hidden;
+      border: 1px solid #dce4ec; border-radius: 9px; box-shadow: 0 3px 10px rgba(36, 50, 75, 0.06);
+    }
+    .workshop-schedule td { border: 0; }
+    .workshop-schedule .schedule-time { padding-bottom: 0; }
+    .workshop-schedule td + td { padding-top: 0.45rem; }
+  }
+</style>
+
+<table class="workshop-schedule">
+  <thead>
+    <tr><th scope="col">Time</th><th scope="col">Programme</th></tr>
+  </thead>
+  <tbody>
+    <tr><td class="schedule-time">10:30 &ndash; 10:35</td><td><span class="schedule-title">Opening Remarks</span></td></tr>
+    <tr class="schedule-keynote"><td class="schedule-time">10:35 &ndash; 11:20</td><td><span class="schedule-title">Keynote 1</span><span class="schedule-detail">Speaker and topic to be confirmed</span></td></tr>
+    <tr><td class="schedule-time">11:20 &ndash; 12:10</td><td><span class="schedule-title">Oral Session 1</span><span class="schedule-detail">Issues in bridging research and deployment</span></td></tr>
+    <tr><td class="schedule-time">12:00 &ndash; 12:30</td><td><span class="schedule-title">Poster Session Highlight Talks</span></td></tr>
+    <tr class="schedule-break"><td class="schedule-time">12:30 &ndash; 13:30</td><td><span class="schedule-title">Lunch</span></td></tr>
+    <tr class="schedule-keynote"><td class="schedule-time">13:30 &ndash; 14:15</td><td><span class="schedule-title">Keynote 2</span><span class="schedule-detail"><em>Algorithmic fairness is harder than you think</em> &mdash; Aasa Feragen, DTU Compute</span></td></tr>
+    <tr><td class="schedule-time">14:15 &ndash; 15:05</td><td><span class="schedule-title">Oral Session 2</span><span class="schedule-detail">Understanding nuanced disparities</span></td></tr>
+    <tr class="schedule-break"><td class="schedule-time">15:05 &ndash; 16:00</td><td><span class="schedule-title">Poster Session / Break</span></td></tr>
+    <tr><td class="schedule-time">16:00 &ndash; 16:50</td><td><span class="schedule-title">Oral Session 3</span><span class="schedule-detail">Issues with foundation models and federated learning</span></td></tr>
+    <tr><td class="schedule-time">16:50 &ndash; 17:50</td><td><span class="schedule-title">FAIMI / BRIDGE / EPIMI Roundtable Discussion</span></td></tr>
+    <tr><td class="schedule-time">17:50 &ndash; 18:00</td><td><span class="schedule-title">Awards and Closing</span></td></tr>
+  </tbody>
+</table>
+
 
 
 ## Call for Papers
