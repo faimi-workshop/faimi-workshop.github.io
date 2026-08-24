@@ -9,9 +9,9 @@ redirect_from: /2026-miccai/
 
 ## TL;DR
  - Joint FAIMI, BRIDGE, and EPIMI workshop at [MICCAI 2026](https://conferences.miccai.org/2026/en/) (Strasbourg, France)
- - Date: Sunday, September 27, 2026, 8:00-18:00
- - Location: Dome 5 at Etoile (Floor U), Strasbourg, France (_in person only_)
- - Submission platform: [OpenReview](https://openreview.net/group?id=MICCAI.org/2026/Workshop/FAIMI-BRIDGE-EPIMI)
+ - Date: Sunday, September 27, 2026
+ - Location: The Berlin Room, Strasbourg Conference Centre (_in person only_)
+ - Program chairs: [Emma Stanley](https://www.linkedin.com/in/emmastanley16/) (Imperial College, UK), [Louisa Fay](https://www.linkedin.com/in/louisa-fay-726393167/) (Stanford University, USA), [Christopher Boland](https://www.linkedin.com/in/christopher-boland/) (DTU Compute, Denmark), [Gelei Xu](https://gracellgg.github.io/) (University of Notre Dame, USA)
  - Full joint organizer list will be posted here as soon as it is finalized
 
 ## Workshop Overview
@@ -80,7 +80,7 @@ At present, the organizer list below reflects the **FAIMI team coordinating this
   </thead>
   <tbody>
     <tr><td class="schedule-time">10:30 &ndash; 10:35</td><td><span class="schedule-title">Opening Remarks</span></td></tr>
-    <tr class="schedule-keynote"><td class="schedule-time">10:35 &ndash; 11:20</td><td><span class="schedule-title">Keynote 1</span><span class="schedule-detail">Speaker and topic to be confirmed</span></td></tr>
+    <tr class="schedule-keynote"><td class="schedule-time">10:35 &ndash; 11:20</td><td><span class="schedule-title">Keynote 1</span><span class="schedule-detail"><a href="https://www.medschool.umaryland.edu/profiles/doo-florence-xini/">Florence Doo</a> &mdash; title to be confirmed</span></td></tr>
     <tr><td class="schedule-time">11:20 &ndash; 12:10</td><td><span class="schedule-title">Oral Session 1</span><span class="schedule-detail">Issues in bridging research and deployment</span></td></tr>
     <tr><td class="schedule-time">12:00 &ndash; 12:30</td><td><span class="schedule-title">Poster Session Highlight Talks</span></td></tr>
     <tr class="schedule-break"><td class="schedule-time">12:30 &ndash; 13:30</td><td><span class="schedule-title">Lunch</span></td></tr>
@@ -151,7 +151,19 @@ Notification of Acceptance: **July 31, 2026**
 
 Camera-ready Version: **August 15, 2026**
 
-Workshop: **Sunday, September 27, 2026, 8:00-18:00, Room: Dome 5 at Etoile (Floor U)**
+Workshop: **Sunday, September 27, 2026, The Berlin Room, Strasbourg Conference Centre**
+
+
+## FAIMI-BRIDGE-EPIMI Workshop Award
+
+<div style="margin: 1rem 0 2rem; padding: 1.5rem; border: 1px solid #dce4ec; border-radius: 12px; background: #f7faff; text-align: center; box-shadow: 0 6px 18px rgba(36, 50, 75, 0.07);">
+  <p style="margin-top: 0;">A <strong>FAIMI-BRIDGE-EPIMI Workshop Award</strong> will be presented at the workshop, generously sponsored by <a href="https://www.heartflow.com/">Heartflow</a>.</p>
+  <a href="https://www.heartflow.com/" aria-label="Visit the Heartflow website">
+    <span style="display: inline-block; padding: 1rem 1.4rem; border-radius: 8px; background: #173f52;">
+      <img src="/images/heartflow-logo-white.svg" alt="Heartflow" style="display: block; width: 210px; max-width: 100%; height: auto;">
+    </span>
+  </a>
+</div>
 
 
 ## FAIMI Horizon Award
