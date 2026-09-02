@@ -54,13 +54,27 @@ At present, the organizer list below reflects the **FAIMI team coordinating this
   }
   .workshop-schedule .schedule-title { color: #24324b; font-weight: 700; }
   .workshop-schedule .schedule-detail { display: block; margin-top: 0.2rem; color: #606c71; }
+  .workshop-schedule .schedule-talks { margin: 0.75rem 0 0; padding-left: 1.2rem; }
+  .workshop-schedule .schedule-talks li { margin: 0.4rem 0; color: #4c596b; }
   .workshop-schedule .schedule-break td { background: #fff8ec; }
   .workshop-schedule .schedule-keynote td { background: #f1f7ff; }
+  .poster-themes {
+    display: grid; grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 1rem; margin: 1rem 0 2.25rem;
+  }
+  .poster-theme {
+    padding: 1.2rem; border: 1px solid #dce4ec; border-top: 4px solid #2e73b8;
+    border-radius: 10px; background: #fff; box-shadow: 0 5px 16px rgba(36, 50, 75, 0.07);
+  }
+  .poster-theme h3 { margin: 0 0 0.8rem; color: #24324b; font-size: 1.05rem; font-weight: 700; }
+  .poster-theme ol { margin: 0; padding-left: 1.25rem; }
+  .poster-theme li { margin: 0.55rem 0; color: #4c596b; }
   .schedule-note {
     margin: 0.5rem 0 1rem; padding: 0.75rem 1rem;
     border-left: 4px solid #f0a43c; border-radius: 0 6px 6px 0; background: #fff8ec;
   }
   @media (max-width: 640px) {
+    .poster-themes { grid-template-columns: 1fr; }
     .workshop-schedule, .workshop-schedule tbody, .workshop-schedule tr, .workshop-schedule td { display: block; }
     .workshop-schedule { border: 0; border-radius: 0; box-shadow: none; }
     .workshop-schedule thead { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); }
@@ -80,18 +94,67 @@ At present, the organizer list below reflects the **FAIMI team coordinating this
   </thead>
   <tbody>
     <tr><td class="schedule-time">10:30 &ndash; 10:35</td><td><span class="schedule-title">Opening Remarks</span></td></tr>
-    <tr class="schedule-keynote"><td class="schedule-time">10:35 &ndash; 11:20</td><td><span class="schedule-title">Keynote 1</span><span class="schedule-detail"><a href="https://www.medschool.umaryland.edu/profiles/doo-florence-xini/">Florence Doo</a> &mdash; title to be confirmed</span></td></tr>
-    <tr><td class="schedule-time">11:20 &ndash; 12:10</td><td><span class="schedule-title">Oral Session 1</span><span class="schedule-detail">Issues in bridging research and deployment</span></td></tr>
-    <tr><td class="schedule-time">12:00 &ndash; 12:30</td><td><span class="schedule-title">Poster Session Highlight Talks</span></td></tr>
+    <tr class="schedule-keynote"><td class="schedule-time">10:35 &ndash; 11:15</td><td><span class="schedule-title">Keynote 1</span><span class="schedule-detail"><em>Algorithmic fairness is harder than you think</em> &mdash; <a href="http://www2.compute.dtu.dk/~afhar/">Aasa Feragen</a>, DTU Compute</span></td></tr>
+    <tr><td class="schedule-time">11:15 &ndash; 12:05</td><td><span class="schedule-title">Oral Session 1</span><span class="schedule-detail">Understanding nuanced disparities</span><ul class="schedule-talks"><li><em>Intersectional Disentangling of Temporal and Acquisition Bias in Fetal Ultrasound</em></li><li><em>Understanding Sources of Demographic Predictability in Brain MRI via Disentangling Anatomy and Contrast</em></li><li><em>On Evaluating Subgroup Discovery in Medical Image Classification</em></li><li><em>From Fairness Findings to Fairness Claims: An Evidence Classification Scheme for Clinical AI</em></li></ul></td></tr>
+    <tr><td class="schedule-time">12:05 &ndash; 12:30</td><td><span class="schedule-title">Poster Highlight Talks</span></td></tr>
     <tr class="schedule-break"><td class="schedule-time">12:30 &ndash; 13:30</td><td><span class="schedule-title">Lunch</span></td></tr>
-    <tr class="schedule-keynote"><td class="schedule-time">13:30 &ndash; 14:15</td><td><span class="schedule-title">Keynote 2</span><span class="schedule-detail"><em>Algorithmic fairness is harder than you think</em> &mdash; Aasa Feragen, DTU Compute</span></td></tr>
-    <tr><td class="schedule-time">14:15 &ndash; 15:05</td><td><span class="schedule-title">Oral Session 2</span><span class="schedule-detail">Understanding nuanced disparities</span></td></tr>
-    <tr class="schedule-break"><td class="schedule-time">15:05 &ndash; 16:00</td><td><span class="schedule-title">Poster Session / Break</span></td></tr>
-    <tr><td class="schedule-time">16:00 &ndash; 16:50</td><td><span class="schedule-title">Oral Session 3</span><span class="schedule-detail">Issues with foundation models and federated learning</span></td></tr>
-    <tr><td class="schedule-time">16:50 &ndash; 17:50</td><td><span class="schedule-title">FAIMI / BRIDGE / EPIMI Roundtable Discussion</span></td></tr>
+    <tr class="schedule-keynote"><td class="schedule-time">13:30 &ndash; 14:10</td><td><span class="schedule-title">Keynote 2</span><span class="schedule-detail">Title TBD &mdash; <a href="https://www.medschool.umaryland.edu/profiles/doo-florence-xini/">Florence Doo</a>, University of Maryland</span></td></tr>
+    <tr><td class="schedule-time">14:10 &ndash; 15:00</td><td><span class="schedule-title">Oral Session 2</span><span class="schedule-detail">Issues in bridging research and deployment</span><ul class="schedule-talks"><li><em>Equal Accuracy, Unequal Agreement: Auditing Clinician&ndash;AI Agreement Fairness in Lung Nodule CT</em></li><li><em>False Confidence: Automated Labels Confound Fairness Audits in Cervical Spine Segmentation</em></li><li><em>When Oracle Conditioning Misleads Deployment: Conditioning-Availability Bias in Echocardiographic Segmentation</em></li><li><em>Rethinking Explainability for Clinical Trust: A Task-Specific Communicative Layer</em></li></ul></td></tr>
+    <tr class="schedule-break"><td class="schedule-time">15:00 &ndash; 16:00</td><td><span class="schedule-title">Poster Session / Break</span></td></tr>
+    <tr><td class="schedule-time">16:00 &ndash; 16:50</td><td><span class="schedule-title">Oral Session 3</span><span class="schedule-detail">Issues with foundation models and federated learning</span><ul class="schedule-talks"><li><em>Gradient Erasure and Contributory Injustice in Federated Medical Imaging AI</em></li><li><em>Look What the Probes Dragged In! Real-World Chest X-ray Shortcuts in MedCLIP</em></li><li><em>Subgroup performance analysis of adaptation strategies for chest X-ray foundation models</em></li><li><em>Foundational values for foundation models</em></li></ul></td></tr>
+    <tr><td class="schedule-time">16:50 &ndash; 17:50</td><td><span class="schedule-title">FAIMI / BRIDGE / EPIMI Round Table Discussion</span></td></tr>
     <tr><td class="schedule-time">17:50 &ndash; 18:00</td><td><span class="schedule-title">Awards and Closing</span></td></tr>
   </tbody>
 </table>
+
+## Poster Session
+
+<div class="poster-themes">
+  <section class="poster-theme">
+    <h3>Theme 1: Demographic Fairness &amp; Intersectional Disparities</h3>
+    <ol>
+      <li><em>Contrast-Induced Class Overlap as a Fairness Bottleneck in Dermatological AI: Evidence from HAM10000</em></li>
+      <li><em>When Fairness Transfer Backfires: Dark-Skin Inversion in Dermatology Foundation Models and a Minimal In-Distribution</em></li>
+      <li><em>Subgroup performance analysis of adaptation strategies for chest X-ray foundation models</em></li>
+      <li><em>Beyond Predictive Fairness: Quantifying Attribution Consistency Across Demographic Groups in Diabetic Retinopathy Screening</em></li>
+      <li><em>Understanding Sources of Demographic Predictability in Brain MRI via Disentangling Anatomy and Contrast</em></li>
+      <li><em>An Intersectional Fairness-Aware Framework for Alzheimer&rsquo;s Disease Detection Using Multimodal Data</em></li>
+      <li><em>Intersectional Disentangling of Temporal and Acquisition Bias in Fetal Ultrasound</em></li>
+      <li><em>Investigating Sex and Ethnicity Bias in Deep Learning-based Echocardiography Image Segmentation</em></li>
+    </ol>
+  </section>
+  <section class="poster-theme">
+    <h3>Theme 2: Model Robustness &amp; Deployment Risks</h3>
+    <ol>
+      <li><em>When Oracle Conditioning Misleads Deployment: Conditioning-Availability Bias in Echocardiographic Segmentation</em></li>
+      <li><em>Marginal Coverage Hides a Reduced-Ejection-Fraction Reliability Gap: Severity-Conditional Conformal Intervals on Public Echocardiography</em></li>
+      <li><em>Loss-Conditioned Utility-Fairness Boundary Modeling for Medical Imaging</em></li>
+      <li><em>Multiple Shortcut Pathways in Mammography-Based Breast Cancer Risk Prediction</em></li>
+      <li><em>Look What the Probes Dragged In! Real-World Chest X-ray Shortcuts in MedCLIP</em></li>
+      <li><em>Counterfactual Stress Testing for Image Classification Models</em></li>
+      <li><em>Hallucinations and constraints: Regulating surgical workflow recognition beyond accuracy</em></li>
+    </ol>
+  </section>
+  <section class="poster-theme">
+    <h3>Theme 3: Human-AI Interaction &amp; Values</h3>
+    <ol>
+      <li><em>Foundational values for foundation models</em></li>
+      <li><em>Gradient Erasure and Contributory Injustice in Federated Medical Imaging AI</em></li>
+      <li><em>What is AI to Us: Exploring Patient Values in Integrating AI for Epilepsy Management</em></li>
+      <li><em>Futures Before Failures: Design Fictions for Anticipatory Fairness in Surgical AI</em></li>
+    </ol>
+  </section>
+  <section class="poster-theme">
+    <h3>Theme 4: Auditing Frameworks</h3>
+    <ol>
+      <li><em>Rethinking Explainability for Clinical Trust: A Task-Specific Communicative Layer</em></li>
+      <li><em>On Evaluating Subgroup Discovery in Medical Image Classification</em></li>
+      <li><em>From Fairness Findings to Fairness Claims: An Evidence Classification Scheme for Clinical AI</em></li>
+      <li><em>Equal Accuracy, Unequal Agreement: Auditing Clinician&ndash;AI Agreement Fairness in Lung Nodule CT</em></li>
+      <li><em>False Confidence: Automated Labels Confound Fairness Audits in Cervical Spine Segmentation</em></li>
+    </ol>
+  </section>
+</div>
 
 
 
