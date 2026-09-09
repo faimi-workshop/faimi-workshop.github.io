@@ -43,7 +43,8 @@ redirect_from: /2026-online/
   }
   .symposium-keynote a { color: #fff; font-size: 1.2rem; font-weight: 700; }
   .symposium-keynote .affiliation { display: block; margin-top: 0.2rem; color: #e8f3ff; }
-  .symposium-keynote p { margin: 0.35rem 0 0; color: #e8f3ff; }
+  .symposium-keynote .talk-title { margin: 0.8rem 0 0; color: #fff; font-size: 1.05rem; font-weight: 700; }
+  .symposium-keynote .talk-label { color: #cfe7ff; font-size: 0.75rem; letter-spacing: 0.08em; text-transform: uppercase; }
   .symposium-register {
     display: inline-block; padding: 0.85rem 1.45rem; border-radius: 7px;
     color: #173f62 !important; background: #fff; font-weight: 700; text-decoration: none;
@@ -57,8 +58,8 @@ redirect_from: /2026-online/
 </style>
 
 <section class="symposium-hero">
-  <p class="symposium-eyebrow">FAIMI 2026 Online Symposium</p>
-  <h2>Bridging Regulatory Science and Medical Imaging Evaluation</h2>
+  <p class="symposium-eyebrow">Fairness of AI in Medical Imaging</p>
+  <h2>FAIMI 2026 Online Symposium</h2>
   <p class="symposium-summary">Join researchers, clinicians, and AI experts for an afternoon exploring fairness, evaluation, regulation, and trustworthy AI in medical imaging.</p>
 
   <ul class="symposium-facts">
@@ -71,6 +72,7 @@ redirect_from: /2026-online/
     <span class="label">Keynote speaker</span>
     <a href="https://www.linkedin.com/in/ghada-zamzmi-10978589/">Dr. Ghada Zamzmi</a>
     <span class="affiliation">Heartflow</span>
+    <p class="talk-title"><span class="talk-label">Keynote talk</span><br>Bridging Regulatory Science and Medical Imaging Evaluation</p>
   </div>
 
   <a class="symposium-register" href="https://us02web.zoom.us/webinar/register/WN__UE1NqHDS0ytUEdCV_2AGw">Register for free &rarr;</a>
