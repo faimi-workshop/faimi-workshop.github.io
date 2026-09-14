@@ -51,6 +51,12 @@ redirect_from: /2026-online/
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.16);
   }
   .symposium-register:hover { background: #eef7ff; text-decoration: none; }
+  .keynote-details {
+    margin: 0 0 1.25rem; padding: 1.4rem 1.5rem; border: 1px solid #dce4ec;
+    border-radius: 10px; background: #fff; box-shadow: 0 5px 16px rgba(36, 50, 75, 0.06);
+  }
+  .keynote-details h2 { margin-top: 0; color: #24324b; font-size: 1.35rem; }
+  .keynote-details p:last-child { margin-bottom: 0; }
   @media (max-width: 640px) {
     .symposium-hero { padding: 1.5rem; }
     .symposium-facts { grid-template-columns: 1fr; }
@@ -72,10 +78,22 @@ redirect_from: /2026-online/
     <span class="label">Keynote speaker</span>
     <a href="https://www.linkedin.com/in/ghada-zamzmi-10978589/">Dr. Ghada Zamzmi</a>
     <span class="affiliation">Heartflow</span>
-    <p class="talk-title"><span class="talk-label">Keynote talk</span><br>Bridging Regulatory Science and Medical Imaging Evaluation</p>
+    <p class="talk-title"><span class="talk-label">Keynote talk</span><br>The Fairness Illusion: When Equal Errors Hide Unequal Harm</p>
   </div>
 
   <a class="symposium-register" href="https://us02web.zoom.us/webinar/register/WN__UE1NqHDS0ytUEdCV_2AGw">Register for free &rarr;</a>
+</section>
+
+<section class="keynote-details">
+  <h2>Keynote Abstract</h2>
+  <p>Fairness in medical AI has largely been framed as a problem of statistical parity. But parity metrics say little about clinical meaning—the same model error or failure can carry very different consequences depending on who the patient is, what the model is intended to do, and what clinical decision follows from its output.</p>
+  <p>In this talk, drawing on a practical and regulatory-science perspective, I will present a framework for evaluating clinical AI around its intended-use population and the clinical outcomes it is meant to produce, rather than around statistical parity alone. Instead of asking only whether models are fair, I will show why the operative questions are who benefits when the model succeeds, who is harmed when it fails, and whether that harm is acceptable for the patients the technology is meant to serve. I will lay out a hierarchy of fairness questions that follows the clinical pathway from model to patient: prediction fairness, clinical response fairness, and outcome fairness. I will close with examples where favorable statistical performance failed to translate into comparable clinical benefit, and show why fair evaluation of clinical AI requires new metrics and study designs.</p>
+</section>
+
+<section class="keynote-details">
+  <h2>About Dr. Ghada Zamzmi</h2>
+  <p>Ghada Zamzmi is an AI researcher and regulatory scientist working at the intersection of artificial intelligence, healthcare, and real-world deployment. Over the past decade, she has worked across academia, government, and industry. She earned her PhD from the University of South Florida, where her research focused on multimodal AI for assessing neonatal emotions. She later worked as an AI research scientist at the National Institutes of Health, followed by a role as a staff scientist at the U.S. Food and Drug Administration, where she evaluated the safety and reliability of AI technologies deployed in clinical practice worldwide. She also serves as a subject matter expert for the European Innovation Council and SMEs Executive Agency (EISMEA), and currently works as a Regulatory Science Principal at Heartflow.</p>
+  <p>Her research spans multimodal AI, medical imaging, responsible AI development and deployment, and the regulatory science challenges of AI-enabled medical devices. She is passionate about bridging the gap between innovative AI development and the safe, effective, and reasonable deployment of these technologies in real-world clinical practice. She has received several recognitions, including MIT Innovators Under 35, and serves on organizing committees for leading conferences and organizations.</p>
 </section>
 
 Further programme details will be announced soon.
