@@ -57,9 +57,39 @@ redirect_from: /2026-online/
   }
   .keynote-details h2 { margin-top: 0; color: #24324b; font-size: 1.35rem; }
   .keynote-details p:last-child { margin-bottom: 0; }
+  .online-agenda {
+    width: 100%; margin: 1rem 0 2rem; overflow: hidden;
+    border: 1px solid #dce4ec; border-radius: 12px;
+    border-collapse: separate; border-spacing: 0;
+    box-shadow: 0 8px 24px rgba(36, 50, 75, 0.08);
+  }
+  .online-agenda th {
+    padding: 0.85rem 1rem; color: #fff; background: #2e73b8;
+    font-size: 0.8rem; letter-spacing: 0.06em; text-align: left; text-transform: uppercase;
+  }
+  .online-agenda th:first-child { width: 100px; }
+  .online-agenda td { padding: 0.95rem 1rem; border-bottom: 1px solid #e7edf3; vertical-align: top; }
+  .online-agenda tr:last-child td { border-bottom: 0; }
+  .online-agenda tbody tr:nth-child(even) { background: #f7faff; }
+  .online-agenda .agenda-time { color: #2e73b8; font-weight: 700; white-space: nowrap; }
+  .online-agenda .agenda-title { display: block; color: #24324b; font-weight: 700; }
+  .online-agenda .agenda-detail { display: block; margin-top: 0.2rem; color: #606c71; }
+  .online-agenda .agenda-keynote td { background: #eef6ff; }
+  .online-agenda .agenda-break td { background: #fff8ec; }
+  .online-agenda .agenda-section td {
+    padding: 0.55rem 1rem; color: #285f96; background: #e4f0fc;
+    font-size: 0.78rem; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase;
+  }
   @media (max-width: 640px) {
     .symposium-hero { padding: 1.5rem; }
     .symposium-facts { grid-template-columns: 1fr; }
+    .online-agenda, .online-agenda tbody, .online-agenda tr, .online-agenda td { display: block; }
+    .online-agenda { border: 0; border-radius: 0; box-shadow: none; }
+    .online-agenda thead { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); }
+    .online-agenda tr { margin-bottom: 0.7rem; border: 1px solid #dce4ec; border-radius: 8px; overflow: hidden; }
+    .online-agenda td { border: 0; }
+    .online-agenda .agenda-time { padding-bottom: 0; }
+    .online-agenda td + td { padding-top: 0.35rem; }
   }
 </style>
 
@@ -70,7 +100,7 @@ redirect_from: /2026-online/
 
   <ul class="symposium-facts">
     <li><strong>Tuesday</strong>24 November 2026</li>
-    <li><strong>13:30&ndash;17:00 GMT</strong>Time to be confirmed</li>
+    <li><strong>13:30&ndash;17:00 GMT</strong>Afternoon programme</li>
     <li><strong>Free</strong>Fully online</li>
   </ul>
 
@@ -84,6 +114,27 @@ redirect_from: /2026-online/
   <a class="symposium-register" href="https://us02web.zoom.us/webinar/register/WN__UE1NqHDS0ytUEdCV_2AGw">Register for free &rarr;</a>
 </section>
 
+## Agenda
+
+<table class="online-agenda">
+  <thead>
+    <tr><th scope="col">Time</th><th scope="col">Item</th></tr>
+  </thead>
+  <tbody>
+    <tr><td class="agenda-time">13:30</td><td><span class="agenda-title">Opening remarks</span></td></tr>
+    <tr class="agenda-keynote"><td class="agenda-time">13:40</td><td><span class="agenda-title">Keynote</span><span class="agenda-detail"><strong>Ghada Zamzmi</strong> (Heartflow): <em>The Fairness Illusion: When Equal Errors Hide Unequal Harm</em></span></td></tr>
+    <tr class="agenda-break"><td class="agenda-time">14:45</td><td><span class="agenda-title">Break</span></td></tr>
+    <tr class="agenda-section"><td colspan="2">Short talks</td></tr>
+    <tr><td class="agenda-time">15:00</td><td><span class="agenda-title">Amelia Jimenez-Sanchez</span><span class="agenda-detail"><em>In the Picture: Medical Imaging Datasets, Artifacts, and their Living Review</em></span></td></tr>
+    <tr><td class="agenda-time">15:15</td><td><span class="agenda-title">Matthew Cockayne</span><span class="agenda-detail"><em>Fair Curriculum Learning for Concept Bottleneck Models in Dermatology</em></span></td></tr>
+    <tr><td class="agenda-time">15:30</td><td><span class="agenda-title">Alceu Bissoto</span><span class="agenda-detail"><em>On Evaluating Subgroup Discovery in Medical Image Classification</em></span></td></tr>
+    <tr><td class="agenda-time">15:45</td><td><span class="agenda-title">Aparajita Kashyap</span><span class="agenda-detail"><em>A Pipeline for Enabling Path-specific Causal Fairness in Observational Health Data</em></span></td></tr>
+    <tr><td class="agenda-time">16:00</td><td><span class="agenda-title">Xiaoxiao Li</span><span class="agenda-detail"><em>DUCX: Decomposing Unfairness in Tool-Using Chest X-Ray Agents</em></span></td></tr>
+    <tr><td class="agenda-time">16:15</td><td><span class="agenda-title">FAIMI: What&rsquo;s Next?</span></td></tr>
+    <tr><td class="agenda-time">16:55</td><td><span class="agenda-title">Closing remarks</span></td></tr>
+  </tbody>
+</table>
+
 <section class="keynote-details">
   <h2>Keynote Abstract</h2>
   <p>Fairness in medical AI has largely been framed as a problem of statistical parity. But parity metrics say little about clinical meaning—the same model error or failure can carry very different consequences depending on who the patient is, what the model is intended to do, and what clinical decision follows from its output.</p>
@@ -95,5 +146,3 @@ redirect_from: /2026-online/
   <p>Ghada Zamzmi is an AI researcher and regulatory scientist working at the intersection of artificial intelligence, healthcare, and real-world deployment. Over the past decade, she has worked across academia, government, and industry. She earned her PhD from the University of South Florida, where her research focused on multimodal AI for assessing neonatal emotions. She later worked as an AI research scientist at the National Institutes of Health, followed by a role as a staff scientist at the U.S. Food and Drug Administration, where she evaluated the safety and reliability of AI technologies deployed in clinical practice worldwide. She also serves as a subject matter expert for the European Innovation Council and SMEs Executive Agency (EISMEA), and currently works as a Regulatory Science Principal at Heartflow.</p>
   <p>Her research spans multimodal AI, medical imaging, responsible AI development and deployment, and the regulatory science challenges of AI-enabled medical devices. She is passionate about bridging the gap between innovative AI development and the safe, effective, and reasonable deployment of these technologies in real-world clinical practice. She has received several recognitions, including MIT Innovators Under 35, and serves on organizing committees for leading conferences and organizations.</p>
 </section>
-
-Further programme details will be announced soon.
