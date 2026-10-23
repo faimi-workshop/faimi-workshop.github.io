@@ -125,7 +125,7 @@ redirect_from: /2026-online/
     <tr class="agenda-keynote"><td class="agenda-time">13:40</td><td><span class="agenda-title">Keynote</span><span class="agenda-detail"><strong>Ghada Zamzmi</strong> (Heartflow): <em>The Fairness Illusion: When Equal Errors Hide Unequal Harm</em></span></td></tr>
     <tr class="agenda-break"><td class="agenda-time">14:45</td><td><span class="agenda-title">Break</span></td></tr>
     <tr class="agenda-section"><td colspan="2">Short talks</td></tr>
-    <tr><td class="agenda-time">15:00</td><td><span class="agenda-title">Amelia Jimenez-Sanchez</span><span class="agenda-detail"><em>In the Picture: Medical Imaging Datasets, Artifacts, and their Living Review</em></span></td></tr>
+    <tr><td class="agenda-time">15:00</td><td><span class="agenda-title">Amelia Jiménez-Sánchez</span><span class="agenda-detail"><em>In the Picture: Medical Imaging Datasets, Artifacts, and their Living Review</em></span></td></tr>
     <tr><td class="agenda-time">15:15</td><td><span class="agenda-title">Matthew Cockayne</span><span class="agenda-detail"><em>Fair Curriculum Learning for Concept Bottleneck Models in Dermatology</em></span></td></tr>
     <tr><td class="agenda-time">15:30</td><td><span class="agenda-title">Alceu Bissoto</span><span class="agenda-detail"><em>On Evaluating Subgroup Discovery in Medical Image Classification</em></span></td></tr>
     <tr><td class="agenda-time">15:45</td><td><span class="agenda-title">Aparajita Kashyap</span><span class="agenda-detail"><em>A Pipeline for Enabling Path-specific Causal Fairness in Observational Health Data</em></span></td></tr>
